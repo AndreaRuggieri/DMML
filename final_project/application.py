@@ -6,8 +6,8 @@ import pandas as pd
 from sklearn.base import BaseEstimator, TransformerMixin
 
 # Caricamento dei dati per i menu a tendina
-actors_df = pd.read_csv('COPIA_actors.csv')
-awards_df = pd.read_csv('COPIA_actors.csv')
+actors_df = pd.read_csv('Prizes_database/filtered_prizes.csv')
+awards_df = pd.read_csv('Prizes_database/filtered_prizes.csv')
 writers_df = pd.read_csv('writers.csv')
 directors_df = pd.read_csv('directors.csv')
 genres_df = pd.read_csv('genres.csv')
@@ -21,6 +21,36 @@ genre_list = genres_df['genre'].dropna().unique().tolist()
 company_list = production_companies_df['company'].dropna().unique().tolist()
 language_list = languages_df['language'].dropna().unique().tolist()
 months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+
+def one_hot_encode_and_replace(df, column):
+    # Crea dummies dalla colonna categoriale
+    dummies = pd.get_dummies(df[column], prefix=column)
+
+    # Unisci i dummies al DataFrame originale, sostituendo la colonna esistente
+    for col in dummies.columns:
+        df[col] = dummies[col]
+
+    # Rimuovi la colonna originale
+    df.drop(columns=[column], inplace=True)
+
+    return df
+
+def multi_value_one_hot(df, column):
+    # Crea dummies dalle stringhe separate da virgole
+    s = df[column].str.get_dummies(sep=', ')
+
+    # Per ogni colonna generata, aggiungi o aggiorna i valori nel DataFrame originale
+    for col in s.columns:
+        prefixed_col = column + '_' + col
+        if prefixed_col in df.columns:
+            # Se la colonna esiste già, aggiorna i valori
+            df[prefixed_col] = df[prefixed_col] | s[col]
+        else:
+            # Altrimenti, crea una nuova colonna
+            df[prefixed_col] = s[col]
+
+    return df
+
 
 class DropOtherColumns(BaseEstimator, TransformerMixin):
     def __init__(self, prefix='Other'):
@@ -40,6 +70,9 @@ class DropOtherColumns(BaseEstimator, TransformerMixin):
 with open('models/classification/AdaBoostClassifier.pkl', 'rb') as file:
     classifier=pickle.load(file)
 
+with open('models/regression/RandomForestRegressor.pkl', 'rb') as file:
+    regressor=pickle.load(file)
+
 class DynamicFieldsApp:
     def __init__(self, master):
         self.master = master
@@ -58,7 +91,7 @@ class DynamicFieldsApp:
 
         self.actor_frames = []
         self.writer_frames = []
-
+        self.genre_frames = []
         # Carica l'immagine
         self.load_image(main_frame)
 
@@ -69,6 +102,9 @@ class DynamicFieldsApp:
         # Writer fields
         ttk.Label(main_frame, text="Insert writer", anchor='w').grid(row=200, column=0, sticky='W')
         self.add_writer_field(main_frame, removable=False, index=201)
+
+        ttk.Label(main_frame, text="Insert genre", anchor='w').grid(row=300, column=0, sticky='W')
+        self.add_genre_field(main_frame, removable=False, index=301)
 
         # Director field
         ttk.Label(main_frame, text="Insert director", anchor='w').grid(row=400, column=0, sticky='W')
@@ -110,11 +146,6 @@ class DynamicFieldsApp:
         self.budget_scale.grid(row=600, column=1, sticky='W')
         self.budget_label.grid(row=600, column=2, sticky='W')  # Positioning the label
 
-        # Genre Dropdown
-        ttk.Label(parent, text="Genre").grid(row=700, sticky='W')
-        self.genre_cb = ttk.Combobox(parent, values=genre_list, state="readonly")
-        self.genre_cb.grid(row=700, column=1, sticky='W')
-        self.genre_cb.bind("<<ComboboxSelected>>", self.check_conditions)
 
         # Language Dropdown
         ttk.Label(parent, text="Language").grid(row=800, sticky='W')
@@ -154,7 +185,8 @@ class DynamicFieldsApp:
             actors = [frame.winfo_children()[0].get() for frame in self.actor_frames]
             director = self.director_cb.get()
             writers = [frame.winfo_children()[0].get() for frame in self.writer_frames]
-            genre = self.genre_cb.get()
+            genre = [frame.winfo_children()[0].get() for frame in self.genre_frames]
+            genre = ', '.join(genre)
             language = self.language_cb.get()
             production_company = self.company_cb.get()
             month_published = str(months.index(self.month_cb.get()) + 1)
@@ -204,10 +236,123 @@ class DynamicFieldsApp:
                 'genre_War': 0,
                 'genre_Western': 0
             })
+            data = multi_value_one_hot(data, 'genre')
+            data.drop(columns=['genre'], inplace=True)
+            data['month_published'] = data['month_published'].astype(str)
 
+            #regression
+            data_reg = pd.DataFrame({
+                'duration': [duration],
+                'converted_budget': [converted_budget],
+                'genre': [genre],
+                'language': [language],
+                'production_company': [production_company],
+                'month_published': [month_published],
+                'cast_globe_nomination': [awards_info['cast_globe_nomination']],
+                'dir_oscar_nomination': [awards_info['dir_oscar_nomination']],
+                'writer_oscar_nomination': [awards_info['writer_oscar_nomination']],
+                'BAFTA_act_nom': [awards_info['BAFTA_act_nom']],
+                'BAFTA_dir_nom': [awards_info['BAFTA_dir_nom']],
+                'BAFTA_writer_nom': [awards_info['BAFTA_writer_nom']],
+                'dir_emmy_nom': [awards_info['dir_emmy_nom']],
+                'writer_emmy_nom': [awards_info['writer_emmy_nom']],
+                'act_emmy_nom': [awards_info['act_emmy_nom']],
+                'actors_films_before': [awards_info['actors_films_before']],
+                'director_films_before': [awards_info['director_films_before']],
+                'writers_films_before': [awards_info['writers_films_before']],
+                'genre_Action': 0,
+                'genre_Adult': 0,
+                'genre_Adventure': 0,
+                'genre_Animation': 0,
+                'genre_Biography': 0,
+                'genre_Comedy': 0,
+                'genre_Crime': 0,
+                'genre_Documentary': 0,
+                'genre_Drama': 0,
+                'genre_Family': 0,
+                'genre_Fantasy': 0,
+                'genre_Film-Noir': 0,
+                'genre_History': 0,
+                'genre_Horror': 0,
+                'genre_Music': 0,
+                'genre_Musical': 0,
+                'genre_Mystery': 0,
+                'genre_Romance': 0,
+                'genre_Sci-Fi': 0,
+                'genre_Sport': 0,
+                'genre_Thriller': 0,
+                'genre_War': 0,
+                'genre_Western': 0,
+                'language_Cantonese':0,
+                'language_Dutch':0,
+                'language_English':0,
+                'language_Finnish':0,
+                'language_French':0,
+                'language_German':0,
+                'language_Hindi':0,
+                'language_Italian':0,
+                'language_Japanese':0,
+                'language_Korean':0,
+                'language_Mandarin':0,
+                'language_Portuguese':0,
+                'language_Russian':0,
+                'language_Spanish':0,
+                'language_Turkish':0,
+                'production_company_Amazon':0,
+                'production_company_BBC Films':0,
+                'production_company_CJ Entertainment':0,
+                'production_company_Canal+':0,
+                'production_company_Constantin Film':0,
+                'production_company_De Laurentiis':0,
+                'production_company_Dimension Films':0,
+                'production_company_Disney':0,
+                'production_company_EuropaCorp':0,
+                'production_company_Gaumont':0,
+                'production_company_Lionsgate':0,
+                'production_company_MGM':0,
+                'production_company_Medusa':0,
+                'production_company_Millennium Films':0,
+                'production_company_Morgan Creek Entertainment':0,
+                'production_company_Paramount':0,
+                'production_company_RKO':0,
+                'production_company_Sony':0,
+                'production_company_Twentieth Century Fox':0,
+                'production_company_United Artists':0,
+                'production_company_Universal':0,
+                'production_company_Warner':0,
+                'month_published_1':0,
+                'month_published_10':0,
+                'month_published_11':0,
+                'month_published_12':0,
+                'month_published_2':0,
+                'month_published_3':0,
+                'month_published_4':0,
+                'month_published_5':0,
+                'month_published_6':0,
+                'month_published_7':0,
+                'month_published_8':0,
+                'month_published_9':0
+
+            })
+            data_reg = multi_value_one_hot(data_reg, 'genre')
+            data_reg.drop(columns=['genre'], inplace=True)
+            data_reg['month_published'] = data_reg['month_published'].astype(str)
+            data_reg = one_hot_encode_and_replace(data_reg, 'language')
+            data_reg = one_hot_encode_and_replace(data_reg, 'production_company')
+            data_reg = one_hot_encode_and_replace(data_reg, 'month_published')
+
+            revenue= regressor.predict(data_reg)
             # messagebox.showinfo("Generated Entry", data.to_string(index=False))
             prediction = classifier.predict(data)
-            messagebox.showinfo("Predizione", f"Il cluster di revenue predetto è: {prediction[0]}")
+            if(prediction[0] == 3):
+                prediction="Low"
+            elif (prediction[0] == 1):
+                prediction = "Medium-Low"
+            elif (prediction[0] == 0):
+                prediction = "Medium-High"
+            elif (prediction[0] == 2):
+                prediction = "High"
+            messagebox.showinfo("Prediction", f"The expected earnings of the movie are on the {prediction} end. The expected revenue is {revenue[0]}")
         except ValueError as ve:
             messagebox.showerror("Input Error", str(ve))
 
@@ -232,6 +377,29 @@ class DynamicFieldsApp:
         self.actor_frames.append(frame)
 
         if len(self.actor_frames) == 10:
+            add_button.state(['disabled'])
+
+    def add_genre_field(self, parent, removable=True, index=1):
+        if len(self.genre_frames) >= 5:
+            return
+
+        frame = ttk.Frame(parent)
+        frame.grid(row=index, column=0, columnspan=3, sticky="ew", pady=2)
+        cb = ttk.Combobox(frame, values=genre_list, state="readonly")
+        cb.grid(row=0, column=0, padx=5, pady=5, sticky='W')
+        cb.bind("<<ComboboxSelected>>", self.check_conditions)
+        add_button = ttk.Button(frame, text="Add",
+                                command=lambda: self.add_genre_field(parent, index=len(self.genre_frames) + 301))
+        add_button.grid(row=0, column=1, padx=5)
+
+        if removable:
+            remove_button = ttk.Button(frame, text="Remove",
+                                       command=lambda: self.remove_field(frame, self.genre_frames))
+            remove_button.grid(row=0, column=2, padx=5)
+
+        self.genre_frames.append(frame)
+
+        if len(self.genre_frames) == 10:
             add_button.state(['disabled'])
 
     def add_writer_field(self, parent, removable=True, index=201):
@@ -264,9 +432,9 @@ class DynamicFieldsApp:
 
     def check_conditions(self, event=None):
         actor_filled = any(frame.winfo_children()[0].get() for frame in self.actor_frames)
+        genre_filled = any(frame.winfo_children()[0].get() for frame in self.genre_frames)
         writer_filled = any(frame.winfo_children()[0].get() for frame in self.writer_frames)
         director_filled = bool(self.director_cb.get())
-        genre_filled = bool(self.genre_cb.get())
         language_filled = bool(self.language_cb.get())
         company_filled = bool(self.company_cb.get())
 
@@ -330,6 +498,7 @@ class DynamicFieldsApp:
             month_published = str(months.index(self.month_cb.get()) + 1)
 
             actors = [frame.winfo_children()[0].get() for frame in self.actor_frames]
+            genre = [frame.winfo_children()[0].get() for frame in self.genre_frames]
             writers = [frame.winfo_children()[0].get() for frame in self.writer_frames]
 
             awards_info = self.get_awards_info(actors, director, writers)
