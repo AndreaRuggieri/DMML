@@ -1,0 +1,3986 @@
+nominee,oscar_nomination,emmy_nomination,bafta_nomination,golden_globe_nomination,director_count,writer_count,actor_count
+Meryl Streep,21,0,7,32,0,0,45
+Woody Allen,18,0,1,7,45,45,27
+Katharine Hepburn,12,0,2,8,0,0,8
+William Wyler,12,0,0,5,5,0,0
+Jack Nicholson,12,0,1,17,1,0,30
+Bette Davis,11,0,0,3,0,0,10
+Martin Scorsese,10,0,0,9,25,3,5
+Laurence Olivier,10,0,6,5,0,0,12
+Spencer Tracy,9,0,0,4,0,0,9
+Al Pacino,9,0,1,18,0,0,36
+Denzel Washington,9,0,0,9,3,0,42
+Paul Newman,9,0,0,11,1,1,18
+Steven Spielberg,9,0,2,12,31,4,0
+Glenn Close,8,0,2,13,0,0,28
+Judi Dench,8,0,5,12,0,0,30
+Ingmar Bergman,8,0,0,1,6,7,0
+David Lean,8,0,1,4,6,1,0
+Peter O'Toole,8,0,3,10,0,0,18
+Cate Blanchett,8,0,1,10,0,0,39
+Jack Lemmon,8,0,0,22,0,0,19
+Robert De Niro,8,0,1,9,2,0,79
+Marlon Brando,8,0,1,6,1,0,17
+Billy Wilder,8,0,0,5,12,12,0
+Geraldine Page,8,0,0,9,0,0,8
+John Huston,8,0,0,7,13,4,5
+Richard Burton,7,0,3,6,0,0,9
+Jeff Bridges,7,0,0,5,0,0,47
+Fred Zinnemann,7,0,0,7,6,0,0
+Joseph L. Mankiewicz,7,0,0,2,6,4,0
+Ingrid Bergman,7,0,0,8,0,0,6
+Robert Duvall,7,0,0,7,1,1,44
+Jane Fonda,7,0,4,11,0,0,19
+Greer Garson,7,0,0,1,0,0,1
+Richard Brooks,7,0,0,2,3,2,7
+Dustin Hoffman,7,0,1,12,2,0,35
+Kate Winslet,7,0,1,11,0,0,31
+Vanessa Redgrave,6,0,2,13,0,0,23
+Elia Kazan,6,0,0,4,2,0,0
+Frances McDormand,6,0,2,6,0,0,26
+Deborah Kerr,6,0,4,4,0,0,6
+Maggie Smith,6,0,9,11,0,0,27
+Frank Capra,6,0,0,1,4,0,0
+Robert Benton,6,0,1,1,9,7,0
+Clint Eastwood,6,0,0,7,36,0,45
+Jessica Lange,6,0,1,15,0,0,21
+Leonardo DiCaprio,6,0,2,12,0,0,26
+Tom Hanks,6,0,2,10,2,2,45
+Anthony Hopkins,6,0,3,7,1,1,49
+Michael Caine,6,0,3,12,0,0,63
+Sissy Spacek,6,0,2,7,0,0,22
+Amy Adams,6,0,1,9,0,0,31
+Thelma Ritter,6,0,0,3,0,0,3
+Ellen Burstyn,6,0,1,7,0,0,25
+Norma Shearer,6,0,0,0,0,0,3
+Paul Muni,6,0,0,0,0,0,0
+Stanley Kubrick,6,0,1,4,10,8,0
+Jodie Foster,5,0,2,7,4,0,22
+Oliver Stone,5,0,0,4,19,13,1
+Gene Hackman,5,0,1,8,0,0,50
+Gregory Peck,5,0,0,6,0,0,11
+Nicole Kidman,5,0,1,14,0,0,47
+Sean Penn,5,0,0,5,4,3,36
+Elizabeth Taylor,5,0,2,4,0,1,10
+George Cukor,5,0,0,3,7,0,0
+Susan Hayward,5,0,0,2,0,0,5
+Kenneth Branagh,5,0,1,4,14,6,19
+Gary Cooper,5,0,0,2,0,0,5
+Warren Beatty,5,0,0,8,4,5,8
+Albert Finney,5,0,3,8,0,0,18
+Anne Bancroft,5,0,5,8,0,0,20
+Michelle Williams,5,0,0,6,0,0,25
+Paul Thomas Anderson,5,0,0,0,8,8,0
+James Stewart,5,0,0,3,0,0,11
+Alfred Hitchcock,5,0,0,1,15,1,0
+Robert Altman,5,0,0,4,20,5,0
+George Clooney,5,0,0,10,6,3,32
+Olivia de Havilland,5,0,0,3,0,0,3
+Michael Curtiz,5,0,0,0,5,0,0
+Susan Sarandon,5,0,2,9,0,0,50
+Arthur Kennedy,5,0,0,2,0,0,7
+King Vidor,5,0,0,1,3,0,1
+Emma Thompson,5,0,4,9,0,5,27
+Alec Guinness,5,0,3,3,0,0,15
+Fredric March,5,0,0,3,0,0,4
+George Seaton,5,0,0,0,2,2,0
+Morgan Freeman,5,0,0,5,1,0,68
+Irene Dunne,5,0,0,0,0,0,2
+George Stevens,5,0,0,3,3,0,0
+Annette Bening,5,0,2,9,0,0,28
+Jennifer Jones,5,0,0,2,0,0,6
+Peter Weir,5,0,0,4,10,4,3
+Carl Foreman,5,0,0,0,0,1,0
+Shirley MacLaine,5,0,4,18,0,0,20
+John Ford,5,0,0,1,6,0,2
+Bradley Cooper,5,0,1,4,1,1,29
+Audrey Hepburn,5,0,5,9,0,0,8
+Daniel Day-Lewis,5,0,4,8,0,0,14
+Leo McCarey,5,0,0,1,1,1,0
+Julianne Moore,5,0,0,9,0,0,50
+Clarence Brown,5,0,0,0,5,0,0
+Joanne Woodward,4,0,2,10,0,0,5
+Philip Seymour Hoffman,4,0,0,5,0,0,36
+Claude Rains,4,0,0,0,0,0,5
+Montgomery Clift,4,0,0,1,0,0,5
+Maureen Stapleton,4,0,0,5,0,0,13
+William Hurt,4,0,1,5,0,0,41
+Jane Wyman,4,0,0,4,0,0,2
+Francis Ford Coppola,4,0,1,6,19,13,0
+Mickey Rooney,4,0,0,2,0,0,17
+Mike Nichols,4,0,0,5,16,0,0
+Joaquin Phoenix,4,0,2,6,0,0,25
+Sidney Lumet,4,0,0,6,17,2,0
+Geoffrey Rush,4,0,1,6,0,0,25
+Barbara Stanwyck,4,0,0,4,0,0,9
+Mike Leigh,4,0,0,0,7,7,0
+Ben Hecht,4,0,0,0,0,6,0
+Paddy Chayefsky,4,0,2,0,0,2,0
+Jennifer Lawrence,4,0,0,4,0,0,20
+Anthony Quinn,4,0,0,5,0,0,15
+Ethel Barrymore,4,0,0,0,0,0,1
+Saoirse Ronan,4,0,3,4,0,0,19
+Kathy Bates,4,0,1,8,0,0,44
+Emma Stone,4,0,1,5,0,0,20
+Jane Alexander,4,0,0,2,0,0,13
+Burt Lancaster,4,0,0,5,0,0,14
+Glenda Jackson,4,0,3,8,0,0,3
+Lee Grant,4,0,0,5,1,0,13
+Christian Bale,4,0,1,5,0,0,38
+Shelley Winters,4,0,0,6,0,0,15
+Agnes Moorehead,4,0,0,2,0,0,3
+Rosalind Russell,4,0,0,5,0,0,2
+Tommy Lee Jones,4,0,2,4,2,1,36
+Penélope Cruz,4,0,0,4,0,0,25
+Jon Voight,4,0,0,10,0,1,34
+Julia Roberts,4,0,2,9,0,0,36
+Ed Harris,4,0,0,6,2,1,77
+Roman Polanski,4,0,0,2,15,8,2
+Brad Pitt,4,0,0,6,0,0,43
+Neil Simon,4,0,2,0,0,12,0
+William Rose,4,0,1,0,0,5,4
+Holly Hunter,4,0,2,7,0,0,26
+Marsha Mason,4,0,1,4,0,0,6
+Viola Davis,4,0,1,5,0,0,24
+Mark Ruffalo,4,0,0,3,1,0,38
+Diane Keaton,4,0,3,9,1,0,34
+Charles Boyer,4,0,0,1,0,0,8
+Helen Mirren,4,0,2,16,0,0,37
+Norman Krasna,4,0,0,0,0,2,0
+Ben Kingsley,4,0,1,7,0,0,48
+Walter Brennan,4,0,0,0,0,0,9
+Willem Dafoe,4,0,0,3,0,0,64
+Federico Fellini,4,0,0,0,5,5,0
+Robin Williams,4,0,2,10,0,0,44
+Julie Christie,4,0,5,3,0,0,15
+Alan Arkin,4,0,0,7,0,0,32
+George C. Scott,4,0,0,5,0,0,14
+Robert Riskin,4,0,0,0,0,1,0
+Barry Levinson,4,0,0,2,21,8,2
+Frank Lloyd,4,0,0,0,3,1,0
+Walter Huston,4,0,0,1,0,0,5
+Renée Zellweger,4,0,1,7,0,0,25
+Javier Bardem,4,0,0,4,0,0,20
+Anjelica Huston,3,0,3,8,2,0,31
+Rod Steiger,3,0,0,2,0,0,22
+Sylvester Stallone,3,0,1,2,7,16,49
+Ryan Gosling,3,0,1,5,1,1,21
+Peter Ustinov,3,0,0,3,0,0,12
+Laura Dern,3,0,1,8,0,0,30
+Milos Forman,3,0,0,4,7,1,4
+Written by Woody Allen,3,0,0,0,0,0,0
+James Mason,3,0,2,3,0,0,13
+Greta Garbo,3,0,0,0,0,0,1
+George Lucas,3,0,0,2,6,14,0
+Gary Oldman,3,0,2,1,1,1,43
+Tom Cruise,3,0,1,7,0,1,38
+Jason Robards,3,0,0,0,0,0,20
+Bernardo Bertolucci,3,0,0,3,9,6,0
+David Fincher,3,0,0,3,10,0,0
+Preston Sturges,3,0,0,0,2,5,0
+Ronald Colman,3,0,0,1,0,0,6
+James L. Brooks,3,0,0,3,6,6,1
+Sigourney Weaver,3,0,1,7,0,0,44
+Claudette Colbert,3,0,0,1,0,0,2
+Dalton Trumbo,3,0,0,0,1,8,1
+Joan Allen,3,0,1,3,0,0,22
+William Powell,3,0,0,0,0,0,2
+Joan Crawford,3,0,0,1,0,0,9
+Charles Coburn,3,0,0,0,0,0,6
+John Schlesinger,3,0,0,3,10,0,0
+Clark Gable,3,0,0,2,0,0,2
+Carol Reed,3,0,0,1,1,0,0
+Dame Edith Evans,3,0,0,0,0,0,0
+Teresa Wright,3,0,0,0,0,0,4
+Charles Laughton,3,0,0,1,1,0,4
+Stanley Kramer,3,0,0,5,5,0,0
+Robert Rossen,3,0,0,1,0,1,0
+Marcello Mastroianni,3,0,0,4,0,0,9
+Anne Revere,3,0,0,0,0,0,1
+Lewis Milestone,3,0,0,0,3,0,0
+Marisa Tomei,3,0,0,2,0,0,32
+Diane Ladd,3,0,0,4,1,1,19
+Quentin Tarantino,3,0,0,4,9,12,6
+Angela Lansbury,3,0,0,15,0,0,12
+Jack Palance,3,0,0,1,0,0,11
+Ang Lee,3,0,0,4,16,6,8
+Clifton Webb,3,0,0,2,0,0,1
+Gloria Swanson,3,0,0,2,0,0,2
+Debra Winger,3,0,1,4,0,0,13
+Terrence Malick,3,0,0,1,6,6,0
+Bing Crosby,3,0,0,1,0,0,4
+Laura Linney,3,0,0,6,0,0,27
+Stephen Daldry,3,0,0,2,4,0,0
+Julie Andrews,3,0,1,10,0,0,16
+Russell Crowe,3,0,1,6,1,0,31
+Will Smith,3,0,0,5,0,0,27
+Gladys Cooper,3,0,0,0,0,0,3
+Sidney Howard,3,0,0,0,0,6,0
+Gig Young,3,0,0,2,0,0,1
+Dianne Wiest,3,0,1,4,0,0,23
+Alvin Sargent,3,0,1,0,0,9,0
+Maximilian Schell,3,0,0,4,0,0,11
+Celeste Holm,3,0,0,1,0,0,2
+Viggo Mortensen,3,0,2,4,0,0,31
+Piper Laurie,3,0,0,4,0,0,14
+Steven Soderbergh,3,0,0,2,29,5,0
+Sydney Pollack,3,0,0,3,11,0,10
+Humphrey Bogart,3,0,0,0,0,0,13
+Frances Marion,3,0,0,0,0,1,0
+Charles Bickford,3,0,0,0,0,0,5
+Nick Nolte,3,0,0,5,0,0,49
+"Frances Goodrich, Albert Hackett",3,0,0,0,0,1,0
+Jessica Chastain,3,0,0,5,0,0,21
+James Cagney,3,0,0,0,0,0,5
+Hans Kraly,3,0,0,0,0,0,0
+Fay Bainter,3,0,0,1,0,0,3
+Wendy Hiller,3,0,2,2,0,0,1
+Edward Norton,3,0,0,2,2,1,24
+Faye Dunaway,3,0,2,10,0,0,29
+Billy Bob Thornton,3,0,0,6,3,3,43
+Norman Jewison,3,0,0,3,14,0,1
+Joe Pesci,3,0,0,3,0,0,19
+Natalie Portman,3,0,1,4,1,1,28
+Alexander Payne,3,0,0,4,7,8,0
+Matt Damon,3,0,1,6,0,3,44
+Dudley Nichols,3,0,0,0,0,3,0
+Octavia Spencer,3,0,0,3,0,0,30
+Martin Landau,3,0,1,3,0,0,21
+William Holden,3,0,0,0,0,0,11
+"Ruth Gordon, Garson Kanin",3,0,0,0,0,0,0
+"Norman Panama, Melvin Frank",3,0,0,0,0,0,0
+Ruth Prawer Jhabvala,3,0,4,0,0,8,0
+John Cassavetes,3,0,0,2,0,2,5
+David O. Russell,3,0,0,2,9,7,0
+Horton Foote,3,0,0,0,0,3,1
+Anthony Minghella,3,0,0,3,5,5,0
+Johnny Depp,3,0,0,10,0,0,44
+Bob Fosse,3,0,0,2,0,1,0
+Robert Downey Jr.,3,0,1,4,0,0,49
+Ernst Lubitsch,3,0,0,0,0,0,0
+Claire Trevor,3,0,0,0,0,0,1
+John Boorman,3,0,0,2,12,5,0
+Alan Jay Lerner,3,0,0,0,0,4,0
+Sally Field,3,0,1,11,1,0,20
+Charlize Theron,3,0,1,6,0,0,34
+Carey Mulligan,3,0,0,1,0,0,13
+Walter Matthau,3,0,0,8,0,0,21
+Kirk Douglas,3,0,0,3,0,0,12
+"Billy Wilder, I. A. L. Diamond",3,0,0,0,0,0,0
+Woody Harrelson,3,0,0,4,0,0,57
+Written by Quentin Tarantino,3,0,0,0,0,0,0
+Sam Wood,3,0,0,0,1,0,0
+Arthur Penn,3,0,0,1,4,0,0
+David Lynch,3,0,0,2,10,8,2
+Louis Malle,3,0,0,1,3,1,0
+Lamar Trotti,3,0,0,0,0,3,0
+Melvyn Douglas,3,0,0,3,0,0,5
+Olivia Colman,3,0,1,3,0,0,7
+Ernest Lehman,3,0,0,0,0,4,0
+Michelle Pfeiffer,3,0,2,7,0,0,37
+Written by Mike Leigh,3,0,0,0,0,0,0
+Ridley Scott,3,0,1,4,24,0,0
+James Ivory,3,0,1,3,11,2,0
+Robert Redford,3,0,0,6,9,0,27
+Eleanor Parker,3,0,0,1,0,0,3
+Written by Martin McDonagh,3,0,0,0,0,0,0
+Christopher Plummer,3,0,0,4,0,0,48
+Natalie Wood,3,0,0,6,0,0,6
+Jane Campion,3,0,0,1,5,4,0
+Charles Chaplin,3,0,0,0,8,9,8
+Joan Fontaine,3,0,0,0,0,0,4
+José Ferrer,3,0,0,1,0,0,6
+Tennessee Williams,2,0,0,0,0,3,0
+Melissa Leo,2,0,0,1,0,0,31
+Ralph Fiennes,2,0,1,5,0,0,36
+Robert Pirosh,2,0,0,0,0,0,0
+Graham Greene,2,0,0,0,0,6,17
+Ralph Richardson,2,0,2,0,0,0,5
+T. E. B. Clarke,2,0,0,0,0,0,0
+Written for the screen by Joel Coen & Ethan Coen,2,0,0,0,0,0,0
+Roy Scheider,2,0,0,1,0,0,17
+Anne Hathaway,2,0,0,3,0,0,28
+Peter Finch,2,0,5,2,0,0,5
+James Whitmore,2,0,0,2,0,0,13
+Written by Mark Boal,2,0,0,0,0,0,0
+Angela Bassett,2,0,0,1,0,0,27
+Jeremy Renner,2,0,0,1,0,0,24
+Karl Malden,2,0,0,3,0,0,11
+Colin Firth,2,0,0,2,0,0,34
+Mercedes McCambridge,2,0,0,1,0,0,3
+"Edna Anhalt, Edward Anhalt",2,0,0,0,0,0,0
+Elsa Lanchester,2,0,0,1,0,0,3
+Michael Shannon,2,0,0,1,0,0,37
+Written by Joel Coen & Ethan Coen,2,0,0,0,0,0,0
+Cesare Zavattini,2,0,0,0,0,1,0
+Sandra Bullock,2,0,0,5,0,0,34
+Mildred Dunnock,2,0,0,3,0,0,3
+John Wayne,2,0,0,1,1,0,8
+Vincente Minnelli,2,0,0,3,9,0,0
+Winona Ryder,2,0,1,3,0,0,28
+Richard Jenkins,2,0,0,1,0,0,53
+Screenplay by Nick Hornby,2,0,0,0,0,0,0
+"Richard Schweizer, David Wechsler",2,0,0,0,0,0,0
+Christoph Waltz,2,0,0,3,0,0,13
+"David Lean, Anthony Havelock-Allan, Ronald Neame",2,0,0,0,0,0,0
+Joel Coen and Ethan Coen,2,0,0,0,0,0,0
+Sophia Loren,2,0,0,3,0,0,5
+Tom Wilkinson,2,0,0,4,0,0,39
+Ruth Gordon,2,0,0,3,0,1,3
+Ethan Hawke,2,0,0,1,2,1,43
+Jules Dassin,2,0,0,0,2,2,1
+Ron Howard,2,0,0,5,26,2,7
+Shirley Knight,2,0,0,3,0,0,15
+Peter Jackson,2,0,0,4,11,2,1
+Helen Hunt,2,0,0,8,1,0,20
+Helena Bonham Carter,2,0,1,8,0,0,31
+Peter Falk,2,0,0,9,0,0,16
+Robert Bolt,2,0,0,0,0,5,0
+Frederic Raphael,2,0,0,0,0,2,0
+Robert Anderson,2,0,0,0,0,0,3
+Steve McQueen,2,0,0,5,4,3,8
+Paul Scofield,2,0,2,2,0,0,3
+Simone Signoret,2,0,0,2,0,0,0
+Hugh Griffith,2,0,1,2,0,0,6
+Lynn Redgrave,2,0,1,3,0,0,10
+"Nedrick Young, Harold Jacob Smith",2,0,0,0,0,0,0
+Screenplay by David Hare,2,0,0,0,0,0,0
+Screenplay by Ronald Harwood,2,0,0,0,0,0,0
+Robert Wise,2,0,0,5,7,0,0
+Sidney Poitier,2,0,0,7,2,0,7
+Written by Kenneth Lonergan,2,0,0,0,0,0,0
+Tom Courtenay,2,0,2,1,0,0,13
+Jason Reitman,2,0,0,1,8,4,0
+Gus Van Sant,2,0,0,0,14,5,1
+John Gielgud,2,0,2,3,0,0,18
+"Irving Ravetch, Harriet Frank, Jr.",2,0,0,0,0,0,0
+Kim Stanley,2,0,0,1,0,0,1
+Joyce Redman,2,0,0,1,0,0,0
+Jude Law,2,0,0,4,0,0,31
+Patricia Neal,2,0,0,2,0,0,5
+Ian McKellen,2,0,0,3,0,0,27
+Janet McTeer,2,0,0,4,0,1,10
+Rex Harrison,2,0,1,4,0,0,4
+Richard Harris,2,0,1,2,0,1,15
+Hilary Swank,2,0,1,3,0,0,18
+Michael Cacoyannis,2,0,0,1,2,2,0
+Angelina Jolie,2,0,0,6,3,2,31
+Catherine Keener,2,0,0,2,0,0,41
+Samantha Morton,2,0,0,2,0,0,21
+Roberto Benigni,2,0,0,0,3,3,6
+Sam Mendes,2,0,0,3,7,0,0
+M. Night Shyamalan,2,0,0,0,13,15,6
+Benicio Del Toro,2,0,1,0,1,0,31
+Marcia Gay Harden,2,0,0,0,0,0,34
+James Cameron,2,0,0,2,7,10,0
+Atom Egoyan,2,0,0,0,7,4,1
+Abby Mann,2,0,0,0,0,1,0
+Djimon Hounsou,2,0,0,1,0,0,28
+Juliette Binoche,2,0,1,3,0,0,31
+Naomi Watts,2,0,0,1,0,0,36
+Emily Watson,2,0,0,5,0,0,21
+Written by Noah Baumbach,2,0,0,0,0,0,0
+Judy Garland,2,0,0,2,0,0,5
+Edmond O'Brien,2,0,0,3,1,0,6
+Lee J. Cobb,2,0,0,2,0,0,6
+Millard Kaufman,2,0,0,0,0,1,0
+"Betty Comden, Adolph Green",2,0,0,0,0,3,0
+Nicolas Cage,2,0,1,4,0,0,69
+Liza Minnelli,2,0,1,6,0,0,7
+"Beirne Lay, Jr.",2,0,0,0,0,0,0
+Dyan Cannon,2,0,0,3,0,0,12
+Goldie Hawn,2,0,1,8,0,0,14
+Grace Kelly,2,0,0,2,0,0,2
+Sylvia Miles,2,0,0,0,0,0,7
+Leslie Caron,2,0,1,3,0,0,5
+George Roy Hill,2,0,0,0,5,0,0
+Frank Sinatra,2,0,0,3,0,0,4
+Eddie Albert,2,0,0,2,0,0,11
+Frank Darabont,2,0,0,0,4,3,0
+Paul Attanasio,2,0,1,0,0,4,0
+Casey Affleck,2,0,1,2,1,2,26
+Michael Wilson,2,0,0,0,0,1,1
+Marion Cotillard,2,0,0,3,0,0,27
+William Goldman,2,0,2,0,0,16,0
+John Michael Hayes,2,0,0,0,0,6,0
+Kevin Spacey,2,0,0,8,2,1,39
+Bennett Miller,2,0,0,0,3,0,0
+Barbra Streisand,2,0,2,11,3,1,13
+Mark Robson,2,0,0,0,1,0,0
+Brenda Blethyn,2,0,0,3,0,0,20
+Estelle Parsons,2,0,0,0,0,0,3
+Jamie Foxx,2,0,0,3,0,0,28
+Eileen Heckart,2,0,0,1,0,0,4
+Screenplay by David Magee,2,0,0,0,0,0,0
+Mike Figgis,2,0,1,1,5,4,0
+Tim Robbins,2,0,1,4,2,2,28
+Mel Gibson,2,0,0,4,5,3,37
+"Melville Shavelson, Jack Rose",2,0,0,0,0,0,0
+John Sayles,2,0,0,0,15,18,5
+James Dean,2,0,0,0,0,1,4
+Paul Osborn,2,0,0,0,1,3,0
+John Malkovich,2,0,1,3,0,0,42
+Paul Giamatti,2,0,0,5,0,0,43
+Joshua Logan,2,0,0,2,2,0,0
+Keira Knightley,2,0,0,3,0,0,24
+Reese Witherspoon,2,0,0,6,0,0,30
+Rachel Weisz,2,0,0,3,0,0,28
+Anna Magnani,2,0,0,3,0,0,1
+Arthur O'Connell,2,0,0,0,0,0,3
+Sal Mineo,2,0,0,1,0,0,4
+Heath Ledger,2,0,0,2,0,0,12
+Arnold Schulman,2,0,1,0,0,2,0
+Ann-Margret,2,0,0,9,0,0,11
+Lina Wertmüller,2,0,0,0,0,0,0
+Marjorie Rambeau,2,0,0,0,0,0,3
+Richard Dreyfuss,2,0,0,4,0,0,33
+John Travolta,2,0,1,7,0,0,43
+Melinda Dillon,2,0,0,0,0,0,11
+Henry Fonda,2,0,0,2,0,0,16
+Adam Driver,2,0,1,2,0,0,13
+Sidney Buchman,2,0,0,0,0,1,0
+Jean Simmons,2,0,0,6,0,0,9
+Peter Shaffer,2,0,1,0,0,1,0
+Joan Cusack,2,0,0,1,0,0,32
+Yorgos Lanthimos,2,0,0,0,2,1,0
+"Woody Allen, Marshall Brickman",2,0,2,0,0,4,0
+Vivien Leigh,2,0,1,1,0,0,2
+Bruce Dern,2,0,0,3,0,0,39
+Richard Farnsworth,2,0,0,3,0,0,10
+John Hurt,2,0,1,2,0,0,48
+Christopher Walken,2,0,0,1,0,0,59
+Jill Clayburgh,2,0,1,4,0,0,11
+Max von Sydow,2,0,0,2,0,0,34
+Irving Berlin,2,0,0,0,0,0,0
+Scarlett Johansson,2,0,2,5,0,0,42
+Christopher Nolan,2,0,0,2,10,8,0
+Alan J. Pakula,2,0,0,1,9,3,0
+John Garfield,2,0,0,0,0,0,2
+Nunnally Johnson,2,0,0,0,1,4,0
+Kevin Costner,2,0,1,5,3,0,36
+Adam McKay,2,0,1,1,7,7,0
+Spike Lee,2,0,0,2,19,8,8
+Burgess Meredith,2,0,0,1,0,0,15
+Jack Warden,2,0,0,0,0,0,23
+Isabelle Adjani,2,0,0,0,0,0,9
+Emeric Pressburger,2,0,0,0,1,1,0
+Andrew Garfield,2,0,1,2,0,0,10
+Mahershala Ali,2,0,0,2,0,0,12
+Monty Woolley,2,0,0,0,0,0,1
+Walter Pidgeon,2,0,0,0,0,0,3
+Lillian Hellman,2,0,0,0,0,1,0
+Philip Dunne,2,0,0,0,1,3,0
+"Charles Brackett, Billy Wilder",2,0,0,0,0,1,0
+Jim Sheridan,2,0,0,1,5,1,1
+Jessica Tandy,2,0,2,4,0,0,13
+Daniel Kaluuya,2,0,1,1,0,0,5
+Orson Welles,2,0,0,1,4,5,9
+Cary Grant,2,0,0,5,0,0,6
+Sam Rockwell,2,0,0,3,0,0,38
+Margot Robbie,2,0,3,2,0,0,12
+Alan Parker,2,0,1,3,12,4,0
+Robert Donat,2,0,1,1,0,0,0
+Robert Getchell,2,0,1,0,0,1,0
+Leslie Howard,2,0,0,0,0,0,5
+Helen Hayes,2,0,0,2,0,0,1
+Harold Pinter,2,0,3,0,0,4,3
+Rowland Brown,2,0,0,0,0,0,0
+Kurt Luedtke,2,0,1,0,0,1,0
+Norman Taurog,2,0,0,0,3,0,0
+Josef Von Sternberg,2,0,0,0,3,0,0
+Marie Dressler,2,0,0,0,0,0,1
+Charles Durning,2,0,0,4,0,0,35
+John Lithgow,2,0,0,5,0,0,35
+Wolfgang Petersen,2,0,0,0,10,2,0
+Wallace Beery,2,0,0,0,0,0,1
+George Arliss,2,0,0,0,0,0,1
+Whoopi Goldberg,2,0,1,3,0,0,31
+Lionel Barrymore,2,0,0,0,0,0,4
+Ruth Chatterton,2,0,0,0,0,0,0
+Julie Walters,2,0,4,2,0,0,20
+Cher,2,0,1,6,115,108,973
+Roland Joffé,2,0,0,2,12,3,0
+Frank Borzage,2,0,0,0,3,0,0
+Judy Davis,2,0,2,6,0,0,17
+Janet Gaynor,2,0,0,0,0,0,1
+James Woods,2,0,0,9,0,0,39
+Bo Goldman,2,0,1,0,0,6,0
+Written by Rian Johnson,2,0,0,0,0,0,0
+Robert Lord,2,0,0,0,0,1,0
+Lasse Hallström,2,0,0,0,16,1,0
+William Wellman,2,0,0,0,0,0,1
+Bette Midler,2,0,1,7,0,0,20
+Dame May Whitty,2,0,0,0,0,0,0
+Peter Yates,2,0,0,2,10,0,0
+Thomas Mitchell,2,0,0,0,0,0,7
+Robert Montgomery,2,0,0,0,0,0,1
+"Pierre Collings, Sheridan Gibney",2,0,0,0,0,0,0
+Gregory La Cava,2,0,0,0,2,0,0
+Gale Sondergaard,2,0,0,0,0,0,1
+Maria Ouspenskaya,2,0,0,0,0,0,0
+Alice Brady,2,0,0,0,0,0,1
+Beulah Bondi,2,0,0,0,0,0,4
+Luise Rainer,2,0,0,0,0,0,0
+Judd Hirsch,2,0,0,8,0,0,7
+Akim Tamiroff,2,0,0,1,0,0,5
+Basil Rathbone,2,0,0,0,0,0,4
+Moss Hart,2,0,0,0,0,1,0
+Victor McLaglen,2,0,0,0,0,0,3
+W. S. Van Dyke,2,0,0,0,0,0,0
+Frank Morgan,2,0,0,0,0,0,1
+J. Carrol Naish,2,0,0,0,0,0,2
+Geena Davis,2,0,1,4,0,0,18
+Talia Shire,2,0,0,1,0,0,15
+Jonah Hill,2,0,0,2,0,0,30
+Alejandro G. Iñárritu,2,0,1,0,5,2,0
+Otto Preminger,2,0,0,2,5,0,0
+Neil Jordan,2,0,0,1,12,7,1
+Miranda Richardson,2,0,3,7,0,0,23
+John Steinbeck,2,0,0,0,0,3,0
+Gloria Grahame,2,0,0,1,0,0,8
+Loretta Young,2,0,0,2,0,0,5
+Albert Maltz,2,0,0,0,0,2,0
+J.K. Simmons,2,0,0,1,0,0,54
+Eddie Redmayne,2,0,1,2,0,0,16
+Benedict Cumberbatch,2,0,0,3,0,0,21
+Robert Towne,2,0,1,0,4,9,1
+Madeline Kahn,2,0,0,3,0,0,11
+Barry Fitzgerald,2,0,0,1,0,0,6
+Edmund Gwenn,2,0,0,2,0,0,4
+Rooney Mara,2,0,0,2,0,0,13
+Alfonso Cuarón,2,0,0,2,7,4,0
+Melissa McCarthy,2,0,1,2,0,3,15
+Sally Hawkins,2,0,1,3,0,0,17
+Peter Sellers,2,0,3,5,0,0,14
+Michael Fassbender,2,0,1,3,0,0,24
+Liv Ullmann,2,0,0,5,2,1,6
+John Singleton,2,0,0,0,9,5,0
+Vincent Gardenia,2,0,0,0,0,0,8
+Philip Yordan,2,0,0,0,0,2,0
+Anne Baxter,2,0,0,1,0,0,3
+William Friedkin,2,0,0,2,15,3,0
+Julius J. Epstein,2,0,0,0,0,3,0
+Henry King,2,0,0,1,1,1,7
+Mary McDonnell,2,0,0,2,0,0,11
+Richard Murphy,2,0,0,0,0,0,1
+Written by Damien Chazelle,2,0,0,0,0,0,0
+Jacki Weaver,2,0,0,1,0,0,11
+Stephen Frears,2,0,0,1,16,0,0
+Cecil Kellaway,2,0,0,0,0,0,6
+Steven Zaillian,2,0,2,0,3,11,0
+Gena Rowlands,2,0,0,8,0,0,15
+Burt Reynolds,1,0,0,7,3,0,48
+Richard Price,1,0,0,0,0,7,0
+Tess Harper,1,0,0,1,0,0,16
+Stephen Rea,1,0,1,1,0,1,25
+Mary Elizabeth Mastrantonio,1,0,0,1,0,0,10
+Stockard Channing,1,0,0,2,0,0,24
+Greg Kinnear,1,0,0,1,0,0,34
+"Hesper Anderson, Mark Medoff",1,0,1,0,0,0,0
+Harrison Ford,1,0,1,4,0,0,41
+Gwyneth Paltrow,1,0,0,2,0,0,32
+Beth Henley,1,0,0,0,0,2,0
+Richard Friedenberg,1,0,0,0,0,3,1
+Pete Postlethwaite,1,0,0,0,0,0,20
+Peggy Ashcroft,1,0,3,2,0,0,1
+Kim Basinger,1,0,0,2,0,0,31
+Marlee Matlin,1,0,0,3,0,0,3
+Dennis Hopper,1,0,0,2,5,1,44
+Denholm Elliott,1,0,2,0,0,0,17
+Fernanda Montenegro,1,0,0,1,0,0,5
+Kathleen Turner,1,0,0,4,0,0,18
+"Raynold Gideon, Bruce A. Evans",1,0,0,0,0,0,0
+Rachel Griffiths,1,0,0,4,1,0,14
+Tom Berenger,1,0,0,1,0,0,28
+Sean Connery,1,0,4,2,0,0,38
+Anna Paquin,1,0,0,5,0,0,25
+"Pat Conroy, Becky Johnston",1,0,0,0,0,0,0
+Albert Brooks,1,0,0,1,3,3,21
+Arthur Miller,1,0,0,0,0,4,0
+John Hodge,1,0,1,0,0,9,0
+"Ethan Coen, Joel Coen",1,0,0,1,7,5,0
+Ted Tally,1,0,1,0,0,7,0
+James Toback,1,0,0,0,6,8,1
+Cameron Crowe,1,0,0,0,7,7,0
+Haing S. Ngor,1,0,0,1,0,0,4
+Screenplay by Jan Sardi;  Story by Scott Hicks,1,0,0,0,0,0,0
+Richard LaGravenese,1,0,0,0,5,11,0
+"George Miller, Nick Enright",1,0,0,0,0,1,0
+John Madden,1,0,0,1,10,0,0
+"Lawrence Kasdan, Meg Kasdan",1,0,0,0,0,1,0
+Callie Khouri,1,0,0,0,2,1,0
+Michael Douglas,1,0,2,9,0,0,35
+"Oliver Stone, Richard Boyle",1,0,0,0,0,1,0
+Hanif Kureishi,1,0,0,0,0,4,0
+Peter Fonda,1,0,0,3,0,1,23
+"Screenplay by Paul Hogan, Ken Shadie, John Cornell;  Story by Paul Hogan",1,0,0,0,0,0,0
+Robert Forster,1,0,0,0,0,0,24
+Jaye Davidson,1,0,1,0,0,0,1
+James Coburn,1,0,0,0,0,0,24
+Lindsay Crouse,1,0,0,0,0,0,15
+Bob Hoskins,1,0,1,3,0,0,35
+Oprah Winfrey,1,0,0,1,0,0,11
+Michael Tolkin,1,0,1,0,2,6,0
+Meg Tilly,1,0,0,1,0,0,7
+Amy Madigan,1,0,0,2,0,0,11
+"Brian Helgeland, Curtis Hanson",1,0,0,0,0,0,0
+"Hilary Henkin, David Mamet",1,0,0,0,0,0,0
+Hossein Amini,1,0,0,0,1,9,0
+"Screenplay by Mark Andrus, James L. Brooks;  Story by Mark Andrus",1,0,0,0,0,0,0
+Margaret Avery,1,0,0,0,0,0,6
+Martin Brest,1,0,0,0,5,1,0
+Peter Barnes,1,0,0,0,0,1,2
+Simon Beaufoy,1,0,0,0,0,8,0
+"Ben Affleck, Matt Damon",1,0,0,0,0,0,0
+Laurence Fishburne,1,0,0,1,0,0,46
+Eric Roberts,1,0,0,2,0,0,60
+Robert Loggia,1,0,0,0,0,0,31
+William Hickey,1,0,0,0,0,0,14
+Klaus Maria Brandauer,1,0,1,2,0,0,9
+"Screenplay by Lowell Ganz, Babaloo Mandel, Bruce Jay Friedman;  Screen Story by Bruce Jay Friedman;  Based on a story by Brian Grazer",1,0,0,0,0,0,0
+Don Ameche,1,0,0,0,0,0,8
+James Garner,1,0,0,11,0,0,14
+Joan Plowright,1,0,0,2,0,0,13
+Catherine Deneuve,1,0,1,0,0,0,33
+Hector Babenco,1,0,0,0,6,3,0
+Gloria Stuart,1,0,0,1,0,0,3
+Dexter Gordon,1,0,0,1,0,0,1
+"Screenplay by Earl W. Wallace, William Kelley;  Story by William Kelley, Pamela Wallace, Earl W. Wallace",1,0,0,0,0,0,0
+Minnie Driver,1,0,0,1,0,0,22
+"Luis Puenzo, Aida Bortnik",1,0,0,0,0,0,0
+Christine Lahti,1,0,0,8,1,0,11
+"Terry Gilliam, Tom Stoppard, Charles McKeown",1,0,0,0,0,0,0
+"P.H. Vazak, Michael Austin",1,0,0,0,0,0,0
+Bruce Robinson,1,0,1,0,3,6,2
+David Paymer,1,0,0,2,0,0,33
+Peter Cattaneo,1,0,0,0,4,1,0
+David Webb Peoples,1,0,0,0,0,6,0
+"Robert Zemeckis, Bob Gale",1,0,0,0,0,6,0
+Charles Fuller,1,0,0,0,0,1,0
+Leonard Schrader,1,0,0,0,0,3,0
+Curtis Hanson,1,0,0,1,9,1,1
+Liam Neeson,1,0,1,3,0,0,55
+Menno Meyjes,1,0,0,0,4,5,0
+"Screenplay by Daniel Petrie, Jr.;  Story by Danilo Bach, Daniel Petrie, Jr.",1,0,0,0,0,0,0
+"Gregory Nava, Anna Thomas",1,0,0,0,0,2,0
+Akira Kurosawa,1,0,0,0,9,10,0
+"Richard Condon, Janet Roach",1,0,1,0,0,0,0
+Anne Ramsey,1,0,0,1,0,0,6
+Sally Kirkland,1,0,0,2,0,0,19
+Christopher Hampton,1,0,1,0,1,10,1
+Pauline Collins,1,0,1,1,0,0,6
+Dan Aykroyd,1,0,0,0,1,7,48
+Danny Aiello,1,0,0,1,0,0,19
+Daniel Day Lewis,1,0,0,0,0,0,0
+Naomi Foner,1,0,0,0,0,5,0
+"Screenplay by Ronald Bass, Barry Morrow;  Story by Barry Morrow",1,0,0,0,0,0,0
+Tim Roth,1,0,1,1,1,0,38
+"Nicholas Pileggi, Martin Scorsese",1,0,1,0,0,0,0
+Donald E. Westlake,1,0,0,0,0,6,0
+Elisabeth Shue,1,0,1,1,0,0,29
+Sharon Stone,1,0,0,4,0,0,34
+Rosemary Harris,1,0,0,2,0,0,14
+Gary Sinise,1,0,0,3,0,0,15
+Chazz Palminteri,1,0,0,0,0,2,24
+"Screenplay by John Cleese;  Story by John Cleese, Charles Crichton",1,0,0,0,0,0,0
+Samuel L. Jackson,1,0,0,4,0,0,84
+Ron Shelton,1,0,0,0,6,8,0
+Nigel Hawthorne,1,0,1,0,0,0,10
+"Gary Ross, Anne Spielberg",1,0,0,0,0,1,0
+"Jean-Claude Carrière, Philip Kaufman",1,0,1,0,0,0,0
+Christine Edzard,1,0,1,0,0,0,0
+"Screenplay by Anna Hamilton Phelan;  Story by Anna Hamilton Phelan, Tab Murphy",1,0,0,0,0,0,0
+Nicholas Kazan,1,0,0,0,0,4,0
+Kathleen Quinlan,1,0,0,2,0,0,15
+Mira Sorvino,1,0,1,3,0,0,19
+Uma Thurman,1,0,1,4,0,0,30
+James Cromwell,1,0,0,0,0,0,33
+Massimo Troisi,1,0,1,0,1,1,3
+Phil Alden Robinson,1,0,0,0,2,3,0
+Bruce Davison,1,0,0,1,0,0,32
+Jeremy Irons,1,0,0,6,0,0,32
+Gerard Depardieu,1,0,2,0,0,0,0
+Alan Bennett,1,0,2,0,0,2,0
+Nora Ephron,1,0,0,0,6,9,0
+Eric Roth,1,0,1,0,0,12,0
+"Woody Allen, Douglas McGrath",1,0,0,0,0,1,0
+Krzysztof Kieslowski,1,0,0,0,2,4,0
+Tom Schulman,1,0,0,0,1,6,0
+Lorraine Bracco,1,0,0,4,0,0,16
+"Jim Sheridan, Shane Connaughton",1,0,0,0,0,0,0
+Richard Curtis,1,0,0,0,3,10,0
+Brenda Fricker,1,0,0,1,0,0,10
+"Roger L. Simon, Paul Mazursky",1,0,0,0,0,1,0
+Alfred Uhry,1,0,1,0,0,2,0
+"Frances Walsh, Peter Jackson",1,0,0,0,0,0,0
+Screenplay by Quentin Tarantino;  Stories by Quentin Tarantino & Roger Avary,1,0,0,0,0,0,0
+"Oliver Stone, Ron Kovic",1,0,1,0,0,0,0
+"Krzysztof Piesiewicz, Krzysztof Kieslowski",1,0,0,0,0,0,0
+Robert Zemeckis,1,0,0,1,19,11,0
+Jennifer Tilly,1,0,0,0,0,0,26
+Barbet Schroeder,1,0,0,1,8,0,2
+Michael Blake,1,0,1,0,0,1,1
+Lena Olin,1,0,1,1,0,0,19
+Bruce Joel Rubin,1,0,0,0,1,6,0
+Mare Winningham,1,0,0,1,0,0,14
+Scott Hicks,1,0,0,1,5,1,0
+"Frank Galati, Lawrence Kasdan",1,0,1,0,0,0,0
+Edward James Olmos,1,0,0,4,1,0,15
+John Patrick Shanley,1,0,0,0,2,6,0
+"Lasse Hallström, Reidar Jönsson, Brasse Brännström, Per Berglund",1,0,0,0,0,0,0
+"Terry George, Jim Sheridan",1,0,1,0,0,0,0
+"Mark Peploe, Bernardo Bertolucci",1,0,0,0,0,0,0
+"Stanley Kubrick, Michael Herr, Gustav Hasford",1,0,0,0,0,0,0
+"Jay Cocks, Martin Scorsese",1,0,0,0,0,1,0
+James Dearden,1,0,0,0,2,3,0
+Tony Huston,1,0,0,0,0,0,0
+Kristin Scott Thomas,1,0,1,2,0,0,32
+Jonathan Demme,1,0,0,1,9,2,1
+Lauren Bacall,1,0,1,1,0,0,14
+Adrian Lyne,1,0,0,1,7,0,0
+Barbara Hershey,1,0,1,3,0,0,28
+Agnieszka Holland,1,0,0,0,5,1,0
+Ann Sothern,1,0,0,1,0,0,2
+Andy Garcia,1,0,0,2,1,0,38
+Marianne Jean-Baptiste,1,0,0,1,0,0,12
+Olympia Dukakis,1,0,1,2,0,0,19
+Anne Archer,1,0,1,1,0,0,13
+"Fannie Flagg, Carol Sobieski",1,0,0,0,0,0,0
+Rosie Perez,1,0,0,1,0,0,11
+Joel Coen,1,0,0,1,17,19,0
+Norma Aleandro,1,0,0,1,0,0,10
+"Oliver Stone, Zachary Sklar",1,0,1,0,0,1,0
+Armin Mueller-Stahl,1,0,0,0,0,0,16
+William H. Macy,1,0,0,5,2,0,38
+William Nicholson,1,0,1,0,1,8,0
+River Phoenix,1,0,0,1,0,0,10
+Charles Crichton,1,0,0,0,3,1,0
+Whit Stillman,1,0,0,0,5,5,0
+"Screenplay by Nora Ephron, David S. Ward, Jeff Arch;  Story by Jeff Arch",1,0,0,0,0,0,0
+Ron Nyswaner,1,0,0,0,0,4,0
+Melanie Griffith,1,0,1,5,0,0,19
+Dean Stockwell,1,0,0,5,0,0,18
+Chris Noonan,1,0,0,0,2,0,1
+Harvey Keitel,1,0,0,1,0,0,58
+Michael Lerner,1,0,0,0,0,0,26
+Michael Radford,1,0,0,0,6,3,0
+"William Broyles, Jr., Al Reinert",1,0,0,0,0,0,0
+Juliette Lewis,1,0,0,1,0,0,31
+"Cuba Gooding, Jr.",1,0,0,0,0,0,0
+"George Miller, Chris Noonan",1,0,1,0,0,0,0
+"Anna Pavignano, Michael Radford, Furio Scarpelli, Giacomo Scarpelli, Massimo Troisi",1,0,1,0,0,0,0
+Kate Nelligan,1,0,1,0,0,0,10
+Randall Wallace,1,0,0,0,4,4,0
+"Stephen J. Rivele, Christopher Wilkinson, Oliver Stone",1,0,0,0,0,0,0
+"Screenplay by Joss Whedon, Andrew Stanton, Joel Cohen, Alec Sokolow;  Story by John Lasseter, Peter Docter, Andrew Stanton, Joe Ranft",1,0,0,0,0,0,0
+Christopher McQuarrie,1,0,0,0,4,10,0
+Jeff Maguire,1,0,0,0,0,3,0
+Kevin Kline,1,0,1,4,0,0,32
+Mercedes Ruehl,1,0,0,1,0,0,13
+Gary Ross,1,0,0,0,5,7,0
+Richard Barthelmess,1,0,0,0,0,0,1
+David Strathairn,1,0,0,2,0,0,40
+Bill Condon,1,0,0,0,9,7,1
+Ruth Negga,1,0,0,1,0,0,8
+Screenplay by Scott Frank & James Mangold and Michael Green; Story by James Mangold,1,0,0,0,0,0,0
+Screenplay by Scott Neustadter & Michael H. Weber,1,0,0,0,0,0,0
+Screenplay by James Ivory,1,0,0,0,0,0,0
+Guillermo del Toro,1,0,0,1,10,9,1
+Greta Gerwig,1,0,1,1,1,1,8
+Jordan Peele,1,0,0,0,2,3,5
+Laurie Metcalf,1,0,0,3,0,0,14
+Lesley Manville,1,0,0,0,0,0,14
+Allison Janney,1,0,0,6,0,0,33
+Mary J. Blige,1,0,0,1,0,0,3
+Timothée Chalamet,1,0,1,2,0,0,7
+Written by Mike Mills,1,0,0,0,0,0,0
+"Written by Yorgos Lanthimos, Efthimis Filippou",1,0,0,0,0,0,0
+Written by Taylor Sheridan,1,0,0,0,0,0,0
+Screenplay by Barry Jenkins; Story by Tarell Alvin McCraney,1,0,0,0,0,0,0
+Screenplay by Luke Davies,1,0,0,0,0,0,0
+Screenplay by Allison Schroeder and Theodore Melfi,1,0,0,0,0,0,0
+Screenplay by August Wilson,1,0,0,0,0,0,0
+Screenplay by Eric Heisserer,1,0,0,0,0,0,0
+Barry Jenkins,1,0,1,1,3,3,0
+Kenneth Lonergan,1,0,1,1,3,6,0
+Damien Chazelle,1,0,1,1,4,4,0
+Denis Villeneuve,1,0,1,0,5,1,0
+Written for the screen by Aaron Sorkin,1,0,0,0,0,0,0
+Screenplay by Virgil Williams and Dee Rees,1,0,0,0,0,0,0
+Written by Emily V. Gordon & Kumail Nanjiani,1,0,0,0,0,0,0
+Screenplay by Nicole Holofcener and Jeff Whitty,1,0,0,0,0,0,0
+Cynthia Erivo,1,0,0,1,0,0,2
+Jonathan Pryce,1,0,2,2,0,0,29
+Antonio Banderas,1,0,0,5,1,0,52
+Written by Adam McKay,1,0,0,0,0,0,0
+Written by Alfonso Cuarón,1,0,0,0,0,0,0
+"Written by Nick Vallelonga, Brian Currie, Peter Farrelly",1,0,0,0,0,0,0
+Written by Paul Schrader,1,0,0,0,0,0,0
+Written by Deborah Davis and Tony McNamara,1,0,0,0,0,0,0
+Screenplay by Eric Roth and Bradley Cooper & Will Fetters,1,0,0,0,0,0,0
+Written for the screen by Barry Jenkins,1,0,0,0,0,0,0
+Written by Charlie Wachtel & David Rabinowitz and Kevin Willmott & Spike Lee,1,0,0,0,0,0,0
+Written by Jordan Peele,1,0,0,0,0,0,0
+Pawel Pawlikowski,1,0,0,0,2,2,0
+Regina King,1,0,0,3,0,0,18
+Marina de Tavira,1,0,0,0,0,0,2
+Lady Gaga,1,0,1,2,0,0,2
+Yalitza Aparicio,1,0,0,0,0,0,0
+Richard E. Grant,1,0,0,1,1,1,27
+Sam Elliott,1,0,0,2,0,0,25
+Rami Malek,1,0,1,4,0,0,7
+Screenplay by Guillermo del Toro & Vanessa Taylor; Story by Guillermo del Toro,1,0,0,0,0,0,0
+Written by Greta Gerwig,1,0,0,0,0,0,0
+Naomie Harris,1,0,0,1,0,0,21
+Isabelle Huppert,1,0,0,1,0,0,18
+Scott Frank,1,0,0,0,2,12,0
+Dev Patel,1,0,0,1,0,0,7
+Screenplay by Anthony McCarten,1,0,0,0,0,0,0
+Written for the screen by Paul Thomas Anderson,1,0,0,0,0,0,0
+Written by Graham Moore,1,0,0,0,0,0,0
+Written by Jason Hall,1,0,0,0,0,0,0
+Morten Tyldum,1,0,0,0,3,0,0
+Wes Anderson,1,0,0,1,8,8,1
+Richard Linklater,1,0,0,1,16,12,3
+Patricia Arquette,1,0,0,6,0,0,20
+Rosamund Pike,1,0,0,2,0,0,19
+Felicity Jones,1,0,0,1,0,0,12
+Michael Keaton,1,0,0,2,1,0,35
+Steve Carell,1,0,0,9,0,1,33
+Written by Bob Nelson,1,0,0,0,0,0,0
+Written by Spike Jonze,1,0,0,0,0,0,0
+Written by Craig Borten & Melisa Wallack,1,0,0,0,0,0,0
+Written by Eric Warren Singer and David O. Russell,1,0,0,0,0,0,0
+Screenplay by Terence Winter,1,0,0,0,0,0,0
+Screenplay by John Ridley,1,0,0,0,0,0,0
+Screenplay by Steve Coogan and Jeff Pope,1,0,0,0,0,0,0
+Screenplay by Billy Ray,1,0,0,0,0,0,0
+"Written by Richard Linklater, Julie Delpy, Ethan Hawke",1,0,0,0,0,0,0
+June Squibb,1,0,0,1,0,0,9
+Lupita Nyong'o,1,0,0,1,0,0,7
+"Written by Alejandro G. Iñárritu, Nicolás Giacobone, Alexander Dinelaris, Jr. & Armando Bo",1,0,0,0,0,0,0
+Written by Richard Linklater,1,0,0,0,0,0,0
+Written by E. Max Frye and Dan Futterman,1,0,0,0,0,0,0
+Tom McCarthy,1,0,0,1,3,4,12
+Lucas Hedges,1,0,0,1,0,0,7
+Screenplay by Jonathan Herman and Andrea Berloff; Story by S. Leigh Savidge & Alan Wenkus and Andrea Berloff,1,0,0,0,0,0,0
+Written by Josh Singer & Tom McCarthy,1,0,0,0,0,0,0
+"Screenplay by Pete Docter, Meg LeFauve, Josh Cooley; Original story by Pete Docter, Ronnie del Carmen",1,0,0,0,0,0,0
+Written by Alex Garland,1,0,0,0,0,0,0
+Written by Matt Charman and Ethan Coen & Joel Coen,1,0,0,0,0,0,0
+Screenplay by Emma Donoghue,1,0,0,0,0,0,0
+Screenplay by Drew Goddard,1,0,0,0,0,0,0
+Screenplay by Phyllis Nagy,1,0,0,0,0,0,0
+Screenplay by Charles Randolph and Adam McKay,1,0,0,0,0,0,0
+Lenny Abrahamson,1,0,0,0,1,0,0
+Screenplay by Wes Anderson; Story by Wes Anderson & Hugo Guinness,1,0,0,0,0,0,0
+George Miller,1,0,0,1,13,9,0
+Alicia Vikander,1,0,1,2,0,0,17
+Rachel McAdams,1,0,0,0,0,0,26
+Jennifer Jason Leigh,1,0,0,2,0,0,34
+Charlotte Rampling,1,0,0,1,0,0,34
+Brie Larson,1,0,1,1,0,0,15
+Mark Rylance,1,0,0,2,0,0,7
+Tom Hardy,1,0,0,0,0,0,23
+Bryan Cranston,1,0,1,7,0,0,20
+Written by Dan Gilroy,1,0,0,0,0,0,0
+Florence Pugh,1,0,1,0,0,0,5
+Todd Phillips,1,0,0,1,10,6,1
+Bong Joon Ho,1,0,0,1,5,6,1
+Screenplay by Steven Zaillian,1,0,0,0,0,0,0
+Screenplay by Ehren Kruger and Eric Warren Singer and Christopher McQuarrie; Story by Peter Craig and Justin Marks,1,0,0,0,0,0,0
+Written by Kazuo Ishiguro,1,0,0,0,0,0,0
+"Screenplay - Edward Berger, Lesley Paterson & Ian Stokell",1,0,0,0,0,0,0
+Ruben Östlund,1,0,0,0,0,0,0
+Todd Field,1,0,0,0,2,1,7
+Daniel Kwan and Daniel Scheinert,1,0,0,0,0,0,0
+Martin McDonagh,1,0,0,1,3,3,0
+Stephanie Hsu,1,0,0,0,0,0,0
+Jamie Lee Curtis,1,0,1,7,0,0,21
+Kerry Condon,1,0,0,0,0,0,6
+Hong Chau,1,0,0,1,0,1,2
+Michelle Yeoh,1,0,1,0,0,0,20
+Andrea Riseborough,1,0,0,0,0,0,14
+Ana de Armas,1,0,0,1,0,0,7
+Ke Huy Quan,1,0,0,0,0,0,4
+Barry Keoghan,1,0,0,0,0,0,3
+Brian Tyree Henry,1,0,0,0,0,0,7
+Brendan Gleeson,1,0,0,3,0,0,34
+Bill Nighy,1,0,0,3,0,0,38
+Paul Mescal,1,0,0,0,0,0,0
+Brendan Fraser,1,0,0,0,0,0,29
+Colin Farrell,1,0,0,2,0,0,35
+Austin Butler,1,0,0,0,0,0,4
+Screenplay by Sarah Polley,1,0,0,0,0,0,0
+Written by Daniel Kwan & Daniel Scheinert,1,0,0,0,0,0,0
+Written by Steven Spielberg & Tony Kushner,1,0,0,0,0,0,0
+Justine Triet,1,0,0,0,0,0,0
+Screenplay by Samy Burch; Story by Samy Burch & Alex Mechanik,1,0,0,0,0,0,0
+Written by Bradley Cooper & Josh Singer,1,0,0,0,0,0,0
+Written by David Hemingson,1,0,0,0,0,0,0
+Screenplay - Justine Triet and Arthur Harari,1,0,0,0,0,0,0
+Written by Jonathan Glazer,1,0,0,0,0,0,0
+Screenplay by Tony McNamara,1,0,0,0,0,0,0
+Written for the screen by Christopher Nolan,1,0,0,0,0,0,0
+Written by Greta Gerwig & Noah Baumbach,1,0,0,0,0,0,0
+Written for the screen by Cord Jefferson,1,0,0,0,0,0,0
+Jonathan Glazer,1,0,0,0,2,1,0
+Da'Vine Joy Randolph,1,0,0,0,0,0,2
+Written by Todd Field,1,0,0,0,0,0,0
+America Ferrera,1,0,0,3,0,0,12
+Danielle Brooks,1,0,0,0,0,0,1
+Emily Blunt,1,0,1,6,0,0,26
+Sandra Hüller,1,0,0,0,0,0,5
+Lily Gladstone,1,0,0,0,0,0,1
+Sterling K. Brown,1,0,0,2,0,0,8
+Jeffrey Wright,1,0,0,1,0,0,25
+Cillian Murphy,1,0,0,1,0,0,17
+Colman Domingo,1,0,0,0,0,0,4
+Written by Ruben Östlund,1,0,0,0,0,0,0
+"Written by Eskil Vogt, Joachim Trier",1,0,0,0,0,0,0
+Written by Paul Thomas Anderson,1,0,0,0,0,0,0
+Written by Zach Baylin,1,0,0,0,0,0,0
+Paul Raci,1,0,0,0,0,0,1
+Emerald Fennell,1,0,0,0,0,0,1
+Chloé Zhao,1,0,0,0,1,1,0
+Lee Isaac Chung,1,0,0,0,0,0,0
+Thomas Vinterberg,1,0,0,0,8,4,0
+Yuh-Jung Youn,1,0,0,0,0,0,0
+Amanda Seyfried,1,0,0,0,0,0,21
+Maria Bakalova,1,0,0,0,0,0,0
+Vanessa Kirby,1,0,0,0,0,0,6
+Andra Day,1,0,0,0,0,0,0
+Lakeith Stanfield,1,0,0,0,0,0,5
+"Leslie Odom, Jr.",1,0,0,0,0,0,0
+Screenplay by Christopher Hampton and Florian Zeller,1,0,0,0,0,0,0
+Sacha Baron Cohen,1,0,0,3,0,5,14
+Steven Yeun,1,0,0,0,0,0,2
+Chadwick Boseman,1,0,0,0,0,0,10
+Riz Ahmed,1,0,0,1,0,0,9
+"Screenplay by Bong Joon Ho, Han Jin Won; Story by Bong Joon Ho",1,0,0,0,0,0,0
+Written by Sam Mendes & Krysty Wilson-Cairns,1,0,0,0,0,0,0
+Written by Anthony McCarten,1,0,0,0,0,0,0
+Written for the screen by Greta Gerwig,1,0,0,0,0,0,0
+Written by Todd Phillips & Scott Silver,1,0,0,0,0,0,0
+Screenplay by Taika Waititi,1,0,0,0,0,0,0
+Screenplay by Sacha Baron Cohen & Anthony Hines & Dan Swimer & Peter Baynham & Erica Rivinoja & Dan Mazer & Jena Friedman & Lee Kern; Story by Sacha Baron Cohen & Anthony Hines & Dan Swimer & Nina Pedrad,1,0,0,0,0,0,0
+Written for the screen by Chloé Zhao,1,0,0,0,0,0,0
+Screenplay by Adam McKay; Story by Adam McKay & David Sirota,1,0,0,0,0,0,0
+Jessie Buckley,1,0,1,0,0,0,0
+Written by Kenneth Branagh,1,0,0,0,0,0,0
+Written by Jane Campion,1,0,0,0,0,0,0
+Written by Maggie Gyllenhaal,1,0,0,0,0,0,0
+Screenplay by Jon Spaihts and Denis Villeneuve and Eric Roth,1,0,0,0,0,0,0
+"Screenplay by Ryusuke Hamaguchi, Takamasa Oe",1,0,0,0,0,0,0
+Screenplay by Siân Heder,1,0,0,0,0,0,0
+Ryusuke Hamaguchi,1,0,0,0,0,0,0
+Aunjanue Ellis,1,0,0,0,0,0,14
+Kirsten Dunst,1,0,0,3,0,0,33
+Ariana DeBose,1,0,0,0,0,0,0
+Kristen Stewart,1,0,0,0,0,0,28
+Screenplay by Kemp Powers,1,0,0,0,0,0,0
+Kodi Smit-McPhee,1,0,0,0,0,0,10
+Jesse Plemons,1,0,0,0,0,0,15
+Troy Kotsur,1,0,0,0,0,0,1
+Ciarán Hinds,1,0,0,0,0,0,36
+Written by Aaron Sorkin,1,0,0,0,0,0,0
+Screenplay by Darius Marder & Abraham Marder; Story by Darius Marder & Derek Cianfrance,1,0,0,0,0,0,0
+Written by Emerald Fennell,1,0,0,0,0,0,0
+Written by Lee Isaac Chung,1,0,0,0,0,0,0
+Screenplay by Will Berson & Shaka King; Story by Will Berson & Shaka King and Kenny Lucas & Keith Lucas,1,0,0,0,0,0,0
+Written for the screen by Ramin Bahrani,1,0,0,0,0,0,0
+Jared Leto,1,0,0,1,0,0,15
+Barkhad Abdi,1,0,0,1,0,0,2
+Matthew McConaughey,1,0,0,2,0,0,41
+Screenplay by Tony Kushner and Eric Roth,1,0,0,0,0,0,0
+Written by Jim Sheridan & Naomi Sheridan & Kirsten Sheridan,1,0,0,0,0,0,0
+"Screenplay by Andrew Stanton, Bob Peterson and David Reynolds; Original Story by Andrew Stanton",1,0,0,0,0,0,0
+Written by Steven Knight,1,0,0,0,0,0,0
+Written by Denys Arcand,1,0,0,0,0,0,0
+Written for the Screen by Gary Ross,1,0,0,0,0,0,0
+Screenplay by Brian Helgeland,1,0,0,0,0,0,0
+"Screenplay by Fran Walsh, Philippa Boyens & Peter Jackson",1,0,0,0,0,0,0
+Screenplay by Braulio Mantovani,1,0,0,0,0,0,0
+Written by Robert Pulcini & Shari Springer Berman,1,0,0,0,0,0,0
+Sofia Coppola,1,0,0,1,6,6,2
+Fernando Meirelles,1,0,0,1,3,0,0
+Patricia Clarkson,1,0,0,2,0,0,40
+Shohreh Aghdashloo,1,0,0,0,0,0,10
+Keisha Castle-Hughes,1,0,0,0,0,0,7
+Ken Watanabe,1,0,0,1,0,0,13
+Alec Baldwin,1,0,0,11,1,0,58
+Bill Murray,1,0,0,6,1,0,44
+Written by Carlos Cuarón and Alfonso Cuarón,1,0,0,0,0,0,0
+Written by Pedro Almodóvar,1,0,0,0,0,0,0
+Written by Nia Vardalos,1,0,0,0,0,0,0
+Screenplay by Jay Cocks and Steve Zaillian and Kenneth Lonergan; Story by Jay Cocks,1,0,0,0,0,0,0
+Written by Todd Haynes,1,0,0,0,0,0,0
+Screenplay by Bill Condon,1,0,0,0,0,0,0
+Written by Sofia Coppola,1,0,0,0,0,0,0
+Don Cheadle,1,0,0,5,1,1,27
+Alan Alda,1,0,1,14,1,1,20
+Screenplay by Charlie Kaufman; Story by Charlie Kaufman & Michel Gondry & Pierre Bismuth,1,0,0,0,0,0,0
+Screenplay by Jeffrey Caine,1,0,0,0,0,0,0
+Screenplay by Dan Futterman,1,0,0,0,0,0,0
+Screenplay by Larry McMurtry & Diana Ossana,1,0,0,0,0,0,0
+Paul Haggis,1,0,0,0,3,7,0
+Felicity Huffman,1,0,0,7,0,0,10
+Jake Gyllenhaal,1,0,1,2,0,0,29
+Matt Dillon,1,0,0,1,1,1,35
+Terrence Howard,1,0,0,1,0,0,32
+Written by Brad Bird,1,0,0,0,0,0,0
+Written by Keir Pearson & Terry George,1,0,0,0,0,0,0
+Written by John Logan,1,0,0,0,0,0,0
+Thomas Haden Church,1,0,0,2,0,0,22
+Screenplay by Alexander Payne & Jim Taylor,1,0,0,0,0,0,0
+Screenplay by José Rivera,1,0,0,0,0,0,0
+Screenplay by Paul Haggis,1,0,0,0,0,0,0
+Screenplay by Richard Linklater & Julie Delpy & Ethan Hawke; Story by Richard Linklater & Kim Krizan,1,0,0,0,0,0,0
+Taylor Hackford,1,0,0,0,11,1,0
+Sophie Okonedo,1,0,0,1,0,0,10
+Virginia Madsen,1,0,0,1,0,0,25
+Imelda Staunton,1,0,0,1,0,0,23
+Catalina Sandino Moreno,1,0,0,0,0,0,10
+Clive Owen,1,0,0,3,0,0,21
+Screenplay by Charlie Kaufman and Donald Kaufman,1,0,0,0,0,0,0
+Screenplay by Peter Hedges and Chris Weitz & Paul Weitz,1,0,0,0,0,0,0
+Pedro Almodóvar,1,0,0,0,7,7,0
+Spike Jonze,1,0,0,1,4,3,3
+Written by Ethan Coen & Joel Coen,1,0,0,0,0,0,0
+Written by Wang Hui Ling and James Schamus and Tsai Kuo Jung,1,0,0,0,0,0,0
+Screenplay by Robert Nelson Jacobs,1,0,0,0,0,0,0
+Kate Hudson,1,0,1,1,0,0,24
+Charlie Kaufman,1,0,0,0,2,7,0
+Alan Ball,1,0,0,0,0,1,0
+"Eric Roth, Michael Mann",1,0,0,0,0,0,0
+"Alexander Payne, Jim Taylor",1,0,0,0,0,2,0
+John Irving,1,0,0,0,0,5,0
+Michael Mann,1,0,0,1,11,6,2
+Chloë Sevigny,1,0,0,2,0,0,19
+Screenplay by Steve Kloves,1,0,0,0,0,0,0
+Toni Collette,1,0,0,6,0,0,31
+Haley Joel Osment,1,0,0,1,0,0,11
+Michael Clarke Duncan,1,0,0,1,0,0,26
+Andrew Niccol,1,0,0,0,5,7,0
+"Marc Norman, Tom Stoppard",1,0,0,0,0,1,0
+Robert Rodat,1,0,0,0,0,6,0
+"Vincenzo Cerami, Roberto Benigni",1,0,0,0,0,1,0
+"Screenplay by Warren Beatty, Jeremy Pikser;  Story by Warren Beatty",1,0,0,0,0,0,0
+Scott B. Smith,1,0,0,0,0,2,0
+Elaine May,1,0,0,1,2,5,1
+Screenplay by Stephen Gaghan,1,0,0,0,0,0,0
+Written by Cameron Crowe,1,0,0,0,0,0,0
+Rob Marshall,1,0,0,1,6,0,0
+Written by Julian Fellowes,1,0,0,0,0,0,0
+Catherine Zeta-Jones,1,0,0,2,0,0,19
+Queen Latifah,1,0,0,3,0,0,27
+Diane Lane,1,0,0,3,0,0,36
+Salma Hayek,1,0,0,1,0,0,31
+John C. Reilly,1,0,0,3,0,0,40
+Chris Cooper,1,0,0,1,0,0,32
+Adrien Brody,1,0,0,1,0,0,33
+Written by Wes Anderson & Owen Wilson,1,0,0,0,0,0,0
+Written by Milo Addica & Will Rokos,1,0,0,0,0,0,0
+Screenplay by Christopher Nolan; Story by Jonathan Nolan,1,0,0,0,0,0,0
+Screenplay by Guillaume Laurant and Jean-Pierre Jeunet; Dialogue by Guillaume Laurant,1,0,0,0,0,0,0
+Written by Lee Hall,1,0,0,0,0,0,0
+Written by Ted Elliott & Terry Rossio and Joe Stillman and Roger S.H. Schulman,1,0,0,0,0,0,0
+"Screenplay by Fran Walsh, Philippa Boyens, Peter Jackson",1,0,0,0,0,0,0
+Screenplay by Rob Festinger and Todd Field,1,0,0,0,0,0,0
+Written by Daniel Clowes & Terry Zwigoff,1,0,0,0,0,0,0
+Written by Akiva Goldsman,1,0,0,0,0,0,0
+Jennifer Connelly,1,0,0,1,0,0,25
+Halle Berry,1,0,0,4,0,0,27
+Jim Broadbent,1,0,0,3,0,0,42
+Screenplay by David Franzoni and John Logan and William Nicholson;  Story by David Franzoni,1,0,0,0,0,0,0
+Written by Susannah Grant,1,0,0,0,0,0,0
+Screenplay by Josh Olson,1,0,0,0,0,0,0
+Screenplay by Paul Haggis & Bobby Moresco; Story by Paul Haggis,1,0,0,0,0,0,0
+Chiwetel Ejiofor,1,0,0,5,0,0,24
+Screenplay by George Clooney & Grant Heslov,1,0,0,0,0,0,0
+Written by Lisa Cholodenko & Stuart Blumberg,1,0,0,0,0,0,0
+Written by Christopher Nolan,1,0,0,0,0,0,0
+Screenplay by Scott Silver and Paul Tamasy & Eric Johnson; Story by Keith Dorrington & Paul Tamasy & Eric Johnson,1,0,0,0,0,0,0
+Adapted for the screen by Debra Granik & Anne Rosellini,1,0,0,0,0,0,0
+"Screenplay by Michael Arndt; Story by John Lasseter, Andrew Stanton and Lee Unkrich",1,0,0,0,0,0,0
+Screenplay by Aaron Sorkin,1,0,0,0,0,0,0
+Screenplay by Danny Boyle & Simon Beaufoy,1,0,0,0,0,0,0
+Tom Hooper,1,0,0,1,4,0,0
+Darren Aronofsky,1,0,0,1,7,5,0
+Hailee Steinfeld,1,0,0,1,0,0,13
+John Hawkes,1,0,0,1,0,0,25
+James Franco,1,0,0,4,7,2,47
+Jesse Eisenberg,1,0,0,1,0,0,23
+"Screenplay by Bob Peterson, Pete Docter; Story by Pete Docter, Bob Peterson, Tom McCarthy",1,0,0,0,0,0,0
+Written by Alessandro Camon & Oren Moverman,1,0,0,0,0,0,0
+Screenplay by Jason Reitman and Sheldon Turner,1,0,0,0,0,0,0
+Screenplay by Geoffrey Fletcher,1,0,0,0,0,0,0
+"Screenplay by Jesse Armstrong, Simon Blackwell, Armando Iannucci, Tony Roche",1,0,0,0,0,0,0
+Written by Neill Blomkamp and Terri Tatchell,1,0,0,0,0,0,0
+Lee Daniels,1,0,0,0,3,1,2
+Kathryn Bigelow,1,0,0,2,9,2,0
+Mo'Nique,1,0,0,1,0,0,10
+Anna Kendrick,1,0,0,1,0,0,28
+Screenplay by David Seidler,1,0,0,0,0,0,0
+Demián Bichir,1,0,0,0,0,0,17
+Jean Dujardin,1,0,0,1,0,1,17
+Emmanuelle Riva,1,0,0,0,0,0,3
+Written by Wes Anderson & Roman Coppola,1,0,0,0,0,0,0
+Written by John Gatins,1,0,0,0,0,0,0
+Written by Michael Haneke,1,0,0,0,0,0,0
+Screenplay by David O. Russell,1,0,0,0,0,0,0
+Screenplay by Tony Kushner,1,0,0,0,0,0,0
+Screenplay by Lucy Alibar & Benh Zeitlin,1,0,0,0,0,0,0
+Screenplay by Chris Terrio,1,0,0,0,0,0,0
+Benh Zeitlin,1,0,0,0,1,1,0
+Michael Haneke,1,0,0,0,6,7,0
+Quvenzhané Wallis,1,0,0,1,0,0,6
+Hugh Jackman,1,0,0,3,0,0,27
+Bérénice Bejo,1,0,0,1,0,0,17
+Written by Asghar Farhadi,1,0,0,0,0,0,0
+Written by J.C. Chandor,1,0,0,0,0,0,0
+Written by Annie Mumolo & Kristen Wiig,1,0,0,0,0,0,0
+Written by Michel Hazanavicius,1,0,0,0,0,0,0
+Screenplay by Bridget O'Connor & Peter Straughan,1,0,0,0,0,0,0
+Screenplay by Steven Zaillian and Aaron Sorkin; Story by Stan Chervin,1,0,0,0,0,0,0
+Screenplay by George Clooney & Grant Heslov and Beau Willimon,1,0,0,0,0,0,0
+Screenplay by John Logan,1,0,0,0,0,0,0
+Screenplay by Alexander Payne and Nat Faxon & Jim Rash,1,0,0,0,0,0,0
+Michel Hazanavicius,1,0,0,1,4,4,1
+Maggie Gyllenhaal,1,0,0,4,0,0,17
+Vera Farmiga,1,0,0,1,1,0,31
+Gabourey Sidibe,1,0,0,1,0,0,4
+Screenplay by Sacha Baron Cohen & Anthony Hines & Peter Baynham & Dan Mazer; Story by Sacha Baron Cohen & Peter Baynham & Anthony Hines & Todd Phillips,1,0,0,0,0,0,0
+Hal Holbrook,1,0,0,0,0,0,26
+Written by Peter Morgan,1,0,0,0,0,0,0
+Written by Guillermo del Toro,1,0,0,0,0,0,0
+Written by Michael Arndt,1,0,0,0,0,0,0
+Screenplay by Iris Yamashita; Story by Iris Yamashita & Paul Haggis,1,0,0,0,0,0,0
+Written by Guillermo Arriaga,1,0,0,0,0,0,0
+Screenplay by Patrick Marber,1,0,0,0,0,0,0
+Screenplay by Todd Field & Tom Perrotta,1,0,0,0,0,0,0
+Screenplay by William Monahan,1,0,0,0,0,0,0
+Screenplay by Alfonso Cuarón & Timothy J. Sexton and David Arata and Mark Fergus & Hawk Ostby,1,0,0,0,0,0,0
+Paul Greengrass,1,0,0,1,7,3,0
+Ruby Dee,1,0,0,0,0,0,10
+Alejandro González Iñárritu,1,0,0,3,0,0,0
+Rinko Kikuchi,1,0,0,1,0,0,10
+Jennifer Hudson,1,0,0,1,0,0,7
+Abigail Breslin,1,0,0,0,0,0,19
+Adriana Barraza,1,0,0,1,0,0,15
+Mark Wahlberg,1,0,0,2,0,0,40
+Eddie Murphy,1,0,0,5,1,4,37
+Jackie Earle Haley,1,0,0,0,1,1,15
+Forest Whitaker,1,0,0,2,3,0,54
+Written by Stephen Gaghan,1,0,0,0,0,0,0
+Ellen Page,1,0,0,1,0,0,16
+Amy Ryan,1,0,0,1,0,0,17
+Stanley Tucci,1,0,0,3,2,1,51
+Mickey Rourke,1,0,0,1,0,0,37
+"Screenplay by Andrew Stanton, Jim Reardon; Original story by Andrew Stanton, Pete Docter",1,0,0,0,0,0,0
+Written by Dustin Lance Black,1,0,0,0,0,0,0
+Written by Courtney Hunt,1,0,0,0,0,0,0
+Screenplay by Simon Beaufoy,1,0,0,0,0,0,0
+Screenplay by Peter Morgan,1,0,0,0,0,0,0
+Written by John Patrick Shanley,1,0,0,0,0,0,0
+Screenplay by Eric Roth; Screen story by Eric Roth and Robin Swicord,1,0,0,0,0,0,0
+Danny Boyle,1,0,0,1,13,1,0
+Taraji P. Henson,1,0,0,1,0,0,21
+Josh Brolin,1,0,0,0,0,0,28
+Frank Langella,1,0,0,1,0,0,27
+Tilda Swinton,1,0,0,2,0,0,28
+Written by Tamara Jenkins,1,0,0,0,0,0,0
+"Screenplay by Brad Bird; Story by Jan Pinkava, Jim Capobianco, Brad Bird",1,0,0,0,0,0,0
+Written by Tony Gilroy,1,0,0,0,0,0,0
+Written by Nancy Oliver,1,0,0,0,0,0,0
+Written by Diablo Cody,1,0,0,0,0,0,0
+Written for the Screen by Paul Thomas Anderson,1,0,0,0,0,0,0
+Written by Sarah Polley,1,0,0,0,0,0,0
+Screenplay by Christopher Hampton,1,0,0,0,0,0,0
+Tony Gilroy,1,0,0,0,3,12,0
+Julian Schnabel,1,0,0,1,2,0,0
+Noriyuki 'Pat' Morita,1,0,0,0,0,0,0
+Valerie Perrine,1,0,1,1,0,0,13
+Adolph Caesar,1,0,0,1,0,0,3
+Sidney Sheldon,1,0,0,0,0,2,0
+Anatole Litvak,1,0,0,0,1,0,0
+Jean Negulesco,1,0,0,0,4,0,0
+Ellen Corby,1,0,0,5,0,0,3
+Barbara Bel Geddes,1,0,0,3,0,0,1
+Oscar Homolka,1,0,0,1,0,0,0
+Dan Dailey,1,0,0,2,0,0,0
+Lew Ayres,1,0,0,0,0,0,3
+John Paxton,1,0,0,0,0,0,2
+"Sergio Amidei, Adolfo Franci, C. G. Viola, Cesare Zavattini",1,0,0,0,0,0,0
+Abraham Polonsky,1,0,0,0,0,2,0
+"Dorothy Parker, Frank Cavett",1,0,0,0,0,0,0
+Malvin Wald,1,0,0,0,0,0,0
+Valentine Davies,1,0,0,0,0,0,0
+Eleazar Lipsky,1,0,0,0,0,1,0
+"Herbert Clyde Lewis, Frederick Stephani",1,0,0,0,0,0,0
+"Georges Chaperot, Rene Wheeler",1,0,0,0,0,0,0
+Edward Dmytryk,1,0,0,0,4,0,0
+Henry Koster,1,0,0,0,2,0,0
+Marjorie Main,1,0,0,1,0,0,3
+Dorothy McGuire,1,0,0,0,0,0,2
+Richard Widmark,1,0,0,0,0,0,9
+Robert Ryan,1,0,0,0,0,1,6
+"Frances Flaherty, Robert Flaherty",1,0,0,0,0,0,0
+Borden Chase,1,0,0,0,0,0,0
+Michael Redgrave,1,0,2,0,0,0,2
+Harry Brown,1,0,0,0,0,2,0
+Judy Holliday,1,0,0,5,0,0,1
+Erich von Stroheim,1,0,0,1,0,0,1
+George Sanders,1,0,0,1,0,0,6
+Sam Jaffe,1,0,0,0,0,0,4
+Jeff Chandler,1,0,0,0,0,0,0
+Louis Calhern,1,0,0,1,0,0,7
+"Helen Levitt, Janice Loeb, Sidney Meyers",1,0,0,0,0,0,0
+"Alfred Hayes, Federico Fellini, Sergio Amidei, Marcello Pagliero, Roberto Rossellini",1,0,0,0,0,0,0
+Virginia Kellogg,1,0,0,0,0,0,0
+Douglas Morrow,1,0,0,0,0,1,0
+"Shirley W. Smith, Valentine Davies",1,0,0,0,0,0,0
+"Charles Brackett, Billy Wilder, Richard L. Breen",1,0,0,0,0,0,0
+Clare Boothe Luce,1,0,0,0,0,2,0
+William A. Wellman,1,0,0,0,5,0,0
+Ethel Waters,1,0,0,0,0,0,0
+Jeanne Crain,1,0,0,0,0,0,1
+Dean Jagger,1,0,0,0,0,0,8
+John Ireland,1,0,0,0,0,0,5
+Richard Todd,1,0,0,1,0,0,5
+Broderick Crawford,1,0,0,1,0,0,2
+"Frank Partos, Millen Brand",1,0,0,0,0,0,0
+"Irmgard Von Cube, Allen Vincent",1,0,0,0,0,0,0
+Thomas Gomez,1,0,0,0,1,1,2
+"Sergio Amidei, F. Fellini",1,0,0,0,0,0,0
+Josephine Hull,1,0,0,1,0,0,0
+John Dall,1,0,0,0,0,0,4
+"John Steinbeck, Jack Wagner",1,0,0,0,0,0,0
+Charles G. Booth,1,0,0,0,0,1,0
+"Thomas Monroe, Laszlo Gorog",1,0,0,0,0,0,0
+Jean Renoir,1,0,0,0,1,1,0
+Joan Lorring,1,0,0,0,0,0,2
+Ann Blyth,1,0,0,0,0,0,1
+Eve Arden,1,0,0,0,0,0,6
+Gene Tierney,1,0,0,0,0,0,1
+Robert Mitchum,1,0,0,0,0,0,16
+James Dunn,1,0,0,0,0,0,0
+Michael Chekhov,1,0,0,0,0,0,1
+Ernst Marischka,1,0,0,0,0,0,0
+Cornel Wilde,1,0,0,0,1,1,4
+Ray Milland,1,0,0,2,0,0,9
+Gene Kelly,1,0,0,2,4,0,5
+"Irving Brecher, Fred F. Finklehoffe",1,0,0,0,0,1,0
+"Jay Dratler, Samuel Hoffenstein, Betty Reinhardt",1,0,0,0,0,0,0
+"Frank Butler, Frank Cavett",1,0,0,0,0,1,0
+"John Van Druten, Walter Reisch, John L. Balderston",1,0,0,0,0,0,0
+"Billy Wilder, Raymond Chandler",1,0,0,0,0,1,0
+Jerome Cady,1,0,0,0,0,2,0
+"Richard Connell, Gladys Lehman",1,0,0,0,0,0,0
+Alvah Bessie,1,0,0,0,0,0,0
+Richard Schweizer,1,0,0,0,0,0,0
+Anthony Veiller,1,0,0,0,0,5,0
+Robert Siodmak,1,0,0,0,0,0,0
+Robert E. Sherwood,1,0,0,0,0,3,0
+"Talbot Jennings, Sally Benson",1,0,0,0,0,0,0
+"Muriel Box, Sydney Box",1,0,0,0,0,0,0
+Jacques Prevert,1,0,0,0,0,0,0
+Raymond Chandler,1,0,0,0,0,3,0
+Clemence Dane,1,0,0,0,0,0,0
+Charles Brackett,1,0,0,0,0,2,0
+Victor Trivas,1,0,0,0,0,0,0
+Jack Patrick,1,0,0,0,0,0,0
+Vladimir Pozner,1,0,0,0,0,0,0
+Flora Robson,1,0,0,0,0,0,2
+Myles Connolly,1,0,0,0,0,0,0
+Lillian Gish,1,0,0,1,0,0,3
+Celia Johnson,1,0,2,0,0,0,0
+Harold Russell,1,0,0,0,0,0,2
+William Demarest,1,0,0,0,0,0,5
+Larry Parks,1,0,0,0,0,0,5
+"Tess Slesinger, Frank Davis",1,0,0,0,0,0,0
+Ranald MacDougall,1,0,0,0,0,3,0
+"Leopold Atlas, Guy Endore, Philip Stevenson",1,0,0,0,0,0,0
+Harry Kurnitz,1,0,0,0,0,2,0
+Milton Holmes,1,0,0,0,0,0,0
+Hope Emerson,1,0,0,0,0,0,0
+Nancy Olson,1,0,0,0,0,0,1
+"Alfred Neumann, Joseph Than",1,0,0,0,0,0,0
+"Jed Harris, Tom Reed",1,0,0,0,0,0,0
+Marisa Pavan,1,0,0,1,0,0,1
+Peggy Lee,1,0,0,0,0,0,1
+Betsy Blair,1,0,0,0,0,0,1
+Joe Mantell,1,0,0,0,0,0,4
+Ernest Borgnine,1,0,0,2,0,0,22
+Budd Schulberg,1,0,0,0,0,0,0
+"Valentine Davies, Oscar Brodney",1,0,0,0,0,0,0
+"Albert Hackett, Frances Goodrich, Dorothy Kingsley",1,0,0,0,0,0,0
+"Billy Wilder, Samuel Taylor, Ernest Lehman",1,0,0,0,0,0,0
+Stanley Roberts,1,0,0,0,0,2,0
+François Boyer,1,0,0,0,0,1,0
+John Sturges,1,0,0,0,6,0,0
+Ettore Margadonna,1,0,0,0,0,0,0
+Jan Sterling,1,0,0,1,0,0,2
+Eva Marie Saint,1,0,0,1,0,0,5
+Katy Jurado,1,0,0,1,0,0,6
+Nina Foch,1,0,0,0,0,0,9
+Dorothy Dandridge,1,0,0,1,0,0,1
+Tom Tully,1,0,0,0,0,0,4
+Dan O'Herlihy,1,0,0,0,0,0,7
+"Charles Brackett, Walter Reisch, Richard Breen",1,0,0,0,0,0,0
+"Sam Rolfe, Harold Jack Bloom",1,0,0,0,0,0,0
+Jo Van Fleet,1,0,0,0,0,0,1
+Delbert Mann,1,0,0,1,2,0,0
+"Ian McLellan Hunter, John Dighton",1,0,0,0,0,1,0
+Anthony Perkins,1,0,0,0,0,1,7
+Jean Paul Sartre,1,0,0,0,0,0,0
+"Edward Bernds, Elwood Ullman",1,0,0,0,0,0,0
+Leo Katcher,1,0,0,0,0,2,0
+Walter Lang,1,0,0,0,1,0,0
+Michael Anderson,1,0,0,1,4,0,2
+Dorothy Malone,1,0,0,3,0,0,9
+Patty McCormack,1,0,0,1,0,0,1
+Nancy Kelly,1,0,0,0,0,0,2
+Carroll Baker,1,0,0,1,0,0,9
+Robert Stack,1,0,0,0,0,0,10
+Don Murray,1,0,0,0,0,0,7
+Daniel Fuchs,1,0,0,0,0,0,0
+Sir Laurence Olivier,1,0,0,0,0,0,0
+Rock Hudson,1,0,0,0,0,0,4
+Yul Brynner,1,0,0,1,0,0,2
+"Jacques Tati, Henri Marquet",1,0,0,0,0,0,0
+"William Ludwig, Sonya Levien",1,0,0,0,0,0,0
+"Milton Sperling, Emmet Lavery",1,0,0,0,0,0,0
+"Daniel Fuchs, Isobel Lennart",1,0,0,0,0,0,0
+"Jean Marsan, Henry Troyat, Jacques Perret, Henri Verneuil, Raoul Ploquin",1,0,0,0,0,0,0
+Nicholas Ray,1,0,0,0,1,0,2
+"Joe Connelly, Bob Mosher",1,0,0,0,0,1,0
+"A. B. Guthrie, Jr.",1,0,0,0,0,0,0
+Helen Deutsch,1,0,0,0,0,0,0
+"Giuseppe De Santis, Carlo Lizzani",1,0,0,0,0,0,0
+Kim Hunter,1,0,0,1,0,0,9
+"Billy Wilder, Lesser Samuels, Walter Newman",1,0,0,0,0,0,0
+"Michael Wilson, Harry Brown",1,0,0,0,0,0,0
+"Max Ophuls, Jacques Natanson",1,0,0,0,0,0,0
+"Philip Yordan, Robert Wyler",1,0,0,0,0,0,0
+"James Agee, John Huston",1,0,0,0,0,0,0
+"Alfred Hayes, Stewart Stern",1,0,0,0,0,0,0
+"Paul Dehn, James Bernard",1,0,0,0,0,0,0
+"Robert Riskin, Liam O'Brien",1,0,0,0,0,0,0
+Oscar Millard,1,0,0,0,0,0,0
+"Budd Boetticher, Ray Nazarro",1,0,0,0,0,0,0
+Joan Blondell,1,0,0,2,0,0,9
+Arthur Hunnicutt,1,0,0,0,0,0,1
+Kevin McCarthy,1,0,0,0,0,0,12
+Leo Genn,1,0,0,0,0,0,2
+"Charles Brackett, Billy Wilder, D. M. Marshman, Jr.",1,0,0,0,0,0,0
+"Joseph L. Mankiewicz, Lesser Samuels",1,0,0,0,0,0,0
+"Virginia Kellogg, Bernard C. Schoenfeld",1,0,0,0,0,0,0
+Albert Mannheimer,1,0,0,0,0,0,0
+"Ben Maddow, John Huston",1,0,0,0,0,1,0
+Sy Gomberg,1,0,0,0,0,0,0
+Leonard Spigelgass,1,0,0,0,0,2,0
+"William Bowers, Andre de Toth",1,0,0,0,0,0,0
+"Clarence Greene, Russell Rouse",1,0,0,0,0,0,0
+Shirley Booth,1,0,0,2,0,0,1
+Daniel Taradash,1,0,0,0,0,1,0
+Terence Rattigan,1,0,0,0,0,0,0
+Eric Ambler,1,0,0,0,0,0,0
+"Ray Ashley, Morris Engel, Ruth Orkin",1,0,0,0,0,0,0
+Louis L'Amour,1,0,0,0,0,0,0
+Alec Coppel,1,0,0,0,0,1,0
+Charles Walters,1,0,0,0,1,0,0
+Donna Reed,1,0,0,1,0,0,4
+Maggie McNamara,1,0,0,0,0,0,0
+Ava Gardner,1,0,0,1,0,0,5
+Robert Strauss,1,0,0,0,0,0,2
+Brandon De Wilde,1,0,0,0,0,0,0
+Sydney Boehm,1,0,0,0,0,1,0
+Julie Harris,1,0,0,0,0,0,7
+Frank S. Nugent,1,0,0,0,0,3,0
+"Roger MacDougall, John Dighton, Alexander Mackendrick",1,0,0,0,0,0,0
+Charles Schnee,1,0,0,0,0,2,0
+Guy Trosper,1,0,0,0,0,2,0
+"Martin Goldsmith, Jack Leonard",1,0,0,0,0,0,0
+"Fredric M. Frank, Theodore St. John, Frank Cavett",1,0,0,0,0,0,0
+Cecil B. DeMille,1,0,0,0,7,0,1
+Terry Moore,1,0,0,0,0,0,4
+Colette Marchand,1,0,0,0,0,0,0
+Jean Hagen,1,0,0,0,0,0,2
+"Edward Doherty, Jules Schermer",1,0,0,0,0,0,0
+"Chandler Sprague, David Boehm",1,0,0,0,0,0,0
+Sam Waterston,1,0,0,6,0,0,13
+Arthur Caesar,1,0,0,0,0,1,0
+"Screenplay by Waldemar Young, John L. Balderston, Achmed Abdullah;  Adaptation by Grover Jones, William Slavens McNutt",1,0,0,0,0,0,0
+Casey Robinson,1,0,0,0,0,3,0
+"Ben Hecht, Charles MacArthur",1,0,0,0,0,1,0
+"Don Hartman, Stephen Avery",1,0,0,0,0,0,0
+Gregory Rogers,1,0,0,0,0,0,0
+Henry Hathaway,1,0,0,0,5,0,0
+Merle Oberon,1,0,0,0,0,0,1
+Miriam Hopkins,1,0,0,1,0,0,2
+Elisabeth Bergner,1,0,0,0,0,0,0
+Franchot Tone,1,0,0,0,0,0,3
+Mauri Grashin,1,0,0,0,0,0,0
+Mischa Auer,1,0,0,0,0,0,2
+Victor Schertzinger,1,0,0,0,0,0,0
+Grace Moore,1,0,0,0,0,0,0
+Charles MacArthur,1,0,0,0,0,3,0
+"Paul Green, Sonya Levien",1,0,0,0,0,0,0
+"Victor Heerman, Sarah Y. Mason",1,0,0,0,0,0,0
+Diana Wynyard,1,0,0,0,0,0,0
+May Robson,1,0,0,0,0,0,6
+"Adela Rogers St. Johns, Jane Murfin",1,0,0,0,0,0,0
+Lucien Hubbard,1,0,0,0,0,0,0
+"Grover Jones, William Slavens McNutt",1,0,0,0,0,0,0
+"Talbot Jennings, Jules Furthman, Carey Wilson",1,0,0,0,0,0,0
+Stuart Erwin,1,0,0,0,0,0,2
+Edwin Burke,1,0,0,0,0,0,0
+Andrea Leeds,1,0,0,0,0,0,1
+"Morris Ryskind, Anthony Veiller",1,0,0,0,0,0,0
+"Norman Reilly Raine, Heinz Herald, Geza Herczeg",1,0,0,0,0,0,0
+"John Lee Mahin, Marc Connelly, Dale Van Every",1,0,0,0,0,0,0
+Vina Delmar,1,0,0,0,0,0,0
+"William A. Wellman, Robert Carson",1,0,0,0,0,0,0
+"Heinz Herald, Geza Herczeg",1,0,0,0,0,0,0
+Niven Busch,1,0,0,0,0,3,0
+William Dieterle,1,0,0,0,3,0,0
+Sidney Franklin,1,0,0,0,3,0,0
+Anne Shirley,1,0,0,0,0,0,1
+Roland Young,1,0,0,0,0,0,5
+Gladys George,1,0,0,0,0,0,5
+H. B. Warner,1,0,0,0,0,0,0
+Joseph Schildkraut,1,0,0,1,0,0,1
+Ralph Bellamy,1,0,0,0,0,0,5
+"Eric Hatch, Morris Ryskind",1,0,0,0,0,0,0
+Adele Comandini,1,0,0,0,0,0,0
+Robert Hopkins,1,0,0,0,0,0,0
+William Anthony McGuire,1,0,0,0,0,0,0
+Robert Z. Leonard,1,0,0,0,3,0,0
+Bonita Granville,1,0,0,0,0,0,1
+Carole Lombard,1,0,0,0,0,0,2
+"Percy Heath, Samuel Hoffenstein",1,0,0,0,0,0,0
+Lynn Fontanne,1,0,0,0,0,0,0
+Gene Lockhart,1,0,0,0,0,0,5
+Warner Baxter,1,0,0,0,0,0,1
+Tom Barry,1,0,0,0,0,1,0
+Irving Cummings,1,0,0,0,2,0,0
+Harry Beaumont,1,0,0,0,1,0,0
+Mary Pickford,1,0,0,0,0,0,0
+Bessie Love,1,0,0,0,0,0,1
+Corinne Griffith,1,0,0,0,0,0,1
+Jeanne Eagels,1,0,0,0,0,0,0
+Betty Compson,1,0,0,0,0,0,2
+Lewis Stone,1,0,0,0,0,0,5
+Chester Morris,1,0,0,0,0,0,1
+George Bancroft,1,0,0,0,0,0,1
+Josephine Lovett,1,0,0,0,0,1,0
+"George Marion, Jr.",1,0,0,0,0,0,0
+Joseph Farnham,1,0,0,0,0,2,0
+Gerald Duffy,1,0,0,0,0,0,0
+Lajos Biro,1,0,0,0,0,0,0
+Benjamin Glazer,1,0,0,0,0,0,0
+Anthony Coldeway,1,0,0,0,0,2,0
+Alfred Cohn,1,0,0,0,0,0,0
+Herbert Brenon,1,0,0,0,0,0,0
+Ted Wilde,1,0,0,0,1,1,0
+Louise Dresser,1,0,0,0,0,0,2
+Elliott Clawson,1,0,0,0,0,0,0
+Bess Meredyth,1,0,0,0,0,0,0
+Alfred Lunt,1,0,0,0,0,0,0
+Ann Harding,1,0,0,0,0,0,2
+"Lucien Hubbard, Joseph Jackson",1,0,0,0,0,0,0
+"John Bright, Kubec Glasmon",1,0,0,0,0,0,0
+"Harry d'Abbadie d'Arrast, Douglas Doty, Donald Ogden Stewart",1,0,0,0,0,0,0
+John Monk Saunders,1,0,0,0,0,2,0
+"Joseph L. Mankiewicz, Sam Mintz",1,0,0,0,0,0,0
+"Francis Faragoh, Robert N. Lee",1,0,0,0,0,0,0
+Horace Jackson,1,0,0,0,0,0,0
+"Seton I. Miller, Fred Niblo, Jr.",1,0,0,0,0,0,0
+Howard Estabrook,1,0,0,0,0,0,0
+Wesley Ruggles,1,0,0,0,2,0,0
+Marlene Dietrich,1,0,0,1,0,0,4
+Maurice Chevalier,1,0,0,3,0,0,0
+Adolphe Menjou,1,0,0,0,0,0,3
+Richard Dix,1,0,0,0,0,0,6
+Jackie Cooper,1,0,0,0,0,0,6
+(Howard Estabrook),1,0,0,0,0,0,0
+(John Meehan),1,0,0,0,0,0,0
+(Julian Josephson),1,0,0,0,0,0,0
+"(George Abbott), (Maxwell Anderson), (Del Andrews)",1,0,0,0,0,0,0
+Robert Leonard,1,0,0,0,0,0,0
+Nancy Carroll,1,0,0,0,0,0,2
+Lawrence Tibbett,1,0,0,0,0,0,0
+"Dorothy Parker, Alan Campbell, Robert Carson",1,0,0,0,0,0,0
+Robert Morley,1,0,0,1,0,0,7
+Aline MacMahon,1,0,0,0,0,0,2
+"Sidney Buchman, Seton I. Miller",1,0,0,0,0,0,0
+"Michael Powell, Emeric Pressburger",1,0,0,0,1,0,0
+Robert Buckner,1,0,0,0,0,0,0
+Sidney Harmon,1,0,0,0,0,0,0
+Paul Gallico,1,0,0,0,0,2,0
+John Farrow,1,0,0,0,4,1,0
+Mervyn LeRoy,1,0,0,1,2,0,0
+Susan Peters,1,0,0,0,0,0,0
+Henry Travers,1,0,0,0,0,0,1
+Van Heflin,1,0,0,0,0,0,2
+William Bendix,1,0,0,0,0,0,2
+Gordon Wellesley,1,0,0,0,0,0,0
+"W. R. Burnett, Frank Butler",1,0,0,0,0,0,0
+"Richard Connell, Robert Presnell",1,0,0,0,0,0,0
+Monckton Hoffe,1,0,0,0,0,1,0
+Harry Segall,1,0,0,0,0,0,0
+"Billy Wilder, Thomas Monroe",1,0,0,0,0,0,0
+Paul Jarrico,1,0,0,0,0,0,0
+"Karl Tunberg, Darrell Ware",1,0,0,0,0,0,0
+"Abem Finkel, Harry Chandlee, Howard Koch, John Huston",1,0,0,0,0,0,0
+"Herman J. Mankiewicz, Orson Welles",1,0,0,0,0,1,0
+Howard Hawks,1,0,0,0,4,0,0
+Alexander Hall,1,0,0,0,2,0,0
+"Frank Butler, Don Hartman",1,0,0,0,0,0,0
+George Oppenheimer,1,0,0,0,0,1,0
+Patricia Collinge,1,0,0,0,0,0,0
+Steve Fisher,1,0,0,0,0,1,0
+Hume Cronyn,1,0,0,1,0,1,9
+Alexander Knox,1,0,0,1,0,0,5
+Dashiell Hammett,1,0,0,0,0,3,0
+"Robert Russell, Frank Ross, Richard Flournoy, Lewis R. Foster",1,0,0,0,0,0,0
+"Julius J. Epstein, Philip G. Epstein, Howard Koch",1,0,0,0,0,0,0
+Allan Scott,1,0,0,0,0,6,0
+Noel Coward,1,0,0,0,0,0,0
+Gordon McDonell,1,0,0,0,0,0,0
+"Robert Russell, Frank Ross",1,0,0,0,0,0,0
+William Saroyan,1,0,0,0,0,0,0
+Guy Gilpatric,1,0,0,0,0,0,0
+"Ring Lardner, Jr., Michael Kanin",1,0,0,0,0,0,0
+Lucile Watson,1,0,0,0,0,0,1
+Katina Paxinou,1,0,0,1,0,0,0
+Paulette Goddard,1,0,0,0,0,0,5
+Jean Arthur,1,0,0,0,0,0,1
+Paul Lukas,1,0,0,1,0,0,3
+"Irwin Shaw, Sidney Buchman",1,0,0,0,0,0,0
+"Claudine West, George Froeschel, Arthur Wimperis",1,0,0,0,0,0,0
+"Jo Swerling, Herman J. Mankiewicz",1,0,0,0,0,0,0
+"Arthur Wimperis, George Froeschel, James Hilton, Claudine West",1,0,0,0,0,0,0
+"Rodney Ackland, Emeric Pressburger",1,0,0,0,0,0,0
+Margaret Wycherly,1,0,0,0,0,0,3
+Mary Astor,1,0,0,0,0,0,4
+Margaret Sullavan,1,0,0,0,0,0,0
+Brian Aherne,1,0,0,0,0,0,4
+Melchior Lengyel,1,0,0,0,0,0,0
+Lewis R. Foster,1,0,0,0,0,1,0
+"Mildred Cram, Leo McCarey",1,0,0,0,0,1,0
+Felix Jackson,1,0,0,0,0,0,0
+Victor Fleming,1,0,0,0,2,0,0
+Edna May Oliver,1,0,0,0,0,0,3
+Hattie McDaniel,1,0,0,0,0,0,2
+Geraldine Fitzgerald,1,0,0,0,0,0,5
+Brian Donlevy,1,0,0,0,0,0,3
+Harry Carey,1,0,0,0,0,0,16
+"Screenplay and Dialogue by George Bernard Shaw; Adaptation by W. P. Lipscomb, Cecil Lewis, Ian Dalrymple",1,0,0,0,0,0,0
+"Charles Brackett, Billy Wilder, Walter Reisch",1,0,0,0,0,0,0
+"Julius J. Epstein, Lenore Coffee",1,0,0,0,0,0,0
+"Ian Dalrymple, Frank Wead, Elizabeth Hill",1,0,0,0,0,0,0
+"John Meehan, Dore Schary",1,0,0,0,0,0,0
+Frank Wead,1,0,0,0,0,1,0
+"Marcella Burke, Frederick Kohner",1,0,0,0,0,0,0
+"Dore Schary, Eleanore Griffin",1,0,0,0,0,0,0
+John Howard Lawson,1,0,0,0,0,1,0
+Miliza Korjus,1,0,0,0,0,0,0
+Spring Byington,1,0,0,1,0,0,3
+Billie Burke,1,0,0,0,0,0,5
+"R. C. Sherriff, Claudine West, Eric Maschwitz",1,0,0,0,0,0,0
+"Charles MacArthur, Ben Hecht",1,0,0,0,0,1,0
+Sara Allgood,1,0,0,0,0,0,2
+"Charles Bennett, Joan Harrison",1,0,0,0,0,0,0
+Sydney Greenstreet,1,0,0,0,0,0,3
+James Gleason,1,0,0,0,0,0,7
+Donald Crisp,1,0,0,0,0,0,3
+"Robert E. Sherwood, Joan Harrison",1,0,0,0,0,0,0
+Donald Ogden Stewart,1,0,0,0,0,1,0
+Stuart N. Lake,1,0,0,0,0,0,0
+"Bella Spewack, Samuel Spewack, Leo McCarey",1,0,0,0,0,0,0
+"Dore Schary, Hugo Butler",1,0,0,0,0,0,0
+Walter Reisch,1,0,0,0,0,0,0
+"Benjamin Glazer, John S. Toldy",1,0,0,0,0,0,0
+"John Huston, Heinz Herald, Norman Burnside",1,0,0,0,0,0,0
+Raymond Massey,1,0,0,0,0,0,0
+Barbara O'Neil,1,0,0,0,0,0,1
+Ruth Hussey,1,0,0,0,0,0,1
+Jane Darwell,1,0,0,0,0,0,8
+Judith Anderson,1,0,0,0,0,0,3
+Martha Scott,1,0,0,0,0,0,2
+Ginger Rogers,1,0,0,1,0,0,9
+James Stephenson,1,0,0,0,0,0,0
+Jack Oakie,1,0,0,0,0,0,1
+William Gargan,1,0,0,0,0,0,5
+Albert Basserman,1,0,0,0,0,0,0
+"James Poe, John Farrow, S.J. Perelman",1,0,0,0,0,0,0
+"Fred Guiol, Ivan Moffat",1,0,0,0,0,0,0
+Norman Corwin,1,0,0,0,0,0,0
+"Waldo Salt, Norman Wexler",1,0,0,0,0,0,0
+Emil Jannings,1,0,0,0,0,0,0
+Diahann Carroll,1,0,0,3,0,0,4
+Lee Strasberg,1,0,0,0,0,0,1
+Michael V. Gazzo,1,0,0,0,0,0,3
+Fred Astaire,1,0,0,5,0,0,9
+Art Carney,1,0,0,1,0,0,7
+"Melvin Frank, Jack Rose",1,0,1,0,0,0,0
+David S. Ward,1,0,0,0,5,6,0
+Steve Shagan,1,0,0,0,0,4,0
+"George Lucas, Gloria Katz, Willard Huyck",1,0,0,0,0,0,0
+James Bridges,1,0,0,1,4,1,0
+Francois Truffaut,1,0,0,0,0,0,0
+William Peter Blatty,1,0,0,0,2,4,0
+Sylvia Sidney,1,0,0,2,0,0,8
+Tatum O'Neal,1,0,0,1,0,0,5
+Candy Clark,1,0,0,0,0,0,11
+Linda Blair,1,0,0,1,0,0,8
+Randy Quaid,1,0,0,3,0,0,31
+Jason Miller,1,0,0,0,0,0,3
+John Houseman,1,0,0,4,0,0,5
+Jack Gilford,1,0,0,1,0,0,3
+"Terence McCloy, Chris Clark, Suzanne de Passe",1,0,0,0,0,0,0
+Valentina Cortese,1,0,0,1,0,0,3
+"Francois Truffaut, Jean-Louis Richard, Suzanne Schiffman",1,0,0,0,0,0,0
+Jeremy Larner,1,0,0,0,0,0,0
+Lily Tomlin,1,0,1,6,0,0,18
+Giancarlo Giannini,1,0,0,0,0,0,21
+"Ruggero Maccari, Dino Risi",1,0,0,0,0,2,0
+"Lawrence Hauben, Bo Goldman",1,0,1,0,0,1,0
+"John Huston, Gladys Hill",1,0,0,0,0,1,0
+"Robert Towne, Warren Beatty",1,0,0,0,0,1,0
+Ted Allan,1,0,0,0,0,0,0
+Frank Pierson,1,0,1,0,1,4,0
+"Claude Lelouch, Pierre Uytterhoeven",1,0,0,0,0,1,0
+"Federico Fellini, Tonino Guerra",1,0,0,0,0,1,0
+Brenda Vaccaro,1,0,0,2,0,0,10
+Ronee Blakley,1,0,0,1,0,0,3
+"Paul Mazursky, Josh Greenfeld",1,0,0,0,0,0,0
+Carol Kane,1,0,0,1,0,0,22
+Louise Fletcher,1,0,1,1,0,0,20
+Chris Sarandon,1,0,0,0,0,0,14
+Brad Dourif,1,0,0,0,0,0,36
+George Burns,1,0,0,0,0,0,3
+"Gene Wilder, Mel Brooks",1,0,0,0,0,1,0
+Paul Dehn,1,0,0,0,0,5,0
+Julian Barry,1,0,0,0,0,0,1
+"Francis Ford Coppola, Mario Puzo",1,0,0,0,0,1,0
+Screenplay by Mordecai Richler;  Adaptation by Lionel Chetwynd,1,0,0,0,0,0,0
+Story and Screenplay by Luis Buñuel;  in collaboration with Jean-Claude Carrière,1,0,0,0,0,0,0
+"Lonne Elder, III",1,0,0,0,0,0,0
+Burt Young,1,0,0,0,0,0,19
+Arthur Hiller,1,0,0,1,10,0,0
+"Francis Ford Coppola, Edmund H. North",1,0,0,0,0,1,0
+Eric Rohmer,1,0,0,0,0,0,0
+Erich Segal,1,0,0,0,0,2,0
+Norman Wexler,1,0,0,0,0,2,0
+"Story by Bob Rafelson, Adrien Joyce;  Screenplay by Adrien Joyce",1,0,0,0,0,0,0
+Larry Kramer,1,0,1,0,0,1,0
+"Ring Lardner, Jr.",1,0,0,0,0,0,0
+"Renee Taylor, Joseph Bologna, David Zelag Goodman",1,0,0,0,0,0,0
+Ken Russell,1,0,0,1,4,2,3
+Franklin J. Schaffner,1,0,0,1,7,0,0
+Sally Kellerman,1,0,0,1,0,0,14
+Leonard Frey,1,0,0,0,0,0,3
+Karen Black,1,0,0,3,0,0,25
+Carrie Snodgress,1,0,0,1,0,0,7
+Sarah Miles,1,0,3,2,0,0,3
+Ali MacGraw,1,0,0,1,0,0,4
+John Mills,1,0,2,1,0,0,11
+John Marley,1,0,0,1,0,0,5
+Chief Dan George,1,0,0,1,0,0,2
+Richard Castellano,1,0,0,0,0,0,0
+Ryan O'Neal,1,0,0,2,0,0,14
+James Earl Jones,1,0,0,4,0,0,24
+Topol,1,0,0,0,0,2,9
+Richard Jaeckel,1,0,0,0,0,0,7
+"Mario Puzo, Francis Ford Coppola",1,0,0,0,0,2,0
+Penelope Gilliatt,1,0,1,0,0,0,0
+"Jan Troell, Bengt Forslund",1,0,0,0,0,0,0
+Jay Allen,1,0,0,0,0,0,0
+Jan Troell,1,0,0,0,3,1,0
+Susan Tyrrell,1,0,0,0,0,0,7
+Jeannie Berlin,1,0,0,1,0,0,3
+Cicely Tyson,1,0,1,1,0,0,12
+Diana Ross,1,0,1,2,0,0,1
+Joel Grey,1,0,0,2,0,0,6
+James Caan,1,0,0,3,0,0,30
+Paul Winfield,1,0,0,0,0,0,11
+Herman Raucher,1,0,0,0,0,4,0
+Ben Johnson,1,0,0,1,0,0,22
+"Andy Lewis, Dave Lewis",1,0,0,0,0,0,0
+"Elio Petri, Ugo Pirro",1,0,0,0,0,0,0
+"Larry McMurtry, Peter Bogdanovich",1,0,1,0,0,1,0
+"Ugo Pirro, Vittorio Bonicelli",1,0,0,0,0,0,0
+Ernest Tidyman,1,0,0,0,0,3,0
+Peter Bogdanovich,1,0,0,2,9,2,6
+Margaret Leighton,1,0,1,0,0,0,0
+Cloris Leachman,1,0,0,4,0,0,29
+Barbara Harris,1,0,0,4,0,0,7
+Janet Suzman,1,0,0,0,0,0,2
+Ned Beatty,1,0,0,1,0,0,31
+Marie-Christine Barrault,1,0,0,0,0,0,5
+Robert Lewin,1,0,0,0,0,0,0
+Elizabeth McGovern,1,0,0,1,0,0,19
+"Warren Beatty, Trevor Griffiths",1,0,0,0,0,1,0
+Colin Welland,1,0,1,0,0,3,0
+John Guare,1,0,1,0,0,2,0
+Steve Gordon,1,0,0,0,1,2,0
+Michael Weller,1,0,0,0,0,0,0
+"Jay Presson Allen, Sidney Lumet",1,0,0,0,0,1,0
+Dennis Potter,1,0,0,0,0,4,0
+Ernest Thompson,1,0,1,0,0,1,0
+Mark Rydell,1,0,0,2,5,0,4
+Hugh Hudson,1,0,0,0,5,1,0
+Joan Hackett,1,0,0,1,0,0,1
+Robert Preston,1,0,0,2,0,0,5
+"Howard E. Rollins, Jr.",1,0,0,0,0,0,0
+Ian Holm,1,0,1,0,0,0,42
+James Coco,1,0,0,2,0,0,2
+Dudley Moore,1,0,0,4,0,1,11
+"Nancy Meyers, Charles Shyer, Harvey Miller",1,0,0,0,0,0,0
+Jean Gruault,1,0,0,0,0,2,0
+Christopher Gore,1,0,0,0,0,1,0
+"Screenplay by W. D. Richter;  Story by W. D. Richter, Arthur Ross",1,0,0,0,0,0,0
+Screenplay by Lawrence B. Marcus;  Adaptation by Richard Rush,1,0,0,0,0,0,0
+"Christopher DeVore, Eric Bergren, David Lynch",1,0,0,0,0,0,0
+"Louis Gossett, Jr.",1,0,0,0,0,0,0
+Teri Garr,1,0,0,0,0,0,18
+"Jonathan Hardy, David Stevens, Bruce Beresford",1,0,0,0,0,0,0
+Linda Hunt,1,0,0,1,0,0,7
+Tom Hulce,1,0,0,4,0,0,7
+F. Murray Abraham,1,0,0,1,0,0,28
+"Lawrence Lasker, Walter F. Parkes",1,0,0,0,0,1,0
+"Nora Ephron, Alice Arlen",1,0,0,0,0,2,0
+"Lawrence Kasdan, Barbara Benedek",1,0,0,0,0,1,0
+Willy Russell,1,0,2,0,0,1,1
+Ronald Harwood,1,0,2,0,0,7,0
+Bruce Beresford,1,0,0,1,20,3,0
+Alfre Woodard,1,0,0,3,0,0,26
+Amy Irving,1,0,0,2,0,0,12
+Rip Torn,1,0,0,0,1,0,36
+Lesley Ann Warren,1,0,0,4,0,0,16
+Sam Shepard,1,0,1,1,0,4,33
+Tom Conti,1,0,0,2,0,0,7
+"Screenplay by Larry Gelbart, Murray Schisgal; Story by Don McGuire, Larry Gelbart",1,0,0,0,0,0,0
+Douglas Day Stewart,1,0,0,0,1,4,0
+John Briley,1,0,1,0,0,5,0
+Melissa Mathison,1,0,1,0,0,5,0
+Blake Edwards,1,0,0,1,17,13,0
+David Mamet,1,0,0,0,7,16,0
+"Costa-Gavras, Donald Stewart",1,0,1,0,0,0,0
+Richard Attenborough,1,0,3,5,8,0,7
+Tom Rickman,1,0,0,0,0,0,0
+Richard Rush,1,0,0,1,2,1,0
+Beatrice Straight,1,0,0,0,0,0,5
+Herbert Ross,1,0,0,1,8,0,0
+Walter Newman,1,0,0,0,0,0,0
+"Warren Beatty, Buck Henry",1,0,0,0,0,0,0
+Michael Cimino,1,0,0,1,6,3,1
+Hal Ashby,1,0,0,3,6,0,0
+Penelope Milford,1,0,0,0,0,0,5
+Gary Busey,1,0,0,1,0,0,35
+Arthur Laurents,1,0,0,0,0,1,0
+"Luis Buñuel, Jean-Claude Carrière",1,0,1,0,0,1,0
+Larry Gelbart,1,0,0,0,0,3,0
+"Gavin Lambert, Lewis John Carlino",1,0,0,0,0,0,0
+Tuesday Weld,1,0,0,1,0,0,4
+Bernard Slade,1,0,0,0,0,2,0
+Quinn Cummings,1,0,0,1,0,0,0
+Leslie Browne,1,0,0,1,0,0,0
+Peter Firth,1,0,0,1,0,0,10
+Mikhail Baryshnikov,1,0,0,1,0,0,1
+Walter Bernstein,1,0,0,0,0,2,0
+Story and Screenplay by Jean-Charles Tacchella;  Adaptation by Daniele Thompson,1,0,0,0,0,0,0
+"Steve Shagan, David Butler",1,0,0,0,0,0,0
+Nicholas Meyer,1,0,0,0,4,4,0
+"Federico Fellini, Bernardino Zapponi",1,0,0,0,0,0,0
+John G. Avildsen,1,0,0,1,11,0,0
+"Elaine May, Warren Beatty",1,0,0,0,0,1,0
+"Story by Nancy Dowd;  Screenplay by Waldo Salt, Robert C. Jones",1,0,0,0,0,0,0
+Mary Steenburgen,1,0,0,2,0,0,30
+"Robert Alan Aurthur, Bob Fosse",1,0,0,0,0,0,0
+Diana Scarwid,1,0,0,0,0,0,18
+Cathy Moriarty,1,0,0,1,0,0,16
+Eva Le Gallienne,1,0,0,0,0,0,0
+Eileen Brennan,1,0,0,2,0,0,10
+Mary Tyler Moore,1,0,1,9,0,0,5
+Michael O'Keefe,1,0,0,0,0,0,16
+Timothy Hutton,1,0,0,3,0,0,28
+"Mike Gray, T.S. Cook, James Bridges",1,0,0,0,0,0,0
+Steve Tesich,1,0,0,0,0,3,0
+"Valerie Curtin, Barry Levinson",1,0,0,0,0,2,0
+Allan Burns,1,0,0,0,0,1,0
+"Story by Michael Cimino, Deric Washburn, Louis Garfinkle, Quinn K. Redeker;  Screenplay by Deric Washburn",1,0,0,0,0,0,0
+"Francis Veber, Edouard Molinaro, Marcello Danon, Jean Poiret",1,0,0,0,0,0,0
+"John Milius, Francis Coppola",1,0,0,0,0,0,0
+Edouard Molinaro,1,0,0,0,0,0,0
+Francis Coppola,1,0,0,0,0,0,0
+Mariel Hemingway,1,0,0,1,0,0,14
+Candice Bergen,1,0,0,11,0,0,12
+Barbara Barrie,1,0,0,0,0,0,3
+Justin Henry,1,0,0,1,0,0,6
+Frederic Forrest,1,0,0,1,0,0,14
+Paul Mazursky,1,0,0,1,9,6,12
+"Story by Walon Green, Roy N. Sickner;  Screenplay by Walon Green, Sam Peckinpah",1,0,0,0,0,0,0
+"Peter Fonda, Dennis Hopper, Terry Southern",1,0,0,0,0,0,0
+"Story by Nicola Badalucco;   Screenplay by Nicola Badalucco, Enrico Medioli, Luchino Visconti",1,0,0,0,0,0,0
+George Chakiris,1,0,0,1,0,0,1
+"Sergio Amidei, Diego Fabbri, Indro Montanelli",1,0,0,0,0,0,0
+"Valentin Yoshov, Grigori Chukhrai",1,0,0,0,0,0,0
+"Sidney Carroll, Robert Rossen",1,0,0,0,0,0,0
+George Axelrod,1,0,0,0,0,6,0
+"Robert Wise, Jerome Robbins",1,0,0,0,0,0,0
+J. Lee Thompson,1,0,0,1,11,0,0
+Rita Moreno,1,0,1,3,0,0,3
+Una Merkel,1,0,0,0,0,0,3
+Lotte Lenya,1,0,0,1,0,0,1
+Jackie Gleason,1,0,0,3,0,0,2
+Stuart Whitman,1,0,0,0,0,0,4
+"Stanley Shapiro, Paul Henning",1,0,0,0,0,1,0
+Marguerite Duras,1,0,0,0,0,1,0
+"Story by Richard Gregson, Michael Craig;  Screenplay by Bryan Forbes",1,0,0,0,0,0,0
+James Kennaway,1,0,0,0,0,1,0
+Isobel Lennart,1,0,0,0,0,3,0
+"Gavin Lambert, T. E. B. Clarke",1,0,0,0,0,0,0
+Jack Cardiff,1,0,0,1,1,0,0
+Mary Ure,1,0,0,1,0,0,1
+Janet Leigh,1,0,0,1,0,0,11
+Shirley Jones,1,0,0,4,0,0,5
+Glynis Johns,1,0,0,1,0,0,7
+"Federico Fellini, Tullio Pinelli, Ennio Flaiano, Brunello Rondi",1,0,0,0,0,0,0
+William Inge,1,0,0,0,0,1,0
+Chill Wills,1,0,0,0,0,0,4
+"Robert Bolt, Michael Wilson",1,0,0,0,0,0,0
+Diane Cilento,1,0,0,0,0,0,2
+Rachel Roberts,1,0,2,1,0,0,8
+Bobby Darin,1,0,0,2,0,0,2
+Nick Adams,1,0,0,0,0,0,0
+"Stanley Shapiro, Nate Monaster",1,0,0,0,0,0,0
+Alain Robbe-Grillet,1,0,0,0,2,2,0
+"Story by Charles Kaufman;  Screenplay by Charles Kaufman, Wolfgang Reinhardt",1,0,0,0,0,0,0
+"Ennio de Concini, Alfredo Giannetti, Pietro Germi",1,0,0,0,0,0,0
+William Gibson,1,0,0,0,1,4,0
+Vladimir Nabokov,1,0,0,0,0,3,0
+Eleanor Perry,1,0,0,0,0,1,0
+Ed Begley,1,0,0,1,0,0,28
+Robert Mulligan,1,0,0,2,1,0,0
+Pietro Germi,1,0,0,0,0,0,0
+Frank Perry,1,0,0,0,3,0,0
+Patty Duke,1,0,0,3,0,0,3
+Mary Badham,1,0,0,0,0,0,0
+Lee Remick,1,0,0,6,0,0,3
+Terence Stamp,1,0,1,1,0,0,26
+Omar Sharif,1,0,0,2,0,0,14
+Telly Savalas,1,0,0,6,0,0,8
+Victor Buono,1,0,0,1,0,0,3
+Melina Mercouri,1,0,0,3,0,0,2
+Jack Kruschen,1,0,0,0,0,0,5
+"Paul Mazursky, Larry Tucker",1,0,1,0,0,1,0
+Miyoshi Umeki,1,0,0,3,0,0,0
+Tony Curtis,1,0,0,2,0,0,9
+"Story by Federico Fellini, Ennio Flaiano, Tullio Pinelli;  Screenplay by Federico Fellini, Ennio Flaiano",1,0,0,0,0,0,0
+"Story by Barney Slater, Joel Kane;  Screenplay by Dudley Nichols",1,0,0,0,0,0,0
+"Story by Ralph Wheelwright;  Screenplay by R. Wright Campbell, Ivan Goff, Ben Roberts",1,0,0,0,0,0,0
+Leonard Gershe,1,0,0,0,0,1,0
+George Wells,1,0,0,0,0,1,0
+Reginald Rose,1,0,0,0,0,4,0
+"John Lee Mahin, John Huston",1,0,0,0,0,0,0
+"Michael Wilson, Carl Foreman, Pierre Boulle",1,0,0,0,0,0,0
+Diane Varsi,1,0,0,0,0,0,0
+Hope Lange,1,0,0,2,0,0,5
+Theodore Bikel,1,0,0,0,0,0,9
+Carolyn Jones,1,0,0,1,0,0,8
+Lana Turner,1,0,0,0,0,0,7
+Russ Tamblyn,1,0,0,0,0,0,6
+Sessue Hayakawa,1,0,0,1,0,0,2
+Vittorio De Sica,1,0,0,0,3,0,2
+Red Buttons,1,0,0,3,0,0,8
+Anthony Franciosa,1,0,0,3,0,0,2
+Albert Lamorisse,1,0,0,0,1,1,0
+"Federico Fellini, Tullio Pinelli",1,0,0,0,0,1,0
+Andrew L. Stone,1,0,0,0,1,1,0
+David Niven,1,0,1,3,0,0,11
+Burl Ives,1,0,0,1,0,0,1
+Trevor Howard,1,0,3,3,0,0,10
+Doris Day,1,0,0,6,0,0,1
+"Story by Russell Rouse, Clarence Greene;  Screenplay by Stanley Shapiro, Maurice Richlin",1,0,0,0,0,0,0
+"Story by Paul King, Joseph Stone;  Screenplay by Stanley Shapiro, Maurice Richlin",1,0,0,0,0,0,0
+"Francois Truffaut, Marcel Moussy",1,0,0,0,0,0,0
+Neil Paterson,1,0,0,0,0,0,0
+Karl Tunberg,1,0,0,0,0,3,0
+Wendell Mayes,1,0,0,0,0,1,0
+Jack Clayton,1,0,0,0,2,0,0
+Juanita Moore,1,0,0,1,0,0,3
+Susan Kohner,1,0,0,2,0,0,3
+Hermione Baddeley,1,0,1,1,0,0,3
+Ed Wynn,1,0,0,1,0,0,2
+Peggy Cass,1,0,0,1,0,0,0
+Robert Vaughn,1,0,0,3,0,0,16
+Charlton Heston,1,0,0,3,0,0,14
+Laurence Harvey,1,0,2,1,0,0,2
+"Fay Kanin, Michael Kanin",1,0,0,0,0,0,0
+"Story by James Edward Grant;  Screenplay by William Bowers, James Edward Grant",1,0,0,0,0,0,0
+"Terence Rattigan, John Gay",1,0,0,0,0,0,0
+"Nelson Gidding, Don Mankiewicz",1,0,0,0,0,0,0
+"Richard Brooks, James Poe",1,0,0,0,0,0,0
+Cara Williams,1,0,0,1,0,0,0
+Martha Hyer,1,0,0,0,0,0,5
+Margaret Rutherford,1,0,0,1,0,0,2
+Lilia Skala,1,0,0,2,0,0,3
+Martin Ritt,1,0,0,2,3,0,1
+Stirling Silliphant,1,0,0,0,0,4,0
+Daniel Massey,1,0,0,1,0,0,2
+Seymour Cassel,1,0,0,0,0,0,34
+Jack Albertson,1,0,0,0,0,0,3
+Cliff Robertson,1,0,0,1,0,0,13
+Ron Moody,1,0,0,1,0,0,4
+Alan Bates,1,0,2,3,0,0,9
+Jorge Semprun,1,0,0,0,0,0,0
+Story by Robert Kaufman;  Screenplay by Norman Lear,1,0,0,0,0,0,0
+"David Newman, Robert Benton",1,0,0,0,0,0,0
+"Joseph Strick, Fred Haines",1,0,0,0,0,0,0
+"Calder Willingham, Buck Henry",1,0,1,0,0,1,0
+Gene Wilder,1,0,0,2,1,2,10
+"Donn Pearce, Frank R. Pierson",1,0,0,0,0,0,0
+Katharine Ross,1,0,1,1,0,0,7
+Beah Richards,1,0,0,1,0,0,4
+Mildred Natwick,1,0,0,0,0,0,2
+Carol Channing,1,0,0,1,0,0,0
+Michael J. Pollard,1,0,0,1,0,0,14
+George Kennedy,1,0,0,2,0,0,26
+"Clint Johnston, Don Peters",1,0,0,0,0,0,0
+"Story by Claude Lelouch;  Screenplay by Claude Lelouch, Pierre Uytterhoeven",1,0,0,0,0,0,0
+Robert Ardrey,1,0,0,0,0,1,0
+Jack Wild,1,0,0,0,0,0,0
+Lynn Carlin,1,0,1,0,0,0,1
+Tony Richardson,1,0,0,1,5,1,0
+Rupert Crosse,1,0,0,0,0,0,0
+"Jorge Semprun, Costa-Gavras",1,0,0,0,0,0,0
+"James Poe, Robert E. Thompson",1,0,0,0,0,0,0
+Waldo Salt,1,0,1,0,0,4,0
+"Screenplay by John Hale, Bridget Boland;  Adaptation by Richard Sokolove",1,0,0,0,0,0,0
+Costa-Gavras,1,0,0,0,5,4,0
+Susannah York,1,0,0,2,0,0,7
+Catherine Burns,1,0,0,0,0,0,0
+Genevieve Bujold,1,0,0,0,0,0,0
+Anthony Quayle,1,0,1,1,0,0,2
+Elliott Gould,1,0,0,1,0,0,20
+"Stanley Kubrick, Arthur C. Clarke",1,0,0,0,0,1,0
+Sondra Locke,1,0,0,1,0,0,6
+Mel Brooks,1,0,0,2,10,11,11
+"Ira Wallach, Peter Ustinov",1,0,0,0,0,0,0
+"Franco Solinas, Gillo Pontecorvo",1,0,0,0,0,0,0
+Stewart Stern,1,0,0,0,0,1,1
+Vernon Harris,1,0,0,0,0,1,0
+James Goldman,1,0,1,0,0,1,0
+Franco Zeffirelli,1,0,0,1,3,2,0
+Anthony Harvey,1,0,0,1,1,0,0
+Gillo Pontecorvo,1,0,0,0,1,0,0
+Kay Medford,1,0,0,0,0,0,2
+"Story by Michelangelo Antonioni;  Screenplay by Michelangelo Antonioni, Tonino Guerra, Edward Bond",1,0,0,0,0,0,0
+Bill Naughton,1,0,0,0,0,3,0
+Claude Lelouch,1,0,0,1,7,6,0
+Lila Kedrova,1,0,0,1,0,0,2
+"Jean-Paul Rappeneau, Ariane Mnouchkine, Daniel Boulanger, Philippe De Broca",1,0,0,0,0,0,0
+"Age, Scarpelli, Mario Monicelli",1,0,0,0,0,0,0
+"Story by Orville H. Hampton;  Screenplay by Raphael Hayes, Orville H. Hampton",1,0,0,0,0,0,0
+Alun Owen,1,0,0,0,0,1,0
+"Story by S. H. Barnett;  Screenplay by Peter Stone, Frank Tarloff",1,0,0,0,0,0,0
+"Bill Walsh, Don DaGradi",1,0,0,0,0,1,0
+"Stanley Kubrick, Peter George, Terry Southern",1,0,0,0,0,0,0
+Edward Anhalt,1,0,0,0,0,3,0
+Robert Stevenson,1,0,0,0,1,0,0
+Peter Glenville,1,0,0,1,1,0,0
+Grayson Hall,1,0,0,1,0,0,2
+Michelangelo Antonioni,1,0,0,0,3,2,0
+Debbie Reynolds,1,0,0,4,0,0,8
+Lee Tracy,1,0,0,1,0,0,1
+Stanley Holloway,1,0,0,1,0,0,5
+James R. Webb,1,0,0,0,0,3,0
+"Story by Pasquale Festa Campanile, Massimo Franciosa, Nanni Loy, Vasco Pratolini;  Screenplay by Carlo Bernari, Pasquale Festa Campanile, Massimo Franciosa, Nanni Loy",1,0,0,0,0,0,0
+"Federico Fellini, Ennio Flaiano, Tullio Pinelli, Brunello Rondi",1,0,0,0,0,0,0
+John Osborne,1,0,0,0,0,1,1
+"Serge Bourguignon, Antoine Tudal",1,0,0,0,0,0,0
+James Poe,1,0,0,0,0,1,0
+"Richard L. Breen, Phoebe Ephron, Henry Ephron",1,0,0,0,0,0,0
+Lee Marvin,1,0,0,2,0,0,11
+Oskar Werner,1,0,0,3,0,0,2
+Martin Balsam,1,0,0,1,0,0,17
+Ian Bannen,1,0,1,0,0,0,8
+Vivien Merchant,1,0,0,1,0,0,2
+Jocelyne Lagarde,1,0,0,0,0,0,1
+Sandy Dennis,1,0,0,2,0,0,6
+Ida Kaminska,1,0,0,1,0,0,0
+Anouk Aimee,1,0,0,0,0,0,0
+Robert Shaw,1,0,0,1,0,0,6
+George Segal,1,0,0,4,0,0,14
+Mako,1,0,0,1,5,6,70
+Jacques Demy,1,0,0,0,3,4,0
+"Franklin Coen, Frank Davis",1,0,0,0,0,0,0
+"Jack Davies, Ken Annakin",1,0,0,0,0,0,0
+"Age, Scarpelli, Mario Monicelli, Tonino Guerra, Giorgio Salvioni, Suso Cecchi D'Amico",1,0,0,0,0,0,0
+Herb Gardner,1,0,0,0,0,1,0
+"Stanley Mann, John Kohn",1,0,0,0,0,0,0
+"Walter Newman, Frank R. Pierson",1,0,0,0,0,0,0
+Hiroshi Teshigahara,1,0,0,0,0,0,0
+Peggy Wood,1,0,0,1,0,0,1
+Elizabeth Hartman,1,0,0,2,0,0,2
+Samantha Eggar,1,0,0,1,0,0,6
+Frank Finlay,1,0,0,1,0,0,7
+Michael Dunn,1,0,0,0,0,0,2
+Written by Celine Song,1,0,0,0,0,0,0
+A Raisin In The Sun,0,2,2,0,0,0,0
+13th,0,2,1,0,0,0,0
+He Named Me Malala,0,1,1,0,0,0,0
+Cartel Land,0,1,1,0,0,0,0
+The Beatles: Eight Days A Week - The Touring Years,0,1,1,0,0,0,0
+Missing,0,1,2,0,0,0,0
+Jane,0,1,1,0,19,65,681
+The Defiant Ones,0,1,2,0,0,0,0
+The Prisoner,0,1,1,0,0,0,0
+Icarus,0,1,1,0,0,0,0
+Gandhi,0,0,7,0,1,1,9
+The Favourite,0,0,7,0,0,0,0
+The Shape of Water,0,0,6,0,0,0,0
+The Killing Fields,0,0,6,0,0,0,0
+Once Upon a Time.. in Hollywood,0,0,6,0,0,0,0
+Roma,0,0,6,0,44,44,379
+The Irishman,0,0,6,0,0,0,0
+"Three Billboards Outside Ebbing, Missouri",0,0,6,0,0,0,0
+Chariots Of Fire,0,0,5,0,0,0,0
+Romeo And Juliet,0,0,5,0,0,0,0
+The King Of Comedy,0,0,5,0,0,0,0
+Cinema Paradiso,0,0,5,0,0,0,0
+Joker,0,0,4,0,0,0,0
+Local Hero,0,0,4,0,0,0,0
+Network,0,0,4,0,0,0,0
+All The President's Men,0,0,4,0,0,0,0
+Reds,0,0,4,0,11,2,14
+Jack Hawkins,0,0,4,0,0,0,3
+The French Lieutenant's Woman,0,0,4,0,0,0,0
+Vice,0,0,4,0,12,18,58
+The Elephant Man,0,0,4,0,0,0,0
+The Angry Silence,0,0,4,0,0,0,0
+Manhattan,0,0,4,0,0,0,0
+Parasite,0,0,4,0,0,0,0
+Apocalypse Now,0,0,4,0,0,0,0
+Oh! What A Lovely War,0,0,4,0,0,0,0
+Hope And Glory,0,0,4,0,0,0,0
+The Mission,0,0,4,0,0,0,0
+The Last Picture Show,0,0,4,0,0,0,0
+Dirk Bogarde,0,0,4,2,0,0,3
+Tiger Bay,0,0,4,0,0,0,0
+The Dresser,0,0,4,0,0,0,0
+Bridge Of Spies,0,0,4,0,0,0,0
+The Go-Between,0,0,4,0,0,0,0
+Dunkirk,0,0,4,0,0,0,0
+The Day Of The Jackal,0,0,3,0,0,0,0
+Midnight Express,0,0,3,0,0,0,0
+Death On The Nile,0,0,3,0,0,0,0
+Sapphire,0,0,3,0,0,1,1
+Gladiator,0,0,3,0,0,0,0
+Picnic,0,0,3,0,0,0,0
+Equus,0,0,3,0,0,0,0
+Look Back In Anger,0,0,3,0,0,0,0
+Baby Doll,0,0,3,0,0,0,0
+Ryan's Daughter,0,0,3,0,0,0,0
+Close Encounters Of The Third Kind,0,0,3,0,0,0,0
+Julia,0,0,3,0,31,48,748
+Saturday Night And Sunday Morning,0,0,3,0,0,0,0
+BlacKkKlansman,0,0,3,0,0,0,0
+Moonlight,0,0,3,0,0,0,0
+Green Book,0,0,3,0,0,0,0
+Crimes And Misdemeanors,0,0,3,0,0,0,0
+Mia Farrow,0,0,3,7,0,0,21
+North West Frontier,0,0,3,0,0,0,0
+One Flew Over The Cuckoo's Nest,0,0,3,0,0,0,0
+La La Land,0,0,3,0,0,0,0
+Oliver!,0,0,3,0,0,0,0
+Blade Runner 2049,0,0,3,0,0,0,0
+Maigret Sets A Trap (Maigret Tend Un Piège),0,0,3,0,0,0,0
+Nocturnal Animals,0,0,3,0,0,0,0
+Anatomy Of A Murder,0,0,3,0,0,0,0
+The Deadly Affair,0,0,3,0,0,0,0
+The Deer Hunter,0,0,3,0,0,0,0
+Manchester by the Sea,0,0,3,0,0,0,0
+Alice Doesn't Live Here Anymore,0,0,3,0,0,0,0
+Darkest Hour,0,0,3,0,0,0,0
+The Piano,0,0,3,0,0,0,0
+Stéphane Audran,0,0,3,0,0,0,8
+The Slipper And The Rose,0,0,3,0,0,0,0
+Morgan - A Suitable Case For Treatment,0,0,3,0,0,0,0
+Alfie,0,0,3,0,0,1,31
+Alan Rickman,0,0,3,1,0,0,20
+Murder On The Orient Express,0,0,3,0,0,0,0
+A Bridge Too Far,0,0,3,0,0,0,0
+Tunes Of Glory,0,0,3,0,0,0,0
+Yanks,0,0,3,0,0,0,0
+Educating Rita,0,0,3,0,0,0,0
+Tootsie,0,0,3,0,0,0,0
+1917,0,0,3,0,0,0,0
+Heat And Dust,0,0,3,0,0,0,0
+The Trials Of Oscar Wilde,0,0,3,0,0,0,0
+The Last Emperor,0,0,3,0,0,0,0
+A Fish Called Wanda,0,0,3,0,0,0,0
+Kenneth More,0,0,3,0,0,0,2
+Trading Places,0,0,3,0,0,0,0
+"Goodbye, Children (Au Revoir Les Enfants)",0,0,3,0,0,0,0
+For Sama,0,0,3,0,0,0,0
+Radio Days,0,0,3,0,0,0,0
+Inherit The Wind,0,0,3,0,0,0,0
+Edith Evans,0,0,3,2,0,0,4
+A Private Function,0,0,3,0,0,0,0
+"Greystoke: The Legend Of Tarzan, Lord Of The Apes",0,0,3,0,0,0,0
+Jean De Florette,0,0,3,0,0,0,0
+Back To The Future,0,0,3,0,0,0,0
+Hannah And Her Sisters,0,0,3,0,0,0,0
+Mona Lisa,0,0,3,0,0,0,0
+A Room With A View,0,0,3,0,0,0,0
+Bullitt,0,0,3,0,0,0,0
+On Golden Pond,0,0,3,0,0,0,0
+Kramer Vs Kramer,0,0,3,0,0,0,0
+The Apartment,0,0,3,0,0,0,0
+Raiders Of The Lost Ark,0,0,3,0,0,0,0
+Elmer Gantry,0,0,3,0,0,0,0
+"Crouching Tiger, Hidden Dragon (Wo Hu Cang Long)",0,0,3,0,0,0,0
+First Man,0,0,3,0,0,0,0
+All That Jazz,0,0,3,0,0,0,0
+Dead Poets Society,0,0,3,0,0,0,0
+Cold War,0,0,3,0,0,0,0
+A Star Is Born,0,0,3,0,0,0,0
+Dangerous Liaisons,0,0,3,0,0,0,0
+Women In Love,0,0,2,0,0,0,0
+Zorba The Greek,0,0,2,0,0,0,0
+Ship Of Fools,0,0,2,0,0,0,0
+Billy Elliot,0,0,2,0,0,0,0
+The Graduate,0,0,2,0,0,0,0
+The Madness Of King George,0,0,2,0,0,0,0
+Mad Max: Fury Road,0,0,2,0,0,0,0
+Billy Budd,0,0,2,0,0,0,0
+Erin Brockovich,0,0,2,0,0,0,1
+The Big Short,0,0,2,0,0,0,0
+The Martian,0,0,2,0,0,0,0
+Apollo 13,0,0,2,0,0,0,0
+Lawrence Of Arabia,0,0,2,0,0,0,0
+The Usual Suspects,0,0,2,0,0,0,0
+O Brother Where Art Thou?,0,0,2,0,0,0,0
+The Knack,0,0,2,0,0,0,0
+In The Heat Of The Night,0,0,2,0,0,0,0
+The Quiller Memorandum,0,0,2,0,0,0,0
+The Spy Who Came In From The Cold,0,0,2,0,0,0,0
+Viva Maria,0,0,2,0,0,0,0
+Aaron Sorkin,0,0,2,0,1,8,0
+Séance On A Wet Afternoon,0,0,2,0,0,0,0
+A Man For All Seasons,0,0,2,0,0,0,0
+Accident,0,0,2,0,0,0,0
+The Pumpkin Eater,0,0,2,0,0,0,0
+"Divorce, Italian Style (Divorzio All'Italiana)",0,0,2,0,0,0,0
+Jamie Bell,0,0,2,0,0,0,18
+Rita Tushingham,0,0,2,1,0,0,8
+Whatever Happened To Baby Jane?,0,0,2,0,0,0,0
+The Charge Of The Light Brigade,0,0,2,0,0,0,0
+Darling,0,0,2,0,0,3,24
+The Hill,0,0,2,0,0,0,0
+Hud,0,0,2,0,16,13,219
+The Bofors Gun,0,0,2,0,0,0,0
+The Ipcress File,0,0,2,0,0,0,0
+Days Of Wine And Roses,0,0,2,0,0,0,0
+Dr Strangelove,0,0,2,0,0,0,0
+Midnight Cowboy,0,0,2,0,0,0,0
+Atlantic City,0,0,2,0,0,0,0
+The Honorary Consul,0,0,2,0,0,0,0
+Who Framed Roger Rabbit?,0,0,2,0,0,0,0
+ET: The Extra-Terrestrial,0,0,2,0,0,0,0
+Henry V,0,0,2,0,0,0,8
+Mississippi Burning,0,0,2,0,0,0,0
+Raging Bull,0,0,2,0,0,0,0
+Fame,0,0,2,0,0,0,0
+Rain Man,0,0,2,0,0,0,0
+The Europeans,0,0,2,0,0,0,0
+Alien,0,0,2,0,0,0,11
+Goodfellas,0,0,2,0,0,0,0
+Zelig,0,0,2,0,0,1,1
+Superman,0,0,2,0,0,0,0
+Simon Callow,0,0,2,0,0,0,22
+Witness,0,0,2,0,0,0,0
+Amadeus,0,0,2,0,1,1,4
+Ran,0,0,2,0,643,902,6165
+Rosanna Arquette,0,0,2,1,0,0,26
+Platoon,0,0,2,0,0,0,0
+Cry Freedom,0,0,2,0,0,0,0
+Carmen,0,0,2,0,2,4,235
+Another Country,0,0,2,0,0,0,0
+Once Upon A Time In America,0,0,2,0,0,0,0
+Babette's Feast (Babettes Gæstebud),0,0,2,0,0,0,0
+La Traviata,0,0,2,0,0,0,0
+Prologue,0,0,2,0,0,0,0
+"They Shoot Horses, Don't They?",0,0,2,0,0,0,0
+Schindler's List,0,0,2,0,0,0,0
+In The Line Of Fire,0,0,2,0,0,0,0
+Cabaret,0,0,2,0,0,0,0
+Taking Off,0,0,2,0,0,0,0
+"Sunday, Bloody Sunday",0,0,2,0,0,0,0
+Four Weddings And A Funeral,0,0,2,0,0,0,0
+Day For Night (La Nuit Américaine),0,0,2,0,0,0,0
+Pulp Fiction,0,0,2,0,0,0,0
+Three Colours Red (Trois Couleurs: Rouge),0,0,2,0,0,0,0
+Kes,0,0,2,0,43,99,538
+"The Adventures Of Priscilla, Queen Of The Desert",0,0,2,0,0,0,0
+Butch Cassidy And The Sundance Kid,0,0,2,0,0,0,0
+The Prime Of Miss Jean Brodie,0,0,2,0,0,0,0
+The Conversation,0,0,2,0,0,0,0
+Taxi Driver,0,0,2,0,0,0,0
+Dick Tracy,0,0,2,0,0,0,0
+Rocky,0,0,2,0,4,2,26
+Annie Hall,0,0,2,0,0,0,0
+Bugsy Malone,0,0,2,0,0,0,0
+Strictly Ballroom,0,0,2,0,0,0,0
+Thelma And Louise,0,0,2,0,0,0,0
+Cyrano De Bergerac,0,0,2,0,0,0,0
+Liv Ullman,0,0,2,0,2,1,6
+Jaws,0,0,2,0,0,0,0
+Howards End,0,0,2,0,0,0,0
+Chinatown,0,0,2,0,0,0,0
+Nashville,0,0,2,0,0,0,0
+Ray McAnally,0,0,2,0,0,0,5
+Jojo Rabbit,0,0,2,0,0,0,0
+True As A Turtle,0,0,2,0,0,0,0
+Yesterday's Enemy,0,0,2,0,0,0,0
+Carol,0,0,2,0,17,55,638
+Mandy,0,0,2,0,0,2,90
+"I'm All Right, Jack",0,0,2,0,0,0,0
+The Young Lovers,0,0,2,0,0,0,0
+Virginia McKenna,0,0,2,1,0,0,4
+Lion,0,0,2,0,13,14,162
+The Man Who Never Was,0,0,2,0,0,0,0
+Sylvia Syms,0,0,2,0,0,0,4
+Never On A Sunday,0,0,2,0,0,0,0
+Let's Make Love,0,0,2,0,0,0,0
+"Hiroshima, My Love (Hiroshima, Mon Amour)",0,0,2,0,0,0,0
+The Adventure (L'Avventura),0,0,2,0,0,0,0
+Tom Ford,0,0,2,1,2,2,0
+Roman Holiday,0,0,2,0,0,0,0
+Gervaise,0,0,2,0,0,0,0
+Ashes And Diamonds (Popiól I Diament),0,0,2,0,0,0,0
+Hayley Mills,0,0,2,2,0,0,3
+Some Like It Hot,0,0,2,0,0,0,0
+Smiles Of A Summer Night (Sommarnattens Leende),0,0,2,0,0,0,0
+Call Me by Your Name,0,0,2,0,0,0,0
+The Rose Tattoo,0,0,2,0,0,0,0
+The Divided Heart,0,0,2,0,0,0,0
+Donald Wolfit,0,0,2,0,0,0,6
+Lady Bird,0,0,2,0,0,0,0
+Yvonne Mitchell,0,0,2,0,0,0,1
+The Prince And The Showgirl,0,0,2,0,0,0,0
+Marty,0,0,2,0,3,10,55
+Spotlight,0,0,2,0,0,0,0
+Hell or High Water,0,0,2,0,0,0,0
+East Of Eden,0,0,2,0,0,0,0
+Ex Machina,0,0,2,0,0,0,0
+The Hateful Eight,0,0,2,0,0,0,0
+Judgment At Nuremberg,0,0,2,0,0,0,0
+The Hustler,0,0,2,0,0,0,0
+Seven Samurai (Shichinin No Samurai),0,0,2,0,0,0,0
+"I, Tonya",0,0,2,0,0,0,0
+Room At The Top,0,0,2,0,0,0,0
+"Bachelor, 38",0,0,1,0,0,0,0
+Salvatore Cascio,0,0,1,0,0,0,2
+Philippe Noiret,0,0,1,0,0,0,12
+Wale,0,0,1,0,1,1,44
+Pelle The Conqueror (Pelle Erobreren),0,0,1,0,0,0,0
+"Bradley Cooper, Will Fetters, Eric Roth",0,0,1,0,0,0,0
+Women On The Verge Of A Nervous Breakdown (Mujeres Al Borde De Un Ataque De Nervios ),0,0,1,0,0,0,0
+Laura San Giacomo,0,0,1,2,0,0,9
+The Field,0,0,1,0,0,0,0
+Driving Miss Daisy,0,0,1,0,0,0,0
+73 Cows,0,0,1,0,0,0,0
+Roughhouse,0,0,1,0,0,0,0
+They Shall Not Grow Old,0,0,1,0,0,0,0
+When Harry Met Sally,0,0,1,0,0,0,0
+"Shane Connaughton, Jim Sheridan",0,0,1,0,0,0,0
+"Sex, Lies And Videotape",0,0,1,0,0,0,0
+The Adventures Of Baron Munchausen,0,0,1,0,0,0,0
+RBG,0,0,1,0,0,0,0
+McQueen,0,0,1,0,4,3,23
+Free Solo,0,0,1,0,0,0,0
+Life And Nothing But (La Vie Et Rien D'Autre),0,0,1,0,0,0,0
+Salaam Bombay,0,0,1,0,0,0,0
+Three Identical Strangers,0,0,1,0,0,0,0
+Batman,0,0,1,0,2,2,1
+Marfa,0,0,1,0,0,1,0
+I'm OK,0,0,1,0,0,0,0
+The Blue Door,0,0,1,0,0,0,0
+Josh Singer,0,0,1,0,0,3,0
+Derek Jacobi,0,0,1,1,0,0,17
+Andrew Strong,0,0,1,0,0,0,1
+Juliet Stevenson,0,0,1,0,0,0,13
+Get Out,0,0,1,0,0,0,0
+Amanda Plummer,0,0,1,1,0,0,18
+"Dick Clement, Ian La Frenais, Roddy Doyle",0,0,1,0,0,0,0
+"Jean-Paul Rappeneau, Jean-Claude Carrière",0,0,1,0,0,0,0
+The Salesman,0,0,1,0,0,0,0
+The Commitments,0,0,1,0,0,0,0
+Dances With Wolves,0,0,1,0,0,0,0
+The Silence Of The Lambs,0,0,1,0,0,0,0
+Loveless,0,0,1,0,0,0,1
+The Nasty Girl (Das Schreckliche Mädchen),0,0,1,0,0,0,0
+First They Killed My Father,0,0,1,0,0,0,0
+The Hairdresser's Husband (Le Mari De La Coiffeuse),0,0,1,0,0,0,0
+Toto The Hero (Toto Le Héros),0,0,1,0,0,0,0
+"Truly, Madly, Deeply",0,0,1,0,0,0,0
+The Fisher King,0,0,1,0,0,0,0
+I Am Not a Witch,0,0,1,0,0,0,0
+The Ghoul,0,0,1,0,0,0,0
+Michael Leeson,0,0,1,0,0,3,0
+"Nicole Holofcener, Jeff Whitty",0,0,1,0,0,1,0
+"Spike Lee, David Rabinowitz, Charlie Wachtel, Kevin Willmott",0,0,1,0,0,0,0
+Billie Whitelaw,0,0,1,0,0,0,10
+Phantom Thread,0,0,1,0,0,0,0
+Capernaum,0,0,1,0,0,0,0
+The Florida Project,0,0,1,0,0,0,0
+Carrie Fisher,0,0,1,0,0,1,22
+Paddington 2,0,0,1,0,0,0,0
+Jawbone,0,0,1,0,0,0,0
+Jesus Of Montreal (Jésus De Montréal),0,0,1,0,0,0,0
+Milou In May  (Milou En Mai),0,0,1,0,0,0,0
+All the Money in the World,0,0,1,0,0,0,0
+Romeo And Juliet (Romuald Et Juliette),0,0,1,0,0,0,0
+Ghost,0,0,1,0,0,1,4
+Beauty and the Beast,0,0,1,0,0,0,0
+Lady Macbeth,0,0,1,0,0,0,0
+Kingdom of Us,0,0,1,0,0,0,0
+Pretty Woman,0,0,1,0,0,0,0
+The Hunt For Red October,0,0,1,0,0,0,0
+Sheltering Sky,0,0,1,0,0,0,0
+Bohemian Rhapsody,0,0,1,0,0,0,0
+Dogman,0,0,1,0,0,0,0
+Hugh Whitemore,0,0,1,0,0,1,0
+Portrait Of A Lady On Fire,0,0,1,0,0,0,0
+Yves Montand,0,0,1,0,0,0,5
+Pain And Glory,0,0,1,0,0,0,0
+Daniel Auteuil,0,0,1,0,2,1,18
+The Farewell,0,0,1,0,0,0,0
+John Thaw,0,0,1,0,0,0,2
+Emily Lloyd,0,0,1,0,0,0,5
+Susan Wooldridge,0,0,1,0,0,0,4
+"Claude Berri, Gerard Brach",0,0,1,0,0,0,0
+Taron Egerton,0,0,1,1,0,0,8
+Le Mans '66,0,0,1,0,0,0,0
+The Sacrifice (Offret),0,0,1,0,0,0,0
+The Great Hack,0,0,1,0,0,0,0
+Diego Maradona,0,0,1,0,0,0,0
+Manon Of The Spring (Manon Des Sources),0,0,1,0,0,0,0
+My Life As A Dog (Mitt Liv Som Hund),0,0,1,0,0,0,0
+Apollo 11,0,0,1,0,0,0,0
+Wish You Were Here,0,0,1,0,0,0,0
+Personal Services,0,0,1,0,0,0,0
+American Factory,0,0,1,0,0,0,0
+The Trap,0,0,1,0,0,0,0
+The Untouchables,0,0,1,0,0,0,0
+Menno Mayjes,0,0,1,0,0,0,0
+The Two Popes,0,0,1,0,0,0,0
+A Beautiful Day in the Neighborhood,0,0,1,0,0,0,0
+Retablo,0,0,1,0,0,0,0
+Only You,0,0,1,0,0,0,0
+Cathy Tyson,0,0,1,1,0,0,3
+Rosemary Leach,0,0,1,0,0,0,4
+Maiden,0,0,1,0,0,0,1
+Bait,0,0,1,0,0,2,5
+"Akira Kurosawa, Hideo Oguni, Masato Ide",0,0,1,0,0,0,0
+Marriage Story,0,0,1,0,0,0,0
+Betty Blue (37°2 Le Matin),0,0,1,0,0,0,0
+Ginger And Fred (Ginger E Fred),0,0,1,0,0,0,0
+Othello (Otello),0,0,1,0,0,0,0
+Knives Out,0,0,1,0,0,0,0
+Booksmart,0,0,1,0,0,0,0
+Crocodile Dundee,0,0,1,0,0,0,0
+Aliens,0,0,1,0,0,0,0
+Kamali,0,0,1,0,0,0,9
+Goldfish,0,0,1,0,0,0,0
+Shoplifters,0,0,1,0,0,0,0
+Dark Eyes (Oci Ciornie),0,0,1,0,0,0,0
+A World Apart,0,0,1,0,0,0,0
+Fantastic Beasts: The Crimes of Grindelwald,0,0,1,0,0,0,0
+Moonstruck,0,0,1,0,0,0,0
+Ray & Liz,0,0,1,0,0,0,0
+Pili,0,0,1,0,0,5,15
+Tucker: The Man And His Dream,0,0,1,0,0,0,0
+A Cambodian Spring,0,0,1,0,0,0,0
+Apostasy,0,0,1,0,0,0,0
+Empire Of The Sun,0,0,1,0,0,0,0
+Beast,0,0,1,0,0,0,0
+Edward Scissorhands,0,0,1,0,0,0,0
+Mary Poppins Returns,0,0,1,0,0,0,0
+Steve Coogan,0,0,1,0,0,2,25
+Wings Of Desire (Der Himmel Über Berlin),0,0,1,0,0,0,0
+Fatal Attraction,0,0,1,0,0,0,0
+Azaar,0,0,1,0,0,0,2
+"Todd Phillips, Scott Silver",0,0,1,0,0,1,0
+Learning To Skateboard In A Warzone (If You're A Girl),0,0,1,0,0,0,0
+The Magic Boat,0,0,1,0,0,0,0
+In Her Boots,0,0,1,0,0,0,0
+John Cleese,0,0,1,1,1,5,36
+Grandad Was A Romantic,0,0,1,0,0,0,0
+Michael Palin,0,0,1,0,0,1,8
+Anthony McCarten,0,0,1,0,1,5,0
+Joss Ackland,0,0,1,0,0,0,21
+David Suchet,0,0,1,0,0,0,11
+Taika Waititi,0,0,1,0,2,1,3
+"Jeffrey Price, Peter S Seaman",0,0,1,0,0,0,0
+Mary Queen of Scots,0,0,1,0,0,0,0
+Beautiful Boy,0,0,1,0,0,0,0
+Can You Ever Forgive Me?,0,0,1,0,0,0,0
+Maria Aitken,0,0,1,0,0,0,2
+Gabriel Axel,0,0,1,0,1,1,0
+Tom Stoppard,0,0,1,0,1,9,0
+Green Card,0,0,1,0,0,0,0
+Tara Morice,0,0,1,0,0,0,1
+The Addams Family,0,0,1,0,0,0,0
+Gary Lewis,0,0,1,0,0,0,13
+Notes on Blindness,0,0,1,0,0,0,0
+The Eagle Huntress,0,0,1,0,0,0,0
+Oliver Reed,0,0,1,0,0,0,13
+Ken Loach,0,0,1,0,5,2,0
+Zhang Ziyi,0,0,1,0,0,0,0
+Stephen Gaghan,0,0,1,0,3,6,0
+Robert Nelson Jacobs,0,0,1,0,0,5,0
+"DV De Vincentis, Steve Pink, John Cusack, Scott Rosenberg",0,0,1,0,0,0,0
+"James Schamus, Wang Hui-Ling, Tsai Kuo-Jung",0,0,1,0,0,0,0
+Steve Kloves,0,0,1,0,1,10,0
+Standby,0,0,1,0,0,0,0
+The Party,0,0,1,0,0,0,0
+Mouth of Hell,0,0,1,0,0,0,0
+Consumed,0,0,1,0,0,0,0
+Paul Hogan,0,0,1,1,0,3,7
+Weiner,0,0,1,0,0,1,10
+Elizabeth Spriggs,0,0,1,0,0,0,7
+Toni Erdmann,0,0,1,0,0,0,0
+Babe,0,0,1,0,6,4,30
+The Postman (Il Postino),0,0,1,0,0,0,0
+Les Miserables,0,0,1,0,0,0,0
+Queen Margot (La Reine Margot),0,0,1,0,0,0,0
+Mustang,0,0,1,0,0,0,0
+Burnt By The Sun (Utomlyonnye Solntsem),0,0,1,0,0,0,0
+Julieta,0,0,1,0,0,0,28
+Dheepan,0,0,1,0,0,0,0
+Son of Saul,0,0,1,0,0,0,0
+Arrival,0,0,1,0,0,0,0
+Hacksaw Ridge,0,0,1,0,0,0,0
+Bullets Over Broadway,0,0,1,0,0,0,0
+Muriel's Wedding,0,0,1,0,0,0,0
+Seven,0,0,1,0,0,0,9
+Braveheart,0,0,1,0,0,0,0
+Sense And Sensibility,0,0,1,0,0,0,0
+Home,0,0,1,0,6,11,52
+Traffic,0,0,1,0,0,0,0
+Tough,0,0,1,0,0,0,0
+In The Mood For Love (Fa Yeung Nin Wa),0,0,1,0,0,0,0
+Samuel-613,0,0,1,0,0,0,0
+Debbie Tucker Green,0,0,1,0,0,0,0
+Alex Garland,0,0,1,0,2,6,0
+"Naji Abu Nowar, Rupert Lloyd",0,0,1,0,0,0,0
+Todd Haynes,0,0,1,1,6,5,0
+Inside Out,0,0,1,0,0,0,0
+Amy,0,0,1,0,19,42,598
+Listen To Me Marlon,0,0,1,0,0,0,0
+Sherpa,0,0,1,0,0,0,2
+The Revenant,0,0,1,0,0,0,0
+Wild Tales,0,0,1,0,0,0,0
+The Assassin,0,0,1,0,0,0,0
+Force Majeure,0,0,1,0,0,0,0
+Theeb,0,0,1,0,0,0,1
+Timbuktu,0,0,1,0,0,0,0
+Over,0,0,1,0,9,21,356
+Mining Poems Or Odes,0,0,1,0,0,0,0
+"Sean McAllister, Elhum Shakerifar",0,0,1,0,0,0,0
+Nick Hornby,0,0,1,0,0,6,0
+The Girl On The Bridge (La Fille Sur Le Pont),0,0,1,0,0,0,0
+"Harry, He's Here To Help (Harry, Un Ami Qui Vous Veut Du Bien)",0,0,1,0,0,0,0
+The Alan Dimension,0,0,1,0,0,0,0
+Malena,0,0,1,0,0,0,15
+A Love Story,0,0,1,0,0,0,0
+Almost Famous,0,0,1,0,0,0,0
+"Theodore Melfi, Allison Schroeder",0,0,1,0,0,0,0
+"Robert Schenkkan, Andrew Knight",0,0,1,0,0,1,0
+Chocolat,0,0,1,0,0,0,0
+Quills,0,0,1,0,0,0,0
+"Adam McKay, Charles Randolph",0,0,1,0,0,0,0
+Phyllis Nagy,0,0,1,0,0,1,0
+Elephant,0,0,1,0,0,0,1
+Emma Donoghue,0,0,1,0,0,1,0
+Luke Davies,0,0,1,0,0,3,0
+Edmond,0,0,1,0,2,11,58
+Brooklyn,0,0,1,0,0,0,17
+Steve Jobs,0,0,1,0,0,0,0
+Manoman,0,0,1,0,0,0,0
+Beasts Of No Nation,0,0,1,0,0,0,0
+Sicario,0,0,1,0,0,0,0
+Star Wars: The Force Awakens,0,0,1,0,0,0,0
+Operator,0,0,1,0,0,0,0
+Stephen Fingleton,0,0,1,0,0,0,0
+Elle,0,0,1,0,73,159,2428
+The Lovers On The Bridge (Les Amants Du Pont Neuf),0,0,1,0,0,0,0
+"Europa, Europa",0,0,1,0,0,0,0
+Husbands And Wives,0,0,1,0,0,0,0
+The Crying Game,0,0,1,0,0,0,0
+Hear My Song,0,0,1,0,0,0,0
+Unforgiven,0,0,1,0,0,0,0
+Chaplin,0,0,1,0,8,9,75
+The Last Of The Mohicans,0,0,1,0,0,0,0
+Aamir,0,0,1,0,1,1,23
+Cowboy Dave,0,0,1,0,0,0,0
+Miriam Margolyes,0,0,1,0,0,0,23
+Mamoon,0,0,1,0,0,0,0
+Have Heart,0,0,1,0,0,0,0
+The Fugitive,0,0,1,0,0,0,0
+Poles Apart,0,0,1,0,0,0,0
+"Simon Farnaby, Paul King",0,0,1,0,0,0,0
+Matt Greenhalgh,0,0,1,0,0,2,0
+Delicatessen,0,0,1,0,0,0,0
+Raise The Red Lantern (Da Hong Deng Long Gao Gao Gua),0,0,1,0,0,0,0
+A Drowning Man,0,0,1,0,0,0,0
+Terminator 2: Judgement Day,0,0,1,0,0,0,0
+The Handmaiden,0,0,1,0,0,0,0
+Baby Driver,0,0,1,0,0,0,0
+Samuel West,0,0,1,0,0,0,6
+An Inconvenient Sequel,0,0,1,0,0,0,0
+"Baz Luhrmann, Craig Pearce",0,0,1,0,0,2,0
+JFK,0,0,1,0,0,0,0
+Cape Fear,0,0,1,0,0,0,0
+City of Ghosts,0,0,1,0,0,0,0
+I Am Not Your Negro,0,0,1,0,0,0,0
+The Player,0,0,1,0,0,0,0
+Wren Boys,0,0,1,0,0,0,0
+Work,0,0,1,0,0,3,7
+Farewell My Concubine (Ba Wang Bie Ji),0,0,1,0,0,0,0
+"Armando Iannucci, Ian Martin, David Schneider",0,0,1,0,0,0,0
+A Heart In Winter (Un Coeur En Hiver),0,0,1,0,0,0,0
+To Live (Huozhe),0,0,1,0,0,0,0
+"John Donnelly, Ben A. Williams",0,0,1,0,0,0,0
+The Age Of Beauty (Belle Epoque),0,0,1,0,0,0,0
+"Pete Middleton James Spinney, Jo-Jo Ellison",0,0,1,0,0,0,0
+"George Amponsah, Dionne Walker",0,0,1,0,0,0,0
+"Eat Drink, Man Woman (Yin Shi Nan Nu)",0,0,1,0,0,0,0
+"Mike Carey , Camille Gatin",0,0,1,0,0,0,0
+"Babak Anvari, Emily Leo, Oliver Roskill, Lucan Toh",0,0,1,0,0,0,0
+Philadelphia,0,0,1,0,0,0,0
+"I, Daniel Blake",0,0,1,0,0,0,0
+Interview With The Vampire,0,0,1,0,0,0,0
+Mary Shelley's Frankenstein,0,0,1,0,0,0,0
+The Mask,0,0,1,0,0,0,0
+Fantastic Beasts and Where to Find Them,0,0,1,0,0,0,0
+Doctor Strange,0,0,1,0,0,0,0
+Forrest Gump,0,0,1,0,0,0,0
+John Hannah,0,0,1,0,0,0,15
+Like Water For Chocolate (Como Agua Para Chocolate),0,0,1,0,0,0,0
+Indochina (Indochine),0,0,1,0,0,0,0
+Groundhog Day,0,0,1,0,0,0,0
+Sleepless In Seattle,0,0,1,0,0,0,0
+The Age Of Innocence,0,0,1,0,0,0,0
+Bram Stoker's Dracula,0,0,1,0,0,0,0
+Hugh Grant,0,0,1,5,0,0,24
+I Daniel Blake,0,0,1,0,0,0,0
+Samuel L Jackson,0,0,1,0,0,0,0
+Fences,0,0,1,0,0,0,0
+"Hail, Caesar!",0,0,1,0,0,0,0
+Linda Fiorentino,0,0,1,0,0,0,16
+Irène Jacob,0,0,1,0,0,0,11
+Florence Foster Jenkins,0,0,1,0,0,0,0
+Charlotte Coleman,0,0,1,0,0,0,2
+"Amy Tan, Ronald Bass",0,0,1,0,0,0,0
+Speed,0,0,1,0,0,1,19
+Return Journey,0,0,1,0,0,0,0
+The Savage Eye,0,0,1,0,0,0,0
+The Entertainer,0,0,1,0,0,0,28
+The Day They Robbed The Bank Of England,0,0,1,0,0,0,0
+John Fraser,0,0,1,0,0,0,1
+White Wilderness,0,0,1,0,0,0,0
+We Are The Lambeth Boys,0,0,1,0,0,0,0
+This Is The BBC,0,0,1,0,0,0,0
+The Siege Of Pinchgut,0,0,1,0,0,0,0
+The Key,0,0,1,0,0,0,0
+Auntie Mame,0,0,1,0,0,0,0
+A Matter Of Dignity,0,0,1,0,0,0,0
+I Want To Live,0,0,1,0,0,0,0
+On The Beach,0,0,1,0,0,0,0
+Ask Any Girl,0,0,1,0,0,0,0
+Living (Ikiru),0,0,1,0,0,0,0
+Hell Is A City,0,0,1,0,0,0,0
+The League Of Gentlemen,0,0,1,0,0,0,0
+The Millionairess,0,0,1,0,0,0,0
+A Touch Of Larceny,0,0,1,0,0,0,0
+The Sweet Life (La Dolce Vita),0,0,1,0,0,0,0
+Black Orpheus (Orfeu Negro),0,0,1,0,0,0,0
+The Four Hundred Blows (Les Quatre Cents Coups),0,0,1,0,0,0,0
+Shadows,0,0,1,0,0,0,0
+Spartacus,0,0,1,0,0,0,0
+"The Testament Of Orpheus (Le Testament D'Orphée, ou ne me demandez pas pourquoi!)",0,0,1,0,0,0,0
+Crime And Punishment USA,0,0,1,0,0,0,0
+Dora Bryan,0,0,1,0,0,0,3
+The Day The Earth Caught Fire,0,0,1,0,0,0,0
+A Taste Of Honey,0,0,1,0,0,0,0
+Flame In The Streets,0,0,1,0,0,0,0
+The Guns Of Navarone,0,0,1,0,0,0,0
+Victim,0,0,1,0,0,0,0
+The Nun's Story,0,0,1,0,0,0,0
+Gigi,0,0,1,0,1,2,50
+Compulsion,0,0,1,0,0,0,0
+No Down Payment,0,0,1,0,0,0,0
+A Night To Remember,0,0,1,0,0,0,0
+Violent Playground,0,0,1,0,0,0,0
+The Young Lions,0,0,1,0,0,0,0
+The Sheepman,0,0,1,0,0,0,0
+The Enemy Below/The Inn Of The Sixth Happiness,0,0,1,0,0,0,0
+Witness For The Prosecution,0,0,1,0,0,0,0
+Cat On A Hot Tin Roof,0,0,1,0,0,0,0
+Wild Strawberries (Smultronstället),0,0,1,0,0,0,0
+The Last Hurrah,0,0,1,0,0,0,0
+The Inn Of The Sixth Happiness,0,0,1,0,0,0,0
+Wild Is The Wind,0,0,1,0,0,0,0
+Cabiria (Le Notti Di Cabiria),0,0,1,0,0,0,0
+The Cranes Are Flying (Letyat Zhuravli),0,0,1,0,0,0,0
+Cat on a Hot Tin Roof,0,0,1,0,0,0,0
+Orders To Kill,0,0,1,0,0,0,0
+The Big Country,0,0,1,0,0,0,0
+Sayonara,0,0,1,0,0,0,0
+Canal (Kanal),0,0,1,0,0,0,0
+Camp On Blood Island,0,0,1,0,0,0,0
+Nowhere To Go,0,0,1,0,0,0,0
+What Lola Wants,0,0,1,0,0,0,0
+Stanley Baker,0,0,1,0,0,0,4
+Gordon Jackson,0,0,1,0,0,0,2
+Kay Walsh,0,0,1,0,0,0,0
+Blind Date,0,0,1,0,0,0,0
+Expresso Bongo,0,0,1,0,0,0,0
+The Horse's Mouth,0,0,1,0,0,0,0
+No Trees In The Street,0,0,1,0,0,0,0
+Ben Hur,0,0,1,0,0,0,1
+The Face (Ansiktet),0,0,1,0,0,0,0
+Whistle Down The Wind,0,0,1,0,0,0,0
+Ballad Of A Soldier (Ballada O Soldate),0,0,1,0,0,0,0
+The Night Watch (Le Trou),0,0,1,0,0,0,0
+Brute Force And Finesse,0,0,1,0,0,0,0
+"Yesterday, Today And Tomorrow (Ieri, Oggi, Domani)",0,0,1,0,0,0,0
+Charade,0,0,1,0,0,0,0
+Lilies Of The Field,0,0,1,0,0,0,0
+The Night Of The Iguana,0,0,1,0,0,0,0
+Irma La Douce/What A Way To Go,0,0,1,0,0,0,0
+Harry Andrews,0,0,1,0,0,0,5
+The Killers/Cat Ballou,0,0,1,0,0,0,0
+Good Neighbour Sam/How To Murder Your Wife,0,0,1,0,0,0,0
+Hamlet (Gamlet),0,0,1,0,0,0,0
+In Harm's Way,0,0,1,0,0,0,0
+Cat Ballou,0,0,1,0,0,0,0
+Tokyo Olympiad,0,0,1,0,0,0,0
+Deckie Learner,0,0,1,0,0,0,0
+To Kill A Mockingbird,0,0,1,0,0,0,0
+Stravinsky,0,0,1,0,0,0,0
+David Warner,0,0,1,0,0,0,22
+Georgy Girl,0,0,1,0,0,0,0
+It Happened Here,0,0,1,0,0,0,0
+Arabesque,0,0,1,0,0,0,0
+The Pawnbroker,0,0,1,0,0,0,0
+Pierrot Le Fou,0,0,1,0,0,0,0
+A Patch Of Blue,0,0,1,0,0,0,0
+The Group,0,0,1,0,0,0,0
+The Sleeping Car Murder,0,0,1,0,0,0,0
+Goal! The World Cup,0,0,1,0,0,0,0
+Buster Keaton Rides Again,0,0,1,0,0,0,0
+I'm Going To Ask You To Get Up Out Of Your Seat,0,0,1,0,0,0,0
+Becket,0,0,1,0,1,2,12
+David And Lisa,0,0,1,0,0,0,0
+The Best Of Enemies,0,0,1,0,0,0,0
+Light In The Piazza,0,0,1,0,0,0,0
+Two Women,0,0,1,0,0,0,0
+Rocco And His Brothers (Rocco E I Suoi Fratelli),0,0,1,0,0,0,0
+Breathless,0,0,1,0,0,0,0
+Virginia Maskell,0,0,1,0,0,0,0
+Janet Munro,0,0,1,0,0,0,2
+A Kind Of Loving,0,0,1,0,0,0,0
+Only Two Can Play,0,0,1,0,0,0,0
+Tiara Tahiti,0,0,1,0,0,0,0
+Waltz Of The Toreadors,0,0,1,0,0,0,0
+The Birdman Of Alcatraz,0,0,1,0,0,0,0
+"Leon Morin, Priest",0,0,1,0,0,0,0
+Accattone,0,0,1,0,0,0,0
+Lonely Are The Brave,0,0,1,0,0,0,0
+Advise And Consent,0,0,1,0,0,0,0
+This Sporting Life,0,0,1,0,0,0,0
+The Long Absence,0,0,1,0,0,0,0
+The Miracle Worker,0,0,1,0,0,0,0
+Lois,0,0,1,0,6,9,123
+Through A Glass Darkly (Såsom I En Spegel),0,0,1,0,0,0,0
+Phaedra,0,0,1,0,0,0,0
+Jules Et Jim,0,0,1,0,0,0,0
+Sweet Bird Of Youth,0,0,1,0,0,0,0
+Splendour In The Grass,0,0,1,0,0,0,0
+Barbara Windsor,0,0,1,0,0,0,4
+Tom Jones,0,0,1,1,0,1,2
+Billy Liar,0,0,1,0,0,0,0
+The Servant,0,0,1,0,0,0,0
+The Man Upstairs,0,0,1,0,0,0,0
+The Inn of the Sixth Happiness,0,0,1,0,0,0,0
+The Purple Plain,0,0,1,0,0,0,0
+About Mrs Leslie,0,0,1,0,0,0,0
+The Glenn Miller Story,0,0,1,0,0,0,0
+Executive Suite,0,0,1,0,0,0,0
+The Caine Mutiny,0,0,1,0,0,0,0
+Riot In Cell Block 11,0,0,1,0,0,0,0
+On The Waterfront,0,0,1,0,0,0,0
+The Maggie,0,0,1,0,0,0,0
+Indiscreet,0,0,1,0,0,0,0
+The Knave Of Hearts,0,0,1,0,0,0,0
+Hobson's Choice,0,0,1,0,0,0,0
+Doctor In The House,0,0,1,0,0,0,0
+Noelle Middleton,0,0,1,0,0,0,0
+Brenda De Banzie,0,0,1,0,0,0,3
+Phffft,0,0,1,0,0,0,0
+Dial M For Murder,0,0,1,0,0,0,0
+"Bread, Love And Dreams (Pane, Amore E Fantasia)",0,0,1,0,0,0,0
+The Moon is Blue,0,0,1,0,0,0,0
+On the Waterfront,0,0,1,0,0,0,0
+Alfie Bass,0,0,1,0,0,0,3
+David Kossoff,0,0,1,0,0,0,3
+Katie Johnson,0,0,1,0,0,0,1
+Margaret Johnson,0,0,1,0,0,0,0
+Margaret Lockwood,0,0,1,0,0,0,0
+The Ladykillers,0,0,1,0,0,0,0
+The Constant Husband,0,0,1,0,0,0,0
+The Dambusters,0,0,1,0,0,0,0
+The Deep Blue Sea,0,0,1,0,0,0,0
+Doctor At Sea,0,0,1,0,0,0,0
+The Night My Number Came Up,0,0,1,0,0,0,0
+Maurice Denham,0,0,1,0,0,0,7
+The Marrying Kind,0,0,1,0,0,0,0
+James Hayter,0,0,1,0,0,0,1
+Nigel Patrick,0,0,1,1,0,0,1
+Alastair Sim,0,0,1,0,0,0,0
+Phyllis Calvert,0,0,1,0,0,0,1
+Ann Todd,0,0,1,0,0,0,4
+"Viva, Zapata!",0,0,1,0,0,0,0
+The African Queen,0,0,1,0,0,0,0
+God Needs Men (Dieu A Besoin Des Hommes),0,0,1,0,0,0,0
+Miracle in Milan (Miracolo A Milano),0,0,1,0,0,0,0
+Death Of A Salesman,0,0,1,0,0,0,0
+Golden Helmet (Casque D'Or),0,0,1,0,0,0,0
+Olivia,0,0,1,0,3,10,226
+Pat And Mike,0,0,1,0,0,0,0
+The Strange Ones  (Les Enfants Terribles),0,0,1,0,0,0,0
+Moulin Rouge,0,0,1,0,0,0,0
+Limelight,0,0,1,0,0,0,0
+The Importance Of Being Earnest,0,0,1,0,0,0,0
+Duncan Macrae,0,0,1,0,0,0,1
+Kenneth Moore,0,0,1,0,0,0,0
+Julius Caesar,0,0,1,0,0,0,0
+Shane,0,0,1,0,20,30,180
+Diary Of A Country Priest (Journal D'Un Curé De Campagne),0,0,1,0,0,0,0
+We Are All Murderers (Nous Sommes Tous Des Assassins),0,0,1,0,0,0,0
+The Actress,0,0,1,0,0,0,0
+Lili,0,0,1,0,4,6,153
+"Come Back, Little Sheba",0,0,1,0,0,0,0
+The Medium,0,0,1,0,0,0,0
+The Heart Of The Matter,0,0,1,0,0,0,0
+Trouble In Store,0,0,1,0,0,0,0
+Simba,0,0,1,0,0,0,3
+Touch And Go,0,0,1,0,0,0,0
+Mister Roberts,0,0,1,0,0,0,0
+A Hatful Of Rain,0,0,1,0,0,0,0
+Windom's Way,0,0,1,0,0,0,0
+Woman In A Dressing Gown,0,0,1,0,0,0,0
+Twelve Angry Men,0,0,1,0,0,0,0
+Time Limit,0,0,1,0,0,0,0
+The Gates Of Paris (Porte Des Lilas),0,0,1,0,0,0,0
+The Sweet Smell of Success,0,0,1,0,0,0,0
+Pig Across Paris (La Traversée De Paris),0,0,1,0,0,0,0
+"Heaven Knows, Mr Allison",0,0,1,0,0,0,0
+A Man Is Ten Feet Tall,0,0,1,0,0,0,0
+The Great Man,0,0,1,0,0,0,0
+The Witches Of Salem (Les Sorcières De Salem),0,0,1,0,0,0,0
+That Night,0,0,1,0,0,0,0
+The Rainmaker,0,0,1,0,0,0,0
+Is Anna Anderson Anastasia? (Anastasia - Die Letzte Zarentochter),0,0,1,0,0,0,0
+The Three Faces Of Eve,0,0,1,0,0,0,0
+The Smallest Show On Earth,0,0,1,0,0,0,0
+Brothers In Law,0,0,1,0,0,0,0
+The Witches Of Salem ( Les Sorcières De Salem),0,0,1,0,0,0,0
+The Young Stranger,0,0,1,0,0,0,0
+Michael Craig,0,0,1,0,0,0,5
+IS Johar,0,0,1,0,0,0,0
+Terry Thomas,0,0,1,0,0,0,0
+Irene Worth,0,0,1,0,0,0,4
+Karuna Banerjee,0,0,1,0,0,0,0
+Orders to Kill,0,0,1,0,0,0,0
+Bonjour Tristesse,0,0,1,0,0,0,0
+A Cry From The Streets,0,0,1,0,0,0,0
+Ice Cold In Alex,0,0,1,0,0,0,0
+The Story Of Esther Costello,0,0,1,0,0,0,0
+The Man In The Sky,0,0,1,0,0,0,0
+Not as a Stranger,0,0,1,0,0,0,0
+A Town Like Alice,0,0,1,0,0,0,0
+Carmen Jones,0,0,1,0,0,0,0
+I Am A Camera,0,0,1,0,0,0,0
+Summer Madness,0,0,1,0,0,0,0
+The Country Girl,0,0,1,0,0,0,0
+The Road (La Strada),0,0,1,0,0,0,0
+The Seven Year Itch,0,0,1,0,0,0,0
+That Lady,0,0,1,0,0,0,0
+Dorothy Allison,0,0,1,0,0,1,0
+The Battle Of the River Plate,0,0,1,0,0,0,0
+The Green Man,0,0,1,0,0,0,0
+Private's Progress,0,0,1,0,0,0,0
+Reach For The Sky,0,0,1,0,0,0,0
+Smiley,0,0,1,0,0,1,20
+Three Men In A Boat,0,0,1,0,0,0,0
+Yield To The Night,0,0,1,0,0,0,0
+Hell Drivers,0,0,1,0,0,0,0
+Rebel Without A Cause,0,0,1,0,0,0,0
+The  Unfrocked One (Le Défroqué),0,0,1,0,0,0,0
+The Man With The Golden Arm,0,0,1,0,0,0,0
+The Mountain,0,0,1,0,0,0,0
+Bhowhani Junction,0,0,1,0,0,0,0
+I'll Cry Tomorrow,0,0,1,0,0,0,0
+The Trouble With Harry,0,0,1,0,0,0,0
+Guys And Dolls,0,0,1,0,0,0,0
+Bus Stop,0,0,1,0,0,0,0
+Patterns Of Power,0,0,1,0,0,0,0
+Heather Sears,0,0,1,1,0,0,0
+The Bridge On The River Kwai,0,0,1,0,0,0,0
+Anastasia,0,0,1,0,0,0,34
+The Birthday Present,0,0,1,0,0,0,0
+Matador,0,0,1,0,0,0,0
+Barbara Jefford,0,0,1,0,0,0,5
+Blow-Up,0,0,1,0,0,0,0
+The Tree Of Wooden Clogs,0,0,1,0,0,0,0
+Being There,0,0,1,0,0,0,0
+Saint Jack,0,0,1,0,0,0,0
+"Colin Welland, Walter Bernstein",0,0,1,0,0,0,0
+Deric Washburn,0,0,1,0,0,2,0
+"Mike Gray, TS Cook, James Bridges",0,0,1,0,0,0,0
+The China Syndrome,0,0,1,0,0,0,0
+Two For The Road,0,0,1,0,0,0,0
+Stevie,0,0,1,0,0,1,9
+Interiors,0,0,1,0,0,0,0
+Lindsay Dale,0,0,1,0,0,0,0
+Derek Williams,0,0,1,0,0,0,0
+Beverly Shaffer,0,0,1,0,0,0,0
+Tony White,0,0,1,0,0,0,1
+Kagemusha,0,0,1,0,0,0,0
+The Empire Strikes Back,0,0,1,0,0,0,0
+Flash Gordon,0,0,1,0,0,0,0
+Jerzy Kosinski,0,0,1,0,0,1,1
+"Jim Abrahams, David Zucker, Jerry Zucker",0,0,1,0,0,0,0
+"Christopher De Vore, Eric Bergren, David Lynch",0,0,1,0,0,0,0
+The Long Good Friday,0,0,1,0,0,0,0
+Gregory's Girl,0,0,1,0,0,0,0
+Tess,0,0,1,0,5,6,100
+Soldier Girls,0,0,1,0,0,0,0
+Best Boy,0,0,1,0,0,0,0
+The Life And Times Of Rosie The Riverter,0,0,1,0,0,0,0
+Bill Forsyth,0,0,1,0,3,2,0
+"John Considine, Patricia Resnick, Allan Nicholls, Robert Altman",0,0,1,0,0,0,0
+The Silent Witness,0,0,1,0,0,0,0
+The Bead Game,0,0,1,0,0,0,0
+King Kong,0,0,1,0,0,0,3
+The Canadians (Los Canadienses),0,0,1,0,0,0,0
+White Rock,0,0,1,0,0,0,0
+John Amstrong,0,0,1,0,0,0,0
+Peter De Normanville,0,0,1,0,0,0,0
+John Spencer,0,0,1,1,0,0,10
+Bugsy Malone/Taxi Driver,0,0,1,0,0,0,0
+The Homecoming,0,0,1,0,0,0,0
+The Omen,0,0,1,0,0,0,0
+Shelley Duvall,0,0,1,0,0,0,11
+The Chinese Word For Horse,0,0,1,0,0,0,0
+Star Wars,0,0,1,0,0,0,0
+The Sand Castle,0,0,1,0,0,0,0
+Fellini's Casanova (Il Casanova Di Federico Fellini),0,0,1,0,0,0,0
+The Spy Who Loved Me,0,0,1,0,0,0,0
+Valentino,0,0,1,0,0,1,9
+Peter Schaffer,0,0,1,0,0,0,0
+The Front,0,0,1,0,0,0,0
+Welcome To LA,0,0,1,0,0,0,0
+Next Stop Greenwich Village,0,0,1,0,0,0,0
+The Goodbye Girl,0,0,1,0,0,0,0
+Magic,0,0,1,0,0,0,4
+A Wedding,0,0,1,0,0,0,0
+Arthur,0,0,1,0,28,47,281
+Shoot The Moon,0,0,1,0,0,0,0
+Jennifer Kendal,0,0,1,0,0,0,0
+Saeed Jaffrey,0,0,1,0,0,0,13
+Cal,0,0,1,0,73,131,1131
+The Hit,0,0,1,0,0,0,0
+Broadway Danny Rose,0,0,1,0,0,0,0
+The Big Chill,0,0,1,0,0,0,0
+Comfort And Joy,0,0,1,0,0,0,0
+The Company Of Wolves,0,0,1,0,0,0,0
+1984,0,0,1,0,0,0,0
+Gorky Park,0,0,1,0,0,0,0
+Silkwood,0,0,1,0,0,0,0
+Victor Banerjee,0,0,1,0,0,0,10
+F Murray Abraham,0,0,1,0,0,0,0
+James Fox,0,0,1,0,0,1,22
+Kelly McGillis,0,0,1,1,0,0,10
+Sunday In The Country,0,0,1,0,0,0,0
+Alexandra Pigg,0,0,1,0,0,0,0
+Tracey Ullman,0,0,1,5,0,0,12
+Julian Bond,0,0,1,0,0,0,0
+A Chorus Line,0,0,1,0,0,0,0
+Colonel Redl (Oberst Redl),0,0,1,0,0,0,0
+Dim Sum - A Little Bit Of Heart,0,0,1,0,0,0,0
+Subway,0,0,1,0,0,0,0
+The Purple Rose Of Cairo,0,0,1,0,0,0,0
+My Beautiful Laundrette,0,0,1,0,0,0,0
+Brazil,0,0,1,0,0,1,1
+A Passage To India,0,0,1,0,0,0,0
+Swann In Love,0,0,1,0,0,0,0
+The Return Of Martin Guerre (Le Retour De Martin Guerre),0,0,1,0,0,0,0
+Christ Stopped At Eboli (Cristo Si È Fermato A Eboli),0,0,1,0,0,0,0
+Phyllis Logan,0,0,1,0,0,0,3
+The Boat (Das Boot),0,0,1,0,0,0,0
+Diva,0,0,1,0,0,2,17
+Fitzcarraldo,0,0,1,0,0,0,0
+Blade Runner,0,0,1,0,0,0,0
+Burden Of Dreams,0,0,1,0,0,0,0
+The Atomic Café,0,0,1,0,0,0,0
+Not A Love Story,0,0,1,0,0,0,0
+The Weavers: Wasn't That A Time,0,0,1,0,0,0,0
+The Return Of The Soldier,0,0,1,0,0,0,0
+"Larry Gelbart, Murray Schisgal",0,0,1,0,0,1,0
+Under Fire,0,0,1,0,0,0,0
+Flashdance,0,0,1,0,0,0,0
+Danton,0,0,1,0,0,0,10
+Fanny And Alexander,0,0,1,0,0,0,0
+Finally Sunday (Vivement Dimanche!),0,0,1,0,0,0,0
+"Another Time, Another Place",0,0,1,0,0,0,0
+Sophie's Choice,0,0,1,0,0,0,0
+Return Of The Jedi,0,0,1,0,0,0,0
+Wargames,0,0,1,0,0,0,0
+The Ploughman's Lunch,0,0,1,0,0,0,0
+Julian Mitchell,0,0,1,0,0,1,0
+"Paris, Texas",0,0,1,0,0,0,0
+Indiana Jones And The Temple Of Doom,0,0,1,0,0,0,0
+The Sunshine Boys/The Bad News Bears,0,0,1,0,0,0,0
+Death In Venice,0,0,1,0,0,0,0
+Three Into Two Won't Go,0,0,1,0,0,0,0
+Butch Cassidy And The Sundance Kid/Tell Them Willie Boy Is Here/Downhill Racer,0,0,1,0,0,0,0
+Bob And Carol And Ted And Alice/M*A*S*H,0,0,1,0,0,0,0
+Patton: Lust For Glory,0,0,1,0,0,0,0
+M*A*S*H,0,0,1,0,8415,10774,20373
+Sad Song Of Yellow Skin,0,0,1,0,0,0,0
+"Barry Hines, Ken Loach, Tony Garnett",0,0,1,0,0,0,0
+"James Poe,  Robert E Thompson",0,0,1,0,0,0,0
+The Railway Children,0,0,1,0,0,0,0
+The Watermelon Man,0,0,1,0,0,0,0
+Airport,0,0,1,0,0,0,0
+Gumshoe,0,0,1,0,0,0,0
+"Goodbye, Columbus",0,0,1,0,0,0,0
+Little Big Man,0,0,1,0,0,0,0
+Nanette Newman,0,0,1,0,0,0,2
+Death In Venice (Morte A Venezia),0,0,1,0,0,0,0
+The Hellstrom Chronicle,0,0,1,0,0,0,0
+Death Of A Legend,0,0,1,0,0,0,0
+Neville Smith,0,0,1,0,0,0,0
+"Milos Forman, John Guare, Jean-Claude Carrière, John Klein",0,0,1,0,0,0,0
+Get Carter,0,0,1,0,0,0,0
+10 Rillington Place,0,0,1,0,0,0,0
+Deep End,0,0,1,0,0,0,0
+The Raging Moon,0,0,1,0,0,0,0
+The French Connection/The Poseidon Adventure,0,0,1,0,0,0,0
+Easy Rider,0,0,1,0,0,0,0
+"Costa-Gavras, Jorge Semprun",0,0,1,0,0,0,0
+They Might Be Giants/The Hospital,0,0,1,0,0,0,0
+A Plague On Your Children,0,0,1,0,0,0,0
+Bonnie And Clyde,0,0,1,0,0,0,0
+Chimes At Midnight,0,0,1,0,0,0,0
+A  Man And A Woman (Un Homme Et Une Femme),0,0,1,0,0,0,0
+"My Sister, My Love (Syskonbädd 1782)/ Persona",0,0,1,0,0,0,0
+Barefoot In The Park,0,0,1,0,0,0,0
+To Die In Madrid,0,0,1,0,0,0,0
+Famine,0,0,1,0,0,0,0
+The Things I Cannot Change,0,0,1,0,0,0,0
+Guess Who's Coming To Dinner?,0,0,1,0,0,0,0
+If...,0,0,1,0,70,145,2376
+In Need Of Special Care,0,0,1,0,0,0,0
+Inside North Vietnam,0,0,1,0,0,0,0
+Music!,0,0,1,0,0,0,0
+David Sherwin,0,0,1,0,0,0,0
+The Lion In Winter,0,0,1,0,0,0,0
+No Way To Treat A Lady,0,0,1,0,0,0,0
+Twisted Nerve/Charlie Bubbles,0,0,1,0,0,0,0
+Interlude,0,0,1,0,0,0,0
+Games,0,0,1,0,0,0,0
+Midnight Cowboy/John And Mary,0,0,1,0,0,0,0
+The Secret Life Of An American Wife/Hello Dolly!,0,0,1,0,0,0,0
+Inadmissible Evidence,0,0,1,0,0,0,0
+Z,0,0,1,0,1793,2433,11776
+The Nightcomers/The Godfather,0,0,1,0,0,0,0
+Young Winston,0,0,1,0,0,0,0
+All The President's Men/Marathon Man,0,0,1,0,0,0,0
+Barry Lyndon,0,0,1,0,0,0,0
+"Mel Brooks, Norman Steinberg, Andrew Bergman, Richard Pryor, Alan Uger",0,0,1,0,0,0,0
+"Louis Malle, Patrick Modiano",0,0,1,0,0,0,0
+The Last Detail,0,0,1,0,0,0,0
+Stardust,0,0,1,0,0,0,0
+American Graffiti,0,0,1,0,0,0,0
+"Summer Wishes, Winter Dreams",0,0,1,0,0,0,0
+The Tamarind Seed,0,0,1,0,0,0,0
+The Godfather Part II/Dog Day Afternoon,0,0,1,0,0,0,0
+French Connection 2/Night Moves,0,0,1,0,0,0,0
+Lenny,0,0,1,0,1,3,46
+Dog Day Afternoon,0,0,1,0,0,0,0
+Location North Sea,0,0,1,0,0,0,0
+Sea Area Forties,0,0,1,0,0,0,0
+Leaving Lily,0,0,1,0,0,0,0
+The Living Woodland,0,0,1,0,0,0,0
+Waiting On Weather,0,0,1,0,0,0,0
+The Early Americans,0,0,1,0,0,0,0
+Seven Green Bottles,0,0,1,0,0,0,0
+"Peter Benchley, Carl Gottlieb",0,0,1,0,0,2,0
+Joan Tewkesbury,0,0,1,0,0,3,1
+The Towering Inferno,0,0,1,0,0,0,0
+The Taking Of Pelham 123,0,0,1,0,0,0,0
+The Day Of The Locust,0,0,1,0,0,0,0
+Shampoo,0,0,1,0,0,0,0
+Cree Hunters Of Mistassini,0,0,1,0,0,0,0
+Murder On The Orient Express/Serpico,0,0,1,0,0,0,0
+Dorothy Tutin,0,0,1,0,0,0,1
+A Clockwork Orange,0,0,1,0,0,0,0
+The French Connection,0,0,1,0,0,0,0
+Jay Presson Allen,0,0,1,0,0,3,0
+The Boyfriend,0,0,1,0,0,0,0
+The Godfather,0,0,1,0,0,0,0
+Lady Caroline Lamb,0,0,1,0,0,0,0
+The Poseidon Adventure,0,0,1,0,0,0,0
+Pete 'N' Tillie/Charley Varrick,0,0,1,0,0,0,0
+Last Tango In Paris,0,0,1,0,0,0,0
+Sleuth,0,0,1,0,0,0,0
+Don't Look Now/ Steelyard Blues,0,0,1,0,0,0,0
+The Discreet Charm Of The Bourgeoisie (Le Charme Discret De La Bourgeoisie),0,0,1,0,0,0,0
+Lacombe Lucien,0,0,1,0,0,0,0
+Don't Look Now,0,0,1,0,0,0,0
+Grierson,0,0,1,0,1,0,0
+Kenneth Ross,0,0,1,0,0,1,0
+Anthony Schaffer,0,0,1,0,0,0,0
+O Lucky Man!,0,0,1,0,0,0,0
+The Offence,0,0,1,0,0,0,0
+A Doll's House,0,0,1,0,0,0,0
+That'll Be The Day,0,0,1,0,0,0,0
+Cries And Whispers (Viskningar Och Rop),0,0,1,0,0,0,0
+The Last Detail/Chinatown,0,0,1,0,0,0,0
+Serpico,0,0,1,0,0,0,2
+Carol Burnett,0,0,0,16,0,0,6
+Ted Danson,0,0,0,12,0,0,18
+Julianna Margulies,0,0,0,12,0,0,11
+Ed Asner,0,0,0,11,0,0,0
+Carroll O'Connor,0,0,0,11,0,0,4
+Edie Falco,0,0,0,11,0,0,12
+Michael J. Fox,0,0,0,10,0,0,15
+Julia Louis-Dreyfus,0,0,0,9,0,0,9
+Debra Messing,0,0,0,9,0,0,11
+Sarah Jessica Parker,0,0,0,9,0,0,20
+Kelsey Grammer,0,0,0,9,0,0,19
+Rob Reiner,0,0,0,9,18,1,10
+Jean Stapleton,0,0,0,9,0,0,2
+Beatrice Arthur,0,0,0,9,0,0,0
+David Duchovny,0,0,0,8,1,1,18
+Jane Seymour,0,0,0,8,0,0,17
+Donald Sutherland,0,0,0,8,0,0,53
+Martin Sheen,0,0,0,8,1,0,35
+Kyra Sedgwick,0,0,0,8,0,0,18
+Bob Newhart,0,0,0,7,0,0,6
+Jim Carrey,0,0,0,7,0,0,32
+Lucille Ball,0,0,0,7,0,0,5
+Hugh Laurie,0,0,0,7,0,0,14
+Tom Selleck,0,0,0,7,0,0,11
+Sharon Gless,0,0,0,7,0,0,1
+Tina Fey,0,0,0,6,0,1,12
+Susan Dey,0,0,0,6,0,0,0
+Jon Hamm,0,0,0,6,0,0,16
+Richard Chamberlain,0,0,0,6,0,0,7
+Joan Collins,0,0,0,6,0,0,3
+John Forsythe,0,0,0,6,0,0,2
+Kiefer Sutherland,0,0,0,6,1,0,36
+Idris Elba,0,0,0,6,0,0,31
+Liev Schreiber,0,0,0,6,1,1,32
+James Brolin,0,0,0,6,0,0,15
+Jeremy Piven,0,0,0,6,0,0,29
+Danny DeVito,0,0,0,6,6,0,50
+Mike Connors,0,0,0,6,0,0,4
+Eric McCormack,0,0,0,6,0,0,4
+Sean P. Hayes,0,0,0,6,0,0,0
+Tony Randall,0,0,0,6,0,0,4
+Kirstie Alley,0,0,0,6,0,0,11
+Farrah Fawcett,0,0,0,6,0,0,6
+Heather Locklear,0,0,0,6,0,0,6
+Rob Lowe,0,0,0,6,0,0,22
+Rhea Perlman,0,0,0,6,0,0,8
+Henry Winkler,0,0,0,6,2,0,10
+Michael C. Hall,0,0,0,5,0,0,4
+Stefanie Powers,0,0,0,5,0,0,1
+John Ritter,0,0,0,5,0,0,15
+Marilu Henner,0,0,0,5,0,0,7
+Robert Young,0,0,0,5,4,0,3
+Claire Danes,0,0,0,5,0,0,16
+Gavin MacLeod,0,0,0,5,0,0,3
+Robert Wagner,0,0,0,5,0,0,20
+Cynthia Nixon,0,0,0,5,0,0,13
+Valerie Harper,0,0,0,5,0,0,0
+Bill Cosby,0,0,0,5,0,2,5
+Tim Allen,0,0,0,5,1,0,20
+Isabel Sanford,0,0,0,5,0,0,4
+Peter Strauss,0,0,0,5,0,0,9
+Katey Sagal,0,0,0,5,0,0,4
+Jason Robards Jr.,0,0,0,5,0,0,0
+John Goodman,0,0,0,5,0,0,52
+Steve Martin,0,0,0,5,3,6,33
+Calista Flockhart,0,0,0,5,0,0,5
+Dean Martin,0,0,0,5,0,0,8
+Linda Evans,0,0,0,5,0,0,0
+Roseanne Barr,0,0,0,5,0,0,4
+Daniel J. Travanti,0,0,0,5,0,0,2
+Mary-Louise Parker,0,0,0,5,0,0,22
+John Hillerman,0,0,0,5,0,0,7
+Tony Shalhoub,0,0,0,5,0,0,25
+Tyne Daly,0,0,0,5,0,0,5
+Matt LeBlanc,0,0,0,5,0,0,5
+Gillian Anderson,0,0,0,5,0,0,15
+Cybill Shepherd,0,0,0,5,0,0,8
+David Hyde-Pierce,0,0,0,5,0,0,0
+Danny Kaye,0,0,0,5,0,0,1
+Nancy Walker,0,0,0,4,1,0,0
+Julie Kavner,0,0,0,4,0,0,10
+Jennifer Garner,0,0,0,4,0,0,25
+Hal Linden,0,0,0,4,0,0,3
+Anthony Edwards,0,0,0,4,0,0,19
+Betty White,0,0,0,4,0,0,8
+Elizabeth Montgomery,0,0,0,4,0,0,0
+Redd Foxx,0,0,0,4,0,0,1
+Bruce Willis,0,0,0,4,0,1,68
+Damian Lewis,0,0,0,4,0,0,15
+Michael Learned,0,0,0,4,0,0,3
+Kim Cattrall,0,0,0,4,0,0,18
+Sofia Vergara,0,0,0,4,0,0,0
+Loretta Swit,0,0,0,4,0,0,0
+Elisabeth Moss,0,0,0,4,0,0,14
+James Gandolfini,0,0,0,4,0,0,28
+David Carradine,0,0,0,4,1,0,29
+Cameron Diaz,0,0,0,4,0,0,31
+Megan Mullally,0,0,0,4,0,0,18
+Jason Alexander,0,0,0,4,0,0,14
+Jeff Daniels,0,0,0,4,1,1,34
+Angie Dickinson,0,0,0,4,0,0,10
+Beau Bridges,0,0,0,4,2,0,24
+Jason Bateman,0,0,0,4,2,0,31
+Jennifer Aniston,0,0,0,4,0,0,32
+Polly Holliday,0,0,0,4,0,0,4
+Caitriona Balfe,0,0,0,4,0,0,4
+Robin Wright,0,0,0,4,0,0,28
+Larry Hagman,0,0,0,4,0,0,2
+Jimmy Smits,0,0,0,4,0,0,13
+Armand Assante,0,0,0,4,0,0,29
+Jill Eikenberry,0,0,0,4,0,0,6
+Christina Applegate,0,0,0,4,0,0,23
+Beth Howland,0,0,0,4,0,0,0
+Gail Fisher,0,0,0,4,0,0,0
+Paul Reiser,0,0,0,4,0,1,14
+Steve Buscemi,0,0,0,4,3,1,53
+Bill Paxton,0,0,0,4,2,0,35
+Pat Harrington,0,0,0,4,0,0,0
+Sally Struthers,0,0,0,4,0,0,2
+Richard Gere,0,0,0,4,0,0,33
+Craig T. Nelson,0,0,0,4,0,0,23
+Harvey Korman,0,0,0,4,0,0,9
+Shelley Long,0,0,0,4,0,0,11
+Mark Harmon,0,0,0,4,0,0,5
+Kate Jackson,0,0,0,4,0,0,0
+Sela Ward,0,0,0,4,0,0,12
+Neil Patrick Harris,0,0,0,4,0,0,14
+Raul Julia,0,0,0,4,0,0,15
+Jacqueline Bisset,0,0,0,4,0,0,18
+Peggy Lipton,0,0,0,4,0,0,6
+Jerry Seinfeld,0,0,0,4,0,1,1
+Susan St. James,0,0,0,3,0,0,0
+Harry Hamlin,0,0,0,3,0,0,5
+Bradley Whitford,0,0,0,3,0,0,26
+Park Overall,0,0,0,3,0,0,3
+Scott Bakula,0,0,0,3,0,0,13
+Amy Brenneman,0,0,0,3,0,0,9
+Patrick Swayze,0,0,0,3,0,0,21
+Charlie Sheen,0,0,0,3,0,0,26
+Marg Helgenberger,0,0,0,3,0,0,10
+Marcia Cross,0,0,0,3,0,0,1
+Rue McClanahan,0,0,0,3,0,0,4
+Ricky Gervais,0,0,0,3,3,3,12
+Richard Mulligan,0,0,0,3,0,0,5
+Penny Marshall,0,0,0,3,6,0,2
+Jonathan Rhys Meyers,0,0,0,3,0,0,22
+Kelly MacDonald,0,0,0,3,0,0,11
+Valerie Bertinelli,0,0,0,3,0,0,0
+Katherine Helmond,0,0,0,3,0,0,7
+Louis Gossett Jr.,0,0,0,3,0,0,24
+Billy Crystal,0,0,0,3,1,4,17
+Linda Lavin,0,0,0,3,0,0,9
+Linda Kelsey,0,0,0,3,0,0,1
+Flip Wilson,0,0,0,3,0,0,0
+Larry Drake,0,0,0,3,0,0,3
+Meg Ryan,0,0,0,3,0,0,26
+James Spader,0,0,0,3,0,0,20
+Tony Danza,0,0,0,3,0,0,6
+Vic Tayback,0,0,0,3,0,0,8
+Andie MacDowell,0,0,0,3,0,0,26
+Zach Braff,0,0,0,3,3,2,7
+Loni Anderson,0,0,0,3,0,0,2
+Sada Thompson,0,0,0,3,0,0,1
+Estelle Getty,0,0,0,3,0,0,4
+Vicki Lawrence,0,0,0,3,0,0,0
+Robert Blake,0,0,0,3,0,0,4
+Kieran Culkin,0,0,0,3,0,0,14
+Sam Neill,0,0,0,3,0,0,36
+Drew Barrymore,0,0,0,3,1,0,34
+Richard Kiley,0,0,0,3,0,0,2
+Debbie Allen,0,0,0,3,0,0,3
+Sarah Paulson,0,0,0,3,0,0,15
+Dabney Coleman,0,0,0,3,0,0,15
+Larry David,0,0,0,3,0,0,3
+Jane Kaczmarek,0,0,0,3,0,0,6
+Mandy Patinkin,0,0,0,3,0,0,16
+Bernadette Peters,0,0,0,3,0,0,8
+Evan Rachel Wood,0,0,0,3,0,0,21
+Robert Guillaume,0,0,0,3,0,0,8
+Michael Chiklis,0,0,0,3,0,0,8
+Sônia Braga,0,0,0,3,0,0,11
+Jeffrey Tambor,0,0,0,3,0,0,36
+Kevin Bacon,0,0,0,3,0,0,37
+Bob Odenkirk,0,0,0,3,1,0,12
+Alberto Sordi,0,0,0,3,1,2,8
+Christian Slater,0,0,0,3,0,0,42
+Dylan McDermott,0,0,0,3,0,0,22
+Ellen DeGeneres,0,0,0,3,0,0,4
+Keri Russell,0,0,0,3,0,0,15
+Patrick Stewart,0,0,0,3,0,0,30
+Gina Rodriguez,0,0,0,3,0,0,8
+Marlo Thomas,0,0,0,3,0,0,0
+Amy Poehler,0,0,0,3,0,1,21
+Lena Dunham,0,0,0,3,1,1,5
+Ben Gazzara,0,0,0,3,0,0,16
+Richard Crenna,0,0,0,3,0,0,9
+Kathy Baker,0,0,0,3,0,0,20
+Claire Foy,0,0,0,3,0,0,7
+Jenna Elfman,0,0,0,3,0,0,6
+Lance Henriksen,0,0,0,3,0,0,46
+Noah Wyle,0,0,0,3,0,0,7
+Efrem Zimbalist Jr.,0,0,0,3,0,0,3
+Rachel Brosnahan,0,0,0,3,0,0,5
+Glenn Ford,0,0,0,3,0,0,7
+Zooey Deschanel,0,0,0,3,0,0,22
+Ewan McGregor,0,0,0,3,0,0,46
+Janine Turner,0,0,0,3,0,0,8
+Peter Graves,0,0,0,3,0,0,7
+Linda Hamilton,0,0,0,3,0,0,12
+Denise Nicholas,0,0,0,3,0,0,2
+Amanda Blake,0,0,0,3,0,0,3
+Eric Stonestreet,0,0,0,3,0,0,4
+Rob Morrow,0,0,0,3,0,0,8
+Jim Parsons,0,0,0,3,0,0,5
+Thomas Jane,0,0,0,3,1,0,26
+Ann Jillian,0,0,0,2,0,0,0
+Brian Cox,0,0,0,2,0,0,47
+Nell Carter,0,0,0,2,0,0,3
+Anthony Andrews,0,0,0,2,0,0,2
+Maria Bello,0,0,0,2,0,0,30
+Hope Davis,0,0,0,2,0,0,19
+Linda Cristal,0,0,0,2,0,0,0
+Jack Black,0,0,0,2,0,1,29
+January Jones,0,0,0,2,0,0,10
+Rachel Ward,0,0,0,2,1,1,6
+Jan-Michael Vincent,0,0,0,2,0,0,5
+Earl Holliman,0,0,0,2,0,0,6
+Bernie Mac,0,0,0,2,0,0,18
+Steven Bauer,0,0,0,2,0,0,17
+Taina Elg,0,0,0,2,0,0,4
+Michael Imperioli,0,0,0,2,0,0,14
+Andre Braugher,0,0,0,2,0,0,12
+Sherry Stringfield,0,0,0,2,0,0,3
+Marilyn Monroe,0,0,0,2,0,0,8
+Joely Richardson,0,0,0,2,0,0,18
+Chrissy Metz,0,0,0,2,0,0,1
+Frances O'Connor,0,0,0,2,0,0,14
+Blair Brown,0,0,0,2,0,0,6
+Treat Williams,0,0,0,2,0,0,25
+Matthew Rhys,0,0,0,2,0,0,7
+Stephen Boyd,0,0,0,2,0,0,3
+William Conrad,0,0,0,2,0,0,1
+Linda Gray,0,0,0,2,0,0,2
+Susan Ruttan,0,0,0,2,0,0,4
+Lilli Palmer,0,0,0,2,0,0,2
+Jack Klugman,0,0,0,2,0,0,2
+Patrick Wilson,0,0,0,2,0,0,25
+Lee Pace,0,0,0,2,0,0,12
+Thandie Newton,0,0,0,2,0,0,22
+Corbin Bernsen,0,0,0,2,1,1,17
+Julie Sommars,0,0,0,2,0,0,1
+Ken Wahl,0,0,0,2,0,0,6
+Hermione Gingold,0,0,0,2,0,0,1
+Bonnie Franklin,0,0,0,2,0,0,0
+Issa Rae,0,0,0,2,0,0,3
+Anthony Anderson,0,0,0,2,0,0,33
+Harry Guardino,0,0,0,2,0,0,5
+Donald Glover,0,0,0,2,0,1,6
+Fran Drescher,0,0,0,2,0,0,8
+Alison Brie,0,0,0,2,0,0,9
+Michael Constantine,0,0,0,2,0,0,8
+Roma Downey,0,0,0,2,0,0,1
+Simon Baker,0,0,0,2,0,0,13
+Peter Krause,0,0,0,2,0,0,4
+Lea Michele,0,0,0,2,0,0,1
+Ashley Judd,0,0,0,2,0,0,26
+Henry Gibson,0,0,0,2,0,0,13
+Brooke Shields,0,0,0,2,0,0,13
+Rutger Hauer,0,0,0,2,0,0,40
+Bill Hader,0,0,0,2,0,0,27
+Sue Ane Langdon,0,0,0,2,0,0,3
+Matthew Morrison,0,0,0,2,0,0,5
+Don Johnson,0,0,0,2,0,0,18
+Leelee Sobieski,0,0,0,2,0,0,12
+Cantinflas,0,0,0,2,0,1,2
+Michael Tucker,0,0,0,2,0,0,5
+Jennifer Lopez,0,0,0,2,0,0,29
+Chad Everett,0,0,0,2,0,0,3
+Edward Woodward,0,0,0,2,0,0,4
+Kim Delaney,0,0,0,2,0,0,2
+Jan Niklas,0,0,0,2,0,0,2
+Joseph Gordon-Levitt,0,0,0,2,1,1,27
+Kirk Cameron,0,0,0,2,0,0,6
+John Lone,0,0,0,2,0,0,8
+Pat Morita,0,0,0,2,0,0,11
+Richard Benjamin,0,0,0,2,10,0,7
+Christine Baranski,0,0,0,2,0,0,27
+Ed O'Neill,0,0,0,2,0,0,13
+Bonnie Hunt,0,0,0,2,1,1,21
+Blair Underwood,0,0,0,2,0,0,10
+Ellen Barkin,0,0,0,2,0,0,21
+Stacy Keach,0,0,0,2,0,0,20
+Billy Porter,0,0,0,2,0,0,3
+Jane Lynch,0,0,0,2,0,0,26
+Frankie Muniz,0,0,0,2,0,0,8
+Nathan Lane,0,0,0,2,0,0,18
+Pierce Brosnan,0,0,0,2,0,0,42
+Bruce Weitz,0,0,0,2,0,0,2
+Dennis Quaid,0,0,0,2,0,0,45
+Gilbert Roland,0,0,0,2,0,0,4
+Bob Hope,0,0,0,2,0,0,1
+Tim Conway,0,0,0,2,0,1,5
+Ben Affleck,0,0,0,2,4,4,36
+Fred Savage,0,0,0,2,1,0,5
+David Janssen,0,0,0,2,0,0,4
+Yvette Mimieux,0,0,0,2,0,0,2
+Daniel Brühl,0,0,0,2,0,0,28
+Oscar Isaac,0,0,0,2,0,0,23
+Demi Moore,0,0,0,2,0,0,27
+Chris Noth,0,0,0,2,0,0,10
+David Spade,0,0,0,2,0,2,15
+Paul Mann,0,0,0,2,0,0,1
+Kyle MacLachlan,0,0,0,2,0,0,18
+Jason Lee,0,0,0,2,0,0,27
+Sandra Oh,0,0,0,2,0,0,17
+Elizabeth Perkins,0,0,0,2,0,0,15
+Dana Delaney,0,0,0,2,0,0,0
+Patricia Richardson,0,0,0,2,0,0,3
+Tom Skerritt,0,0,0,2,0,0,24
+David Oyelowo,0,0,0,2,0,0,16
+Taylor Schilling,0,0,0,2,0,0,5
+Lindsay Wagner,0,0,0,2,0,0,2
+Matthew Modine,0,0,0,2,0,0,25
+Susan Blakely,0,0,0,2,0,0,9
+Dick Van Dyke,0,0,0,2,0,0,8
+Kerry Washington,0,0,0,2,0,0,22
+Geraldine Chaplin,0,0,0,2,0,0,31
+Katherine Heigl,0,0,0,2,0,0,17
+Richard Thomas,0,0,0,2,0,0,3
+Ray Romano,0,0,0,2,0,0,7
+Ted Knight,0,0,0,2,0,0,1
+Jason Priestley,0,0,0,2,0,0,7
+Barbara Eden,0,0,0,2,0,0,1
+Kate Reid,0,0,0,2,0,0,4
+Dominic West,0,0,0,2,0,0,19
+Ruth Wilson,0,0,0,2,0,0,5
+Audra Lindley,0,0,0,2,0,0,8
+Will Geer,0,0,0,2,0,0,0
+Jimmie Walker,0,0,0,2,0,0,2
+Nancy Sinatra,0,0,0,2,0,0,1
+Hayden Panettiere,0,0,0,2,0,0,12
+Rupert Everett,0,0,0,2,0,0,19
+Lee Meriwether,0,0,0,2,0,0,3
+Jean Marsh,0,0,0,2,0,0,4
+Louis C.K.,0,0,0,2,1,2,6
+John Corbett,0,0,0,2,0,0,16
+Connie Britton,0,0,0,2,0,0,13
+Raquel Welch,0,0,0,2,0,0,5
+Shailene Woodley,0,0,0,2,0,0,8
+Juliet Mills,0,0,0,2,0,0,3
+Thomas Gibson,0,0,0,2,0,0,7
+Raymond Burr,0,0,0,2,0,0,7
+Faith Ford,0,0,0,2,0,0,1
+Garry Shandling,0,0,0,2,0,1,8
+John Frankenheimer,0,0,0,2,9,1,0
+Michael Moriarty,0,0,0,2,0,0,9
+Kristy McNichol,0,0,0,2,0,0,4
+Teri Hatcher,0,0,0,2,0,0,11
+Brett Butler,0,0,0,2,0,0,0
+Andy Kaufman,0,0,0,2,0,0,1
+Aziz Ansari,0,0,0,2,0,0,5
+Romola Garai,0,0,0,2,0,0,11
+George Hamilton,0,0,0,2,0,0,9
+Herschel Bernardi,0,0,0,2,0,0,2
+Gael García Bernal,0,0,0,2,0,0,18
+Robert Urich,0,0,0,2,0,0,1
+Edgar Ramírez,0,0,0,2,0,0,14
+Rachel Bloom,0,0,0,2,0,0,2
+Jeff Conway,0,0,0,2,0,0,0
+Gina Lollobrigida,0,0,0,2,0,0,4
+Bridget Fonda,0,0,0,2,0,0,21
+Dennis Franz,0,0,0,2,0,0,7
+Mariska Hargitay,0,0,0,2,0,0,3
+John Turturro,0,0,0,2,0,0,47
+Joanne Froggatt,0,0,0,2,0,0,5
+Rose Byrne,0,0,0,2,0,0,28
+Ray Sharkey,0,0,0,2,0,0,9
+Patrick Dempsey,0,0,0,2,0,0,15
+Paul Le Mat,0,0,0,2,0,0,6
+Edward Zwick,0,0,0,2,11,3,0
+Camryn Manheim,0,0,0,2,0,0,14
+Uzo Aduba,0,0,0,2,0,0,1
+John Mahoney,0,0,0,2,0,0,20
+Denis Leary,0,0,0,2,0,1,21
+Dolly Parton,0,0,0,2,0,0,5
+Tobias Menzies,0,0,0,2,0,0,4
+Will Ferrell,0,0,0,2,0,5,38
+William Shatner,0,0,0,2,1,1,18
+Ian McShane,0,0,0,2,0,0,21
+Alan Cumming,0,0,0,2,1,0,25
+Wendie Malick,0,0,0,1,0,0,8
+Ving Rhames,0,0,0,1,0,0,45
+Shekhar Kapur,0,0,0,1,3,0,1
+Christopher Reeve,0,0,0,1,1,0,11
+Jena Malone,0,0,0,1,0,0,19
+Nancy Marchand,0,0,0,1,0,0,4
+Thora Birch,0,0,0,1,0,0,11
+Kevin Anderson,0,0,0,1,0,0,12
+John Cusack,0,0,0,1,0,1,48
+Stephen Fry,0,0,0,1,1,3,19
+Jane Horrocks,0,0,0,1,0,0,9
+Susan Sullivan,0,0,0,1,0,0,2
+Joe Mantegna,0,0,0,1,0,0,29
+Sarah Michelle Gellar,0,0,0,1,0,0,13
+Björk,0,0,0,1,2,1,48
+Eriq La Salle,0,0,0,1,1,0,5
+Christina Ricci,0,0,0,1,0,0,27
+Jessica Alba,0,0,0,1,0,0,21
+Gloria Reuben,0,0,0,1,0,0,6
+Della Reese,0,0,0,1,0,0,5
+Brian Dennehy,0,0,0,1,0,0,25
+William O. Campbell,0,0,0,1,0,0,0
+István Szabó,0,0,0,1,4,2,0
+Jane Krakowski,0,0,0,1,0,0,13
+Joely Fisher,0,0,0,1,0,0,5
+Tom Sizemore,0,0,0,1,0,1,45
+Benicio del Toro,0,0,0,1,1,0,31
+"Deep End, The",0,0,0,1,0,0,0
+Masi Oka,0,0,0,1,0,0,5
+John Cameron Mitchell,0,0,0,1,4,3,3
+Martin Freeman,0,0,0,1,0,0,17
+Matt Bomer,0,0,0,1,0,0,7
+Colin Hanks,0,0,0,1,0,0,12
+Amy Schumer,0,0,0,1,0,1,5
+Paul Dano,0,0,0,1,0,0,21
+Sarah Hay,0,0,0,1,0,0,0
+Eva Green,0,0,0,1,0,0,13
+Wagner Moura,0,0,0,1,0,0,9
+Maura Tierney,0,0,0,1,0,0,13
+Judith Light,0,0,0,1,0,0,2
+Ben Mendelsohn,0,0,0,1,0,0,28
+Joel Edgerton,0,0,0,1,2,4,23
+Lily Collins,0,0,0,1,0,0,7
+Ryan Reynolds,0,0,0,1,0,0,31
+Aaron Taylor-Johnson,0,0,0,1,0,1,12
+Simon Helberg,0,0,0,1,0,0,6
+Michelle Monaghan,0,0,0,1,0,0,22
+Allison Tolman,0,0,0,1,0,0,5
+Ava DuVernay,0,0,0,1,4,2,0
+Sienna Miller,0,0,0,1,0,0,14
+Toby Jones,0,0,0,1,0,0,29
+Michelle Dockery,0,0,0,1,0,0,5
+Archie Panjabi,0,0,0,1,0,0,8
+Max Greenfield,0,0,0,1,0,0,6
+Danny Huston,0,0,0,1,1,0,34
+Julie Delpy,0,0,0,1,2,4,16
+Rebecca Ferguson,0,0,0,1,0,0,14
+Tatiana Maslany,0,0,0,1,0,0,11
+Michael Sheen,0,0,0,1,0,0,26
+Andy Samberg,0,0,0,1,0,1,14
+Monica Potter,0,0,0,1,0,0,12
+Corey Stoll,0,0,0,1,0,0,15
+Aaron Paul,0,0,0,1,0,0,14
+Josh Charles,0,0,0,1,0,0,9
+Riley Keough,0,0,0,1,0,0,9
+Tom Hiddleston,0,0,0,1,0,0,14
+Darren Criss,0,0,0,1,0,0,1
+Richard Madden,0,0,0,1,0,0,3
+Stephan James,0,0,0,1,0,0,4
+Kristen Bell,0,0,0,1,0,0,21
+Alex Borstein,0,0,0,1,0,0,11
+Yvonne Strahovski,0,0,0,1,0,0,7
+Ben Whishaw,0,0,0,1,0,0,17
+Awkwafina,0,0,0,1,0,0,6
+Beanie Feldstein,0,0,0,1,0,0,3
+Daniel Craig,0,0,0,1,0,0,26
+Roman Griffin Davis,0,0,0,1,0,0,0
+Kaitlyn Dever,0,0,0,1,0,0,5
+Joey King,0,0,0,1,0,0,13
+Merritt Wever,0,0,0,1,0,0,6
+Christopher Abbott,0,0,0,1,0,0,6
+Jared Harris,0,0,0,1,0,0,30
+Jodie Comer,0,0,0,1,0,0,1
+Kit Harington,0,0,0,1,0,0,8
+Phoebe Waller-Bridge,0,0,0,1,0,0,2
+Natasha Lyonne,0,0,0,1,0,0,21
+Ramy Youssef,0,0,0,1,0,0,0
+Ben Platt,0,0,0,1,0,0,4
+Paul Rudd,0,0,0,1,0,0,39
+Stellan Skarsgård,0,0,0,1,0,0,46
+Peter Farrelly,0,0,0,1,13,6,0
+Courtney B. Vance,0,0,0,1,0,0,16
+Tracee Ellis Ross,0,0,0,1,0,0,5
+Lena Headey,0,0,0,1,0,0,24
+Mandy Moore,0,0,0,1,0,0,15
+Ansel Elgort,0,0,0,1,0,0,9
+Armie Hammer,0,0,0,1,0,0,13
+Jessica Biel,0,0,0,1,0,0,27
+Lin-Manuel Miranda,0,0,0,1,0,0,3
+Katherine Langford,0,0,0,1,0,0,1
+Freddie Highmore,0,0,0,1,0,0,15
+Pamela Adlon,0,0,0,1,0,0,11
+Frankie Shaw,0,0,0,1,0,0,3
+Ann Dowd,0,0,0,1,0,0,19
+Alexander Skarsgård,0,0,0,1,0,0,14
+David Harbour,0,0,0,1,0,0,17
+Alfred Molina,0,0,0,1,0,0,46
+David Thewlis,0,0,0,1,0,0,26
+John David Washington,0,0,0,1,0,0,1
+Elsie Fisher,0,0,0,1,0,0,5
+Constance Wu,0,0,0,1,0,0,5
+Guy Pearce,0,0,0,1,0,0,33
+Peter Dinklage,0,0,0,1,0,0,23
+Johnny Galecki,0,0,0,1,0,0,11
+Michael Ealy,0,0,0,1,0,0,18
+Ben Shenkman,0,0,0,1,0,0,10
+Emmy Rossum,0,0,0,1,0,0,10
+Marc Forster,0,0,0,1,11,1,0
+Blythe Danner,0,0,0,1,0,0,28
+Mos Def,0,0,0,1,0,0,0
+Julian McMahon,0,0,0,1,0,0,9
+Drea de Matteo,0,0,0,1,0,0,7
+Nicollette Sheridan,0,0,0,1,0,0,6
+Oliver Platt,0,0,0,1,0,0,33
+Ziyi Zhang,0,0,0,1,0,0,15
+S. Epatha Merkerson,0,0,0,1,0,0,11
+Polly Walker,0,0,0,1,0,0,11
+Matthew Fox,0,0,0,1,0,0,7
+Wentworth Miller,0,0,0,1,0,2,4
+Eva Longoria,0,0,0,1,0,0,11
+Naveen Andrews,0,0,0,1,0,0,8
+Beyoncé,0,0,0,1,0,0,4
+Aaron Eckhart,0,0,0,1,0,0,30
+Kristin Davis,0,0,0,1,0,0,6
+Alicia Silverstone,0,0,0,1,0,0,17
+Bitty Schram,0,0,0,1,0,0,5
+Hayden Christensen,0,0,0,1,0,0,16
+Baz Luhrmann,0,0,0,1,4,3,0
+Hannah Taylor Gordon,0,0,0,1,0,0,2
+Barry Pepper,0,0,0,1,0,0,25
+Lauren Graham,0,0,0,1,0,0,12
+Tom Cavanagh,0,0,0,1,0,0,5
+Tammy Blanchard,0,0,0,1,0,0,11
+Ron Livingston,0,0,0,1,0,0,24
+Nia Vardalos,0,0,0,1,1,5,6
+Adam Sandler,0,0,0,1,0,9,33
+Reba McEntire,0,0,0,1,0,0,3
+Michael Gambon,0,0,0,1,0,0,34
+Linus Roache,0,0,0,1,0,0,15
+Parker Posey,0,0,0,1,0,0,24
+Dennis Haysbert,0,0,0,1,0,0,27
+Peter Sarsgaard,0,0,0,1,0,0,26
+Troy Garity,0,0,0,1,0,0,11
+Frances Conroy,0,0,0,1,0,0,22
+Amber Tamblyn,0,0,0,1,0,0,9
+Anthony LaPaglia,0,0,0,1,0,0,25
+William L. Petersen,0,0,0,1,0,0,0
+Matthew Perry,0,0,0,1,0,0,7
+Mireille Enos,0,0,0,1,0,0,3
+Ellen Pompeo,0,0,0,1,0,0,3
+Courteney Cox,0,0,0,1,0,0,14
+Jane Adams,0,0,0,1,0,0,22
+Michael Emerson,0,0,0,1,0,0,3
+Mila Kunis,0,0,0,1,0,0,20
+Jennifer Love Hewitt,0,0,0,1,0,0,11
+Hayley Atwell,0,0,0,1,0,0,12
+Piper Perabo,0,0,0,1,0,0,18
+Julia Stiles,0,0,0,1,0,0,27
+Chris Colfer,0,0,0,1,0,0,0
+Scott Caan,0,0,0,1,0,0,19
+Kristen Wiig,0,0,0,1,0,1,25
+Owen Wilson,0,0,0,1,0,3,43
+Hugh Bonneville,0,0,0,1,0,0,15
+Madeleine Stowe,0,0,0,1,0,0,15
+Callie Thorne,0,0,0,1,0,0,7
+Michael Stuhlbarg,0,0,0,1,0,0,16
+Tobey Maguire,0,0,0,1,0,0,16
+James Nesbitt,0,0,0,1,0,0,10
+Evangeline Lilly,0,0,0,1,0,0,6
+Justin Kirk,0,0,0,1,0,0,12
+James McAvoy,0,0,0,1,0,0,28
+Nikki Blonsky,0,0,0,1,0,0,3
+Joe Wright,0,0,0,1,6,0,1
+Tim Burton,0,0,0,1,19,4,0
+Bryce Dallas Howard,0,0,0,1,0,0,13
+Adam Beach,0,0,0,1,0,0,8
+Jason Isaacs,0,0,0,1,0,0,25
+Anna Friel,0,0,0,1,0,0,9
+Jaime Pressly,0,0,0,1,0,0,11
+Kevin Dillon,0,0,0,1,0,0,13
+Andy Serkis,0,0,0,1,1,0,26
+Rebecca Hall,0,0,0,1,0,0,14
+Gabriel Byrne,0,0,0,1,0,1,33
+Kevin Connolly,0,0,0,1,2,0,8
+Melissa George,0,0,0,1,0,0,13
+Eileen Atkins,0,0,0,1,0,0,13
+Lewis Gilbert,0,0,0,1,5,1,0
+Ugo Tognazzi,0,0,0,1,1,0,6
+Anne Heywood,0,0,0,1,0,0,2
+Phyllis Diller,0,0,0,1,0,0,4
+Christopher George,0,0,0,1,0,0,6
+Robert Culp,0,0,0,1,0,0,2
+Anouk Aimée,0,0,0,1,0,0,6
+John Saxon,0,0,0,1,0,0,12
+Jocelyn Lagarde,0,0,0,1,0,0,0
+Lionel Jeffries,0,0,0,1,2,1,5
+Quentin Dean,0,0,0,1,0,0,2
+Pruenella Ransome,0,0,0,1,0,0,0
+Brendon Boone,0,0,0,1,0,0,0
+Andy Williams,0,0,0,1,0,0,2
+Barbara Bain,0,0,0,1,0,0,3
+Beryl Reid,0,0,0,1,0,0,1
+Zero Mostel,0,0,0,1,0,0,0
+Barbara Hancock,0,0,0,1,0,0,0
+Abbey Lincoln,0,0,0,1,0,0,1
+Anne Francis,0,0,0,1,0,1,2
+Yvonne Elliman,0,0,0,1,0,0,0
+Dorothy Loudon,0,0,0,1,0,0,1
+Elizabeth Ashley,0,0,0,1,0,0,5
+Jean Seberg,0,0,0,1,0,0,2
+Rita Hayworth,0,0,0,1,0,0,2
+David McCallum,0,0,0,1,0,0,6
+Inger Stevens,0,0,0,1,0,0,4
+Lorne Greene,0,0,0,1,0,0,1
+Richard Boone,0,0,0,1,0,0,5
+E. G. Marshall,0,0,0,1,0,0,0
+Jill St. John,0,0,0,1,0,0,4
+Molly Picon,0,0,0,1,0,0,2
+Cyril Delevanti,0,0,0,1,0,0,2
+Gene Barry,0,0,0,1,0,0,3
+James Franciscus,0,0,0,1,0,0,5
+Julie Newmar,0,0,0,1,0,0,2
+Jerry Lewis,0,0,0,1,1,2,9
+Guy Green,0,0,0,1,0,0,2
+Don Adams,0,0,0,1,0,0,1
+Jane Morrow,0,0,0,1,0,0,0
+Ossie Davis,0,0,0,1,1,0,13
+Diana Rigg,0,0,0,1,0,0,4
+Sandy Duncan,0,0,0,1,0,0,4
+Twiggy,0,0,0,1,0,0,1
+Lynda Day George,0,0,0,1,0,0,3
+Art Garfunkel,0,0,0,1,0,0,1
+Tom Baker,0,0,0,1,0,0,0
+Dean Jones,0,0,0,1,1,1,3
+Bud Cort,0,0,0,1,0,0,12
+ Topol,0,0,0,1,0,2,7
+Malcolm McDowell,0,0,0,1,0,0,35
+Jessica Walter,0,0,0,1,0,0,7
+Lesley Warren,0,0,0,1,0,0,0
+Karen Valentine,0,0,0,1,0,0,2
+Milburn Stone,0,0,0,1,0,0,0
+Trish Van Devere,0,0,0,1,0,0,3
+Edward Albert,0,0,0,1,0,0,11
+Charles Grodin,0,0,0,1,0,0,14
+Marisa Berenson,0,0,0,1,0,0,9
+Helena Kallianiotes,0,0,0,1,0,0,1
+Alec McCowen,0,0,0,1,0,0,6
+Clive Revill,0,0,0,1,0,0,9
+Anne Jeffreys,0,0,0,1,0,0,1
+David Hartman,0,0,0,1,0,0,0
+Paul Lynde,0,0,0,1,0,0,0
+Ruth Buzzi,0,0,0,1,0,0,3
+Tige Andrews,0,0,0,1,0,0,1
+Zalman King,0,0,0,1,3,2,2
+Lloyd Haines,0,0,0,1,0,0,0
+Petula Clark,0,0,0,1,0,0,0
+Carl Betz,0,0,0,1,0,0,0
+Geneviève Bujold,0,0,0,1,0,0,14
+Marianne McAndrew,0,0,0,1,0,0,1
+Sian Phillips,0,0,0,1,0,0,0
+Mitch Vogel,0,0,0,1,0,0,0
+Charles Jarrott,0,0,0,1,4,0,0
+Jim Nabors,0,0,0,1,0,0,1
+Glen Campbell,0,0,0,1,0,0,3
+Kim Darby,0,0,0,1,0,0,2
+Danny Thomas,0,0,0,1,0,0,1
+Tina Chen,0,0,0,1,0,0,1
+Bob Rafelson,0,0,0,1,7,1,0
+David Frost,0,0,0,1,1,1,0
+Merv Griffin,0,0,0,1,0,0,0
+George Englund,0,0,0,1,0,0,0
+Hall Bartlett,0,0,0,1,0,0,0
+Ethel Merman,0,0,0,1,0,0,2
+Tom Ewell,0,0,0,1,0,0,2
+Richard Fleischer,0,0,0,1,6,0,0
+Cecil B. deMille,0,0,0,1,7,0,1
+Kurt Kasznar,0,0,0,1,0,0,2
+Millard Mitchell,0,0,0,1,0,0,4
+Eli Wallach,0,0,0,1,0,0,15
+Jacques Bergerac,0,0,0,1,0,0,2
+Machiko Kyo,0,0,0,1,0,0,0
+Kay Kendall,0,0,0,1,0,0,2
+Donald O'Connor,0,0,0,1,0,0,4
+J. Carroll Naish,0,0,0,1,0,0,0
+David Brian,0,0,0,1,0,0,3
+Harold Lloyd,0,0,0,1,0,0,1
+Betty Hutton,0,0,0,1,0,0,2
+Laslo Benedek,0,0,0,1,1,0,0
+June Allyson,0,0,0,1,0,0,3
+Cyd Charisse,0,0,0,1,0,0,4
+Louis Jourdan,0,0,0,1,0,0,6
+Gregory Rozakis,0,0,0,1,0,0,1
+Harold J. Stone,0,0,0,1,0,0,1
+Cesar Romero,0,0,0,1,0,0,4
+Ross Martin,0,0,0,1,0,0,1
+Tarita,0,0,0,1,0,0,2
+Kaye Stevens,0,0,0,1,0,0,1
+Martha Raye,0,0,0,1,0,0,2
+Gabriella Pallotta,0,0,0,1,0,0,1
+Jimmy Durante,0,0,0,1,0,0,1
+Susan Strasberg,0,0,0,1,0,0,1
+Morton DaCosta,0,0,0,1,2,0,0
+Polly Bergen,0,0,0,1,0,0,3
+Romy Schneider,0,0,0,1,0,0,5
+Alida Valli,0,0,0,1,0,0,5
+Marina Vlady,0,0,0,1,0,0,2
+Tom Tryon,0,0,0,1,0,0,0
+Stathis Giallelis,0,0,0,1,0,0,0
+Terry-Thomas,0,0,0,1,0,0,4
+Jonathan Winters,0,0,0,1,0,0,6
+Linda Marsh,0,0,0,1,0,0,0
+Liselotte Pulver,0,0,0,1,0,0,1
+Diane Baker,0,0,0,1,0,0,7
+Joan Greenwood,0,0,0,1,0,0,1
+Roddy McDowall,0,0,0,1,0,0,17
+Pauline Frederick,0,0,0,1,0,0,0
+John Daly,0,0,0,1,0,0,1
+David Ladd,0,0,0,1,0,0,1
+Mitzi Gaynor,0,0,0,1,0,0,3
+Estelle Hemsley,0,0,0,1,0,0,0
+Joseph Welch,0,0,0,1,0,0,0
+Nancy Kwan,0,0,0,1,0,0,2
+Ina Balin,0,0,0,1,0,0,0
+Anthony Mann,0,0,0,1,1,0,1
+Ray Stricklyn,0,0,0,1,0,0,1
+Woody Strode,0,0,0,1,0,0,5
+Lee Kinsolving,0,0,0,1,0,0,0
+Capucine,0,0,0,1,0,0,7
+Claudia McNeil,0,0,0,1,0,0,0
+Richard Beymer,0,0,0,1,0,0,1
+Fred MacMurray,0,0,0,1,0,0,6
+Pamela Tiffin,0,0,0,1,0,0,1
+Elena Verdugo,0,0,0,1,0,0,0
+JoBeth Williams,0,0,0,1,0,0,17
+Fred Schepisi,0,0,0,1,12,1,0
+Lou Diamond Phillips,0,0,0,1,0,0,17
+Diane Venora,0,0,0,1,0,0,17
+Alan Rachins,0,0,0,1,0,0,2
+Judd Nelson,0,0,0,1,0,0,16
+Brian McNamara,0,0,0,1,0,0,5
+John Larroquette,0,0,0,1,0,0,10
+Gordon Thomson,0,0,0,1,0,0,1
+Julia Duffy,0,0,0,1,0,0,3
+Allyce Beasley,0,0,0,1,0,0,5
+Ron Perlman,0,0,0,1,0,0,48
+Jackée Harry,0,0,0,1,0,0,0
+Swoosie Kurtz,0,0,0,1,0,0,16
+Barry Bostwick,0,0,0,1,0,0,10
+Lane Smith,0,0,0,1,0,0,14
+Mel Harris,0,0,0,1,0,0,5
+Ken Olin,0,0,0,1,0,0,0
+Stephanie Beacham,0,0,0,1,0,0,2
+Christopher Burke,0,0,0,1,0,0,0
+Gérard Depardieu,0,0,0,1,0,0,64
+Macaulay Culkin,0,0,0,1,0,0,11
+Hector Elizondo,0,0,0,1,0,0,22
+Alan Thicke,0,0,0,1,0,0,5
+Ted Neeley,0,0,0,1,0,0,0
+John James,0,0,0,1,0,0,2
+Ed Begley Jr.,0,0,0,1,0,0,24
+Lesley-Anne Down,0,0,0,1,0,0,7
+Inga Swenson,0,0,0,1,0,0,1
+Philip Michael Thomas,0,0,0,1,0,0,1
+Eric Stoltz,0,0,0,1,0,0,27
+R. Lee Ermey,0,0,0,1,0,0,29
+Griffin Dunne,0,0,0,1,1,0,17
+Ben Vereen,0,0,0,1,0,0,3
+Roxana Zal,0,0,0,1,0,0,3
+Matthew Broderick,0,0,0,1,0,0,27
+Linda Kozlowski ,0,0,0,1,0,0,0
+Ray Liotta,0,0,0,1,0,0,45
+Connie Sellecca,0,0,0,1,0,0,1
+William Devane,0,0,0,1,0,0,11
+Justine Bateman,0,0,0,1,0,0,1
+Ron Leibman,0,0,0,1,0,0,7
+Rachel Levin,0,0,0,1,0,0,0
+Jennifer Grey,0,0,0,1,0,0,12
+Annette O'Toole,0,0,0,1,0,0,5
+Suzanne Pleshette,0,0,0,1,0,0,1
+John Leguizamo,0,0,0,1,0,1,50
+Lisa Kudrow,0,0,0,1,0,0,17
+Daniel Benzali,0,0,0,1,0,0,8
+Charles S. Dutton,0,0,0,1,2,1,24
+Stephanie Zimbalist,0,0,0,1,0,0,0
+Fyvush Finkel,0,0,0,1,0,0,4
+Jane Leeves,0,0,0,1,0,0,3
+Liz Torres,0,0,0,1,0,0,4
+Leigh Taylor-Young,0,0,0,1,0,0,0
+Laura Leighton,0,0,0,1,0,0,2
+Irene Bedard,0,0,0,1,0,0,6
+Henry Thomas,0,0,0,1,0,0,23
+Courtney Love,0,0,0,1,0,0,6
+Madonna,0,0,0,1,2,2,15
+Marion Ross,0,0,0,1,0,0,1
+Cuba Gooding Jr.,0,0,0,1,0,0,33
+Isabella Rossellini,0,0,0,1,0,0,20
+Kristen Johnston,0,0,0,1,0,0,5
+Greta Scacchi,0,0,0,1,0,0,16
+Joey Lauren Adams,0,0,0,1,1,1,13
+Pam Grier,0,0,0,1,0,0,22
+Arnold Schwarzenegger,0,0,0,1,0,0,32
+Michael Jeter,0,0,0,1,0,0,17
+Ricky/Rick Schroder,0,0,0,1,0,0,0
+Patricia Wettig,0,0,0,1,0,0,3
+Sherilyn Fenn,0,0,0,1,0,0,9
+Barry Miller,0,0,0,1,0,0,6
+Terry Gilliam,0,0,0,1,12,8,3
+Lynn Whitfield,0,0,0,1,0,0,14
+Amanda Donohoe,0,0,0,1,0,0,3
+Sammi Davis-Voss,0,0,0,1,0,0,0
+Chris O'Donnell,0,0,0,1,0,0,17
+Theresa Saldana,0,0,0,1,0,0,5
+Philip Casnoff,0,0,0,1,0,0,1
+Regina Taylor,0,0,0,1,0,0,7
+Colm Meaney,0,0,0,1,0,0,30
+Penelope Ann Miller,0,0,0,1,0,0,23
+Andrew Davis,0,0,0,1,12,3,0
+David Caruso,0,0,0,1,0,0,13
+Cynthia Gibb,0,0,0,1,0,0,5
+Cecilia Peck,0,0,0,1,0,0,1
+Marla Gibbs,0,0,0,1,0,0,5
+Selma Diamond,0,0,0,1,0,0,1
+Sherman Hemsley,0,0,0,1,0,0,4
+Darleen Carr,0,0,0,1,0,0,3
+Leslie Uggams,0,0,0,1,0,0,1
+Adrienne Barbeau,0,0,0,1,0,0,9
+Kathleen Beller,0,0,0,1,0,0,1
+Anne Meara,0,0,0,1,0,0,6
+Josette Banzet,0,0,0,1,0,0,0
+Freddie Prinze,0,0,0,1,0,0,17
+Sammy Davis Jr.,0,0,0,1,0,0,4
+Dinah Shore,0,0,0,1,0,0,0
+Lee Majors,0,0,0,1,0,0,6
+Robert Conrad,0,0,0,1,0,0,2
+Cindy Williams,0,0,0,1,0,0,5
+Brad Davis,0,0,0,1,0,0,2
+Olivia Newton-John,0,0,0,1,0,0,4
+Chevy Chase,0,0,0,1,0,0,27
+Mona Washbourne,0,0,0,1,0,0,2
+Richard Hatch,0,0,0,1,0,0,3
+Michael Landon,0,0,0,1,3,2,0
+Suzanne Somers,0,0,0,1,0,0,0
+Norman Fell,0,0,0,1,0,0,8
+Lisa Eichhorn,0,0,0,1,0,1,4
+Richard Jordan,0,0,0,1,0,0,11
+Betty Garrett,0,0,0,1,0,0,1
+Carl Anderson,0,0,0,1,0,0,1
+Julie London,0,0,0,1,0,0,1
+Emily McLaughlin,0,0,0,1,0,0,0
+Dom De Luise,0,0,0,1,0,0,0
+McLean Stevenson,0,0,0,1,0,0,0
+Strother Martin,0,0,0,1,0,0,5
+Teresa Graves,0,0,0,1,0,0,1
+Esther Rolle,0,0,0,1,0,0,3
+Whitman Mayo,0,0,0,1,0,0,0
+Marty Feldman,0,0,0,1,0,0,3
+Marilyn Hassett,0,0,0,1,0,0,0
+John Cazale,0,0,0,1,0,0,5
+Barry Newman,0,0,0,1,0,0,5
+Johnny Carson,0,0,0,1,0,0,0
+Susan Howard,0,0,0,1,0,0,0
+Kris Kristofferson,0,0,0,1,0,0,32
+Jack Weston,0,0,0,1,0,0,7
+Marthe Keller,0,0,0,1,0,0,9
+Susan Clark,0,0,0,1,0,0,4
+Lionel Stander,0,0,0,1,0,0,4
+Linda Ronstadt,0,0,0,1,0,0,0
+Jennifer Beals,0,0,0,1,0,0,17
+Bonnie Bedelia,0,0,0,1,0,0,11
+Anson Williams,0,0,0,1,0,0,0
+Lorenzo Lamas,0,0,0,1,0,0,14
+Victoria Principal,0,0,0,1,0,0,1
+Robby Benson,0,0,0,1,1,1,8
+Philip Anglim,0,0,0,1,0,0,1
+Lucy Gutteridge,0,0,0,1,0,0,1
+Constantin Costa-Gavras,0,0,0,1,0,0,0
+Jim Metzler,0,0,0,1,0,0,7
+Barbara Carrera,0,0,0,1,0,0,9
+Joanna Pacula,0,0,0,1,0,0,11
+Kurt Russell,0,0,0,1,0,0,38
+Joanna Cassidy,0,0,0,1,0,0,19
+Victoria Tennant,0,0,0,1,0,1,2
+Bryan Brown,0,0,0,1,0,0,20
+Perry King,0,0,0,1,0,0,4
+Jeffrey Jones,0,0,0,1,0,0,22
+Sergio Leone,0,0,0,1,5,4,1
+Jane Curtin,0,0,0,1,0,0,8
+David Keith,0,0,0,1,1,1,26
+Lainie Kazan,0,0,0,1,0,0,15
+Scott Wilson,0,0,0,1,0,0,24
+Kate Mulgrew,0,0,0,1,0,0,3
+Erik Estrada,0,0,0,1,0,0,3
+Donna Pescow,0,0,0,1,0,0,1
+Wilfred Hyde-White,0,0,0,1,0,0,0
+David Doyle,0,0,0,1,0,0,3
+Nastassja Kinski,0,0,0,1,0,0,14
+Deborah Raffin,0,0,0,1,0,0,3
+Irene Cara,0,0,0,1,0,0,1
+Neil Diamond,0,0,0,1,0,0,1
+Lucie Arnaz,0,0,0,1,0,0,1
+Beverly D'Angelo,0,0,0,1,0,0,21
+Aileen Quinn,0,0,0,1,0,0,2
+Yoko Shimada,0,0,0,1,0,0,0
+Melissa Gilbert,0,0,0,1,0,0,0
+Wayne Rogers,0,0,0,1,0,0,4
+Geoffrey Lewis,0,0,0,1,0,0,28
+Howard E. Rollins Jr.,0,0,0,1,0,0,1
+Jaclyn Smith,0,0,0,1,0,0,0
+Morgan Fairchild,0,0,0,1,0,0,5
+Barbara Mandrell,0,0,0,1,0,0,0
+Lauren Tewes,0,0,0,1,0,0,1
+Danielle Brisebois,0,0,0,1,0,0,0
+Herve Villechaize,0,0,0,1,0,0,0
+Andrew Scott,0,0,0,1,0,0,10

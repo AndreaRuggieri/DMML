@@ -1,52 +1,50 @@
 import pickle
-import tkinter as tk
-from tkinter import ttk, messagebox
-from PIL import Image, ImageTk
+from tkinter import ttk
 import pandas as pd
 from sklearn.base import BaseEstimator, TransformerMixin
+import tkinter as tk
+from tkinter import messagebox, Toplevel
+from PIL import Image, ImageTk
 
-# Caricamento dei dati per i menu a tendina
 actors_df = pd.read_csv('Prizes_database/filtered_prizes.csv')
 awards_df = pd.read_csv('Prizes_database/filtered_prizes.csv')
-writers_df = pd.read_csv('writers.csv')
-directors_df = pd.read_csv('directors.csv')
-genres_df = pd.read_csv('genres.csv')
-production_companies_df = pd.read_csv('production_companies.csv')
-languages_df = pd.read_csv('languages.csv')
+writers_df = pd.read_csv('dataset/writers.csv')
+directors_df = pd.read_csv('dataset/directors.csv')
+genres_df = pd.read_csv('dataset/genres.csv')
+production_companies_df = pd.read_csv('dataset/production_companies.csv')
+languages_df = pd.read_csv('dataset/languages.csv')
 
-actor_list = actors_df['nominee'].dropna().unique().tolist()
-writer_list = writers_df['writer'].dropna().unique().tolist()
-director_list = directors_df['director'].dropna().unique().tolist()
+filtered_actors_df = actors_df[actors_df['actor_count'] != 0]
+filtered_writers_df = actors_df[actors_df['writer_count'] != 0]
+filtered_directors_df = actors_df[actors_df['director_count'] != 0]
+
+actor_list = filtered_actors_df['nominee'].dropna().unique().tolist()
+writer_list = filtered_writers_df['nominee'].dropna().unique().tolist()
+director_list = filtered_directors_df['nominee'].dropna().unique().tolist()
+
 genre_list = genres_df['genre'].dropna().unique().tolist()
 company_list = production_companies_df['company'].dropna().unique().tolist()
 language_list = languages_df['language'].dropna().unique().tolist()
 months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 
 def one_hot_encode_and_replace(df, column):
-    # Crea dummies dalla colonna categoriale
     dummies = pd.get_dummies(df[column], prefix=column)
 
-    # Unisci i dummies al DataFrame originale, sostituendo la colonna esistente
     for col in dummies.columns:
         df[col] = dummies[col]
 
-    # Rimuovi la colonna originale
     df.drop(columns=[column], inplace=True)
 
     return df
 
 def multi_value_one_hot(df, column):
-    # Crea dummies dalle stringhe separate da virgole
     s = df[column].str.get_dummies(sep=', ')
 
-    # Per ogni colonna generata, aggiungi o aggiorna i valori nel DataFrame originale
     for col in s.columns:
         prefixed_col = column + '_' + col
         if prefixed_col in df.columns:
-            # Se la colonna esiste già, aggiorna i valori
             df[prefixed_col] = df[prefixed_col] | s[col]
         else:
-            # Altrimenti, crea una nuova colonna
             df[prefixed_col] = s[col]
 
     return df
@@ -60,9 +58,7 @@ class DropOtherColumns(BaseEstimator, TransformerMixin):
         return self
 
     def transform(self, X):
-        # Trova i nomi delle colonne che iniziano con il prefisso specificato
         other_columns = [col for col in X.columns if col.startswith(self.prefix)]
-        # Rimuovi le colonne trovate
         return X.drop(columns=other_columns, errors='ignore')
 
 
@@ -70,13 +66,13 @@ class DropOtherColumns(BaseEstimator, TransformerMixin):
 with open('models/classification/AdaBoostClassifier.pkl', 'rb') as file:
     classifier=pickle.load(file)
 
-with open('models/regression/RandomForestRegressor.pkl', 'rb') as file:
+with open('models/regression/AdaBoostRegressor.pkl', 'rb') as file:
     regressor=pickle.load(file)
 
 class DynamicFieldsApp:
     def __init__(self, master):
         self.master = master
-        self.master.title("Predizione del Revenue Cluster")
+        self.master.title("CinemAI")
         self.master.rowconfigure(0, weight=1)
         self.master.columnconfigure(0, weight=1)
 
@@ -92,17 +88,16 @@ class DynamicFieldsApp:
         self.actor_frames = []
         self.writer_frames = []
         self.genre_frames = []
-        # Carica l'immagine
         self.load_image(main_frame)
 
         # Actor fields
-        ttk.Label(main_frame, text="Insert actor", anchor='w').grid(row=0, column=0, sticky='W')
-        self.add_actor_field(main_frame, removable=False, index=1)
+        ttk.Label(main_frame, text="Insert actor", anchor='w').grid(row=100, column=0, sticky='W')
+        self.add_actor_field(main_frame, removable=False, index=101)
 
         # Writer fields
         ttk.Label(main_frame, text="Insert writer", anchor='w').grid(row=200, column=0, sticky='W')
         self.add_writer_field(main_frame, removable=False, index=201)
-
+        #genre fields
         ttk.Label(main_frame, text="Insert genre", anchor='w').grid(row=300, column=0, sticky='W')
         self.add_genre_field(main_frame, removable=False, index=301)
 
@@ -120,9 +115,8 @@ class DynamicFieldsApp:
         self.update_predict_button_state()
 
     def load_image(self, parent):
-        # Carica l'immagine e posizionala nella finestra
-        image = Image.open('image.png')
-        image = image.resize((400, 600))
+        image = Image.open('imgs/image.png')
+        image = image.resize((600, 600))
         self.photo = ImageTk.PhotoImage(image)
         label = ttk.Label(parent, image=self.photo)
         label.grid(row=0, column=3, rowspan=1100, padx=20, pady=20, sticky='nsew')
@@ -165,7 +159,7 @@ class DynamicFieldsApp:
         self.month_cb.grid(row=1000, column=1, sticky='W')
 
         # Prediction button
-        self.predict_button = ttk.Button(parent, text="Predici", command=self.predict_revenue_cluster, state='disabled')
+        self.predict_button = ttk.Button(parent, text="Predict", command=self.predict_revenue_cluster, state='disabled')
         self.predict_button.grid(row=1100, columnspan=2, pady=10, sticky='W')
 
     def update_duration(self, val):
@@ -352,9 +346,44 @@ class DynamicFieldsApp:
                 prediction = "Medium-High"
             elif (prediction[0] == 2):
                 prediction = "High"
-            messagebox.showinfo("Prediction", f"The expected earnings of the movie are on the {prediction} end. The expected revenue is {revenue[0]}")
+            self.show_prediction(prediction, revenue)
         except ValueError as ve:
             messagebox.showerror("Input Error", str(ve))
+
+    def show_prediction(self, prediction, revenue):
+        new_window = Toplevel(self.master)
+        new_window.title("Prediction Result")
+        new_window.geometry("800x600")  # Set the window size to 800x600 pixels
+
+        frame = tk.Frame(new_window)
+        frame.pack()
+
+        cluster_label = tk.Label(frame, text="Movies in the same cluster:")
+        cluster_label.pack(side=tk.TOP)
+
+        fixed_height = 200
+        images = ["imgs/avengers.jpeg", "imgs/titanic.jpg", "imgs/starwars.jpeg"]
+        img_objects = []
+        for img in images:
+            image = Image.open(img)
+            width_percent = (fixed_height / float(image.size[1]))
+            new_width = int((float(image.size[0]) * float(width_percent)))
+            image = image.resize((new_width, fixed_height), Image.LANCZOS)  # Resize image to maintain proportions
+            img_object = ImageTk.PhotoImage(image)
+            img_objects.append(img_object)
+
+        # Display images
+        for img in img_objects:
+            label = tk.Label(frame, image=img)
+            label.pack(side=tk.LEFT, padx=10)
+
+        # Display message
+        message = f"The expected earnings of the movie are on the {prediction} end. The expected revenue is {revenue[0]}"
+        message_label = tk.Label(new_window, text=message)
+        message_label.pack(pady=20)
+
+        # Keep reference to image objects to prevent garbage collection
+        new_window.img_objects = img_objects
 
     def add_actor_field(self, parent, removable=True, index=1):
         if len(self.actor_frames) >= 10:
@@ -366,7 +395,7 @@ class DynamicFieldsApp:
         cb.grid(row=0, column=0, padx=5, pady=5, sticky='W')
         cb.bind("<<ComboboxSelected>>", self.check_conditions)
         add_button = ttk.Button(frame, text="Add",
-                                command=lambda: self.add_actor_field(parent, index=len(self.actor_frames) + 1))
+                                command=lambda: self.add_actor_field(parent, index=len(self.actor_frames) + 101))
         add_button.grid(row=0, column=1, padx=5)
 
         if removable:
@@ -487,63 +516,7 @@ class DynamicFieldsApp:
 
         return awards_info
 
-    def create_entry(self):
-        try:
-            duration = int(self.duration_label.cget("text"))
-            converted_budget = float(self.budget_label.cget("text").replace(",", ""))
-            director = self.director_cb.get()
-            genres = self.genre_cb.get().split(', ')
-            language = self.language_cb.get()
-            production_company = self.company_cb.get()
-            month_published = str(months.index(self.month_cb.get()) + 1)
 
-            actors = [frame.winfo_children()[0].get() for frame in self.actor_frames]
-            genre = [frame.winfo_children()[0].get() for frame in self.genre_frames]
-            writers = [frame.winfo_children()[0].get() for frame in self.writer_frames]
-
-            awards_info = self.get_awards_info(actors, director, writers)
-
-            genre_encoding = self.get_genre_encoding(genres)
-
-            entry = {
-                'duration': duration,
-                'converted_budget': converted_budget,
-                'dir_oscar_nomination': awards_info['dir_oscar_nomination'],
-                'writer_oscar_nomination': awards_info['writer_oscar_nomination'],
-                'cast_globe_nomination': awards_info['cast_globe_nomination'],
-                'BAFTA_act_nom': awards_info['BAFTA_act_nom'],
-                'BAFTA_dir_nom': awards_info['BAFTA_dir_nom'],
-                'BAFTA_writer_nom': awards_info['BAFTA_writer_nom'],
-                'dir_emmy_nom': awards_info['dir_emmy_nom'],
-                'writer_emmy_nom': awards_info['writer_emmy_nom'],
-                'act_emmy_nom': awards_info['act_emmy_nom'],
-                'actors_films_before': awards_info['actors_films_before'],
-                'director_films_before': awards_info['director_films_before'],
-                'writers_films_before': awards_info['writers_films_before'],
-                'language': language,
-                'production_company': production_company,
-                'month_published': month_published,
-                'revenue_cluster': ''  # Placeholder, update based on your logic
-            }
-            entry.update(genre_encoding)
-
-            # Convert to DataFrame for better visualization
-            entry_df = pd.DataFrame([entry])
-
-            # Show the entry in a message box
-            # messagebox.showinfo("Generated Entry", entry_df.to_string(index=False))
-
-        except ValueError as ve:
-            messagebox.showerror("Input Error", str(ve))
-
-    def get_genre_encoding(self, genres):
-        all_genres = ['Action', 'Adult', 'Adventure', 'Animation', 'Biography', 'Comedy', 'Crime', 'Documentary', 'Drama',
-                      'Family', 'Fantasy', 'Film-Noir', 'History', 'Horror', 'Music', 'Musical', 'Mystery', 'Romance',
-                      'Sci-Fi', 'Sport', 'Thriller', 'War', 'Western']
-        genre_encoding = {f'genre_{genre}': 0 for genre in all_genres}
-        for genre in genres:
-            genre_encoding[f'genre_{genre}'] = 1
-        return genre_encoding
 
 root = tk.Tk()
 app = DynamicFieldsApp(root)
