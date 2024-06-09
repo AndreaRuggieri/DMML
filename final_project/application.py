@@ -373,9 +373,9 @@ class DynamicFieldsApp:
             img_objects.append(img_object)
 
         # Display images
-        for img in img_objects:
+        '''for img in img_objects:
             label = tk.Label(frame, image=img)
-            label.pack(side=tk.LEFT, padx=10)
+            label.pack(side=tk.LEFT, padx=10)'''
 
         # Display message
         message = f"The expected earnings of the movie are on the {prediction} end. The expected revenue is {revenue[0]}"
